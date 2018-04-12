@@ -1,0 +1,12 @@
+{
+  "name": "template-make-reservation-prepaid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "template-make-reservation-prepaid.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mjml": "^4.0.3"
+  }
+}
