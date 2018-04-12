@@ -15,22 +15,15 @@ If you're here, it means a few things.
 
 ### Getting Started
 
-The work to be done is to convert three(3) Figma design files into HTML email templates.
+The work to be done is to convert three(3) Figma design files into responsive HTML email templates.
 
 > It is important that you know that normal HTML is different from HTML for emails. However, fret not. A good chunk of your existing HTML knowledge still applies.
 
-#### Figma design file 1
+#### Figma design file 1(https://res.cloudinary.com/mclint-cdn/image/upload/v1523521664/make_reservation_prepaid.svg)
 
-![designfile1](https://res.cloudinary.com/mclint-cdn/image/upload/v1523521664/make_reservation_prepaid.svg)
-<br>
+#### Figma design file 2 (https://res.cloudinary.com/mclint-cdn/image/upload/v1523521676/Make_Reservation_Pay_on_arrival.svg)
 
-#### Figma design file 2 ![designfile2](https://res.cloudinary.com/mclint-cdn/image/upload/v1523521676/Make_Reservation_Pay_on_arrival.svg)
-
-<br>
-#### Figma design file 3
-![designfile3](https://res.cloudinary.com/mclint-cdn/image/upload/v1523522108/Issue_with_reservation_Client.png)
-
-### Contributing
+#### Figma design file 3(https://res.cloudinary.com/mclint-cdn/image/upload/v1523522108/Issue_with_reservation_Client.png)
 
 1.  You <strong>must</strong> create a new branch for every template you make. Your branch's name must follow the provided format in the table below.
 
@@ -42,4 +35,17 @@ The work to be done is to convert three(3) Figma design files into HTML email te
 
 2.  In your newly created branch create a folder with a name that matches the branch name in the root folder and put your work inside there. Please do not touch anything else in the root folder.
 
-3.  When you're done with the HTML email template, create a pull request. I will check that your template is responsive, matches the design and does not conflict with any other team mate's additions and then merge your branch with master.
+3.  When you're done with the HTML email template, create a pull request. DM me in the #project-email channel @mclint\_, I will check that your template is responsive, matches the design and does not conflict with any other team mate's additions and then merge your branch with master.
+
+### Suggestions
+
+If you are having a hard time coding the email templates, try using MJML.
+MJML is a markup language designed to reduce the pain of coding a responsive email. Its semantic syntax makes it easy and straightforward and its rich standard components library speeds up your development time and lightens your email codebase. MJML’s open-source engine generates high quality responsive HTML compliant with best practices.
+
+###### MJML documentation
+
+> https://mjml.io/documentation
+
+###### MJML live editor
+
+> https://mjml.io/try-it-live
