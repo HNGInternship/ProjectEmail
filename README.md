@@ -18,19 +18,20 @@ If you're here, it means a few things.
 1.  You <strong>must</strong> create a new branch for every action you make on the repository.
 2.  You <strong>must</strong> create a new branch for every HTML email template you create. Your branch's name must follow the provided format in the table below.
 
-| Branch name                              | Design                            | Who is working on it | Status     |
-| ---------------------------------------- | --------------------------------- | -------------------- | ---------- |
-| template-make-reservation-prepaid        | Make reservation (Prepaid)        | @calebikhuohon       | Assigned |
-| template-make-reservation-pay-on-arrival | Make reservation (Pay-on-arrival) | @philix              | Assigned |
-| template-issue-with-reservation          | Issue with reservation (Client)   | @nellybaz10          | Assigned |
+| Branch name                              | Design                            | Who is working on it | Status      |
+| ---------------------------------------- | --------------------------------- | -------------------- | ----------- |
+| template-make-reservation-prepaid        | Make reservation (Prepaid)        | @calebikhuohon       | In progress |
+| template-make-reservation-pay-on-arrival | Make reservation (Pay-on-arrival) | @Philix              | In progress |
+| template-issue-with-reservation          | Issue with reservation (Client)   | @nellybaz10          | In progress |
 
-2.  In your newly created branch create a folder with a name that matches the branch name in the root folder and put your work inside there. Please do not touch anything else in the root folder.
+3.  In your newly created branch create a folder with a name that matches the branch name in the root folder and put your work inside there. Please do not touch anything else in the root folder.
 
-3.  When you're done with the HTML email template, create a pull request. DM me in the #project-email channel @mclint\_, I will check that your template is responsive, matches the design and does not conflict with any other team mate's additions and then merge your branch with master.
+4.  When you're done with the HTML email template, create a pull request. DM me in the #project-email channel @mclint\_, I will check that your template is responsive, matches the design and does not conflict with any other team mate's additions and then merge your branch with master.
 
 ### Suggestions
 
 If you are having a hard time coding the email templates, try using <strong>MJML</strong>.
+<br>
 MJML is a markup language designed to reduce the pain of coding a responsive email. Its semantic syntax makes it easy and straightforward and its rich standard components library speeds up your development time and lightens your email codebase. MJML’s open-source engine generates high quality responsive HTML compliant with best practices.
 
 ###### MJML documentation
@@ -41,16 +42,21 @@ MJML is a markup language designed to reduce the pain of coding a responsive ema
 
 > https://mjml.io/try-it-live
 
-### Getting Started
+<strong>NB:</strong> If you do use MJML make sure what you commit to the repository is the generated HTML file.
 
-The work to be done is to convert three(3) Figma design files into responsive HTML email templates.
+### Design files
 
-> It is important that you know that normal HTML is different from HTML for emails. However, fret not. A good chunk of your existing HTML knowledge still applies.
+#### Make reservation (prepaid)
 
-![image](https://res.cloudinary.com/mclint-cdn/image/upload/v1523521664/make_reservation_prepaid.svg)
-Figma design file 1
+##### Desktop
 
-![image2](https://res.cloudinary.com/mclint-cdn/image/upload/v1523521676/Make_Reservation_Pay_on_arrival.svg)
+![image][https://github.com/hnginternship/projectemail/blob/master/mockups/make%20reservation%20(prepaid).png]
+
+##### Mobile
+
+![image][https://github.com/hnginternship/projectemail/blob/master/mockups/mobile%20size%20(pre-paid).png]
+
+![image2][https://res.cloudinary.com/mclint-cdn/image/upload/v1523521676/make_reservation_pay_on_arrival.svg]
 Figma design file 2
 
-![image3](https://res.cloudinary.com/mclint-cdn/image/upload/v1523522108/Issue_with_reservation_Client.png)
+![image3][https://res.cloudinary.com/mclint-cdn/image/upload/v1523522108/issue_with_reservation_client.png]
