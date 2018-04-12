@@ -25,13 +25,15 @@ The work to be done is to convert three(3) Figma design files into responsive HT
 
 #### Figma design file 3(https://res.cloudinary.com/mclint-cdn/image/upload/v1523522108/Issue_with_reservation_Client.png)
 
+### Important contribution guidelines
+
 1.  You <strong>must</strong> create a new branch for every template you make. Your branch's name must follow the provided format in the table below.
 
 | Branch name                              | Design                            | Who is working on it | Status     |
 | ---------------------------------------- | --------------------------------- | -------------------- | ---------- |
 | template-make-reservation-prepaid        | Make reservation (Prepaid)        |                      | Unassigned |
 | template-make-reservation-pay-on-arrival | Make reservation (Pay-on-arrival) |                      | Unassigned |
-| template-issue-with-reservation          | Issue with reservation (Client)   |  @nellybaz10         | Unassigned |
+| template-issue-with-reservation          | Issue with reservation (Client)   | @nellybaz10          | Unassigned |
 
 2.  In your newly created branch create a folder with a name that matches the branch name in the root folder and put your work inside there. Please do not touch anything else in the root folder.
 
