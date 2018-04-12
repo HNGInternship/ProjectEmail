@@ -50,13 +50,28 @@ MJML is a markup language designed to reduce the pain of coding a responsive ema
 
 ##### Desktop
 
-![image][https://github.com/hnginternship/projectemail/blob/master/mockups/make%20reservation%20(prepaid).png]
+![image](https://res.cloudinary.com/mclint-cdn/image/upload/v1523521664/Make_Reservation_Prepaid.svg)
 
 ##### Mobile
 
-![image][https://github.com/hnginternship/projectemail/blob/master/mockups/mobile%20size%20(pre-paid).png]
+![image](https://res.cloudinary.com/mclint-cdn/image/upload/v1523521874/mobile_size_1.svg)
 
-![image2][https://res.cloudinary.com/mclint-cdn/image/upload/v1523521676/make_reservation_pay_on_arrival.svg]
-Figma design file 2
+#### Make reservation (Pay-on-arrival)
 
-![image3][https://res.cloudinary.com/mclint-cdn/image/upload/v1523522108/issue_with_reservation_client.png]
+##### Desktop
+
+![image](https://res.cloudinary.com/mclint-cdn/image/upload/v1523521881/mobile_size_2.png)
+
+##### Mobile
+
+![image](https://res.cloudinary.com/mclint-cdn/image/upload/v1523521619/mobile_size.svg)
+
+#### Issue with reservation (Client)
+
+##### Desktop
+
+![image3](https://res.cloudinary.com/mclint-cdn/image/upload/v1523522108/issue_with_reservation_client.png)
+
+##### Mobile
+
+![image](https://res.cloudinary.com/mclint-cdn/image/upload/v1523521881/mobile_size_2.png)
