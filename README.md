@@ -19,12 +19,15 @@ The work to be done is to convert three(3) Figma design files into HTML email te
 
 > It is important that you know that normal HTML is different from HTML for emails. However, fret not. A good chunk of your existing HTML knowledge still applies.
 
-Figma design file 1
+#### Figma design file 1
+
 ![designfile1](https://res.cloudinary.com/mclint-cdn/image/upload/v1523521664/make_reservation_prepaid.svg)
 <br>
-Figma design file 2 ![designfile2](https://res.cloudinary.com/mclint-cdn/image/upload/v1523521676/Make_Reservation_Pay_on_arrival.svg)
+
+#### Figma design file 2 ![designfile2](https://res.cloudinary.com/mclint-cdn/image/upload/v1523521676/Make_Reservation_Pay_on_arrival.svg)
+
 <br>
-Figma design file 3
+#### Figma design file 3
 ![designfile3](https://res.cloudinary.com/mclint-cdn/image/upload/v1523522108/Issue_with_reservation_Client.png)
 
 ### Contributing
