@@ -15,13 +15,16 @@ If you're here, it means a few things.
 
 ### Getting Started
 
-The work to be done is to convert the contents of two(2) Figma design files into HTML email templates.
+The work to be done is to convert three(3) Figma design files into HTML email templates.
 
 > It is important that you know that normal HTML is different from HTML for emails. However, fret not. A good chunk of your existing HTML knowledge still applies.
 
-Figma design file 1 > https://www.figma.com/file/crVkECZ3V9eyomXeFZ7nQV/Make-reservation-(Hotel)
+Figma design file 1 > https://res.cloudinary.com/mclint-cdn/image/upload/v1523521664/Make_Reservation_Prepaid.svg
 <br>
-Figma design file 2 > https://www.figma.com/file/fzOLC1Ho13KeBf89LbZzmOFP/Issue-with-reservation-(Client)
+Figma design file 2 > https://res.cloudinary.com/mclint-cdn/image/upload/v1523521676/Make_Reservation_Pay_on_arrival.svg
+<br>
+Figma design file 3 >
+https://res.cloudinary.com/mclint-cdn/image/upload/v1523522108/Issue_with_reservation_Client.png
 
 ### Contributing
 
