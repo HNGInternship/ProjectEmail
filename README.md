@@ -13,23 +13,10 @@ If you're here, it means a few things.
 5.  You've submitted your repository for review to any of the assistants in the <strong>#project-email</strong> channel.
 6.  An assistant has reviewed your work and added you to the internal <strong>#project-email</strong> team spreadsheet.
 
-### Getting Started
+### Important repository guidelines
 
-The work to be done is to convert three(3) Figma design files into responsive HTML email templates.
-
-> It is important that you know that normal HTML is different from HTML for emails. However, fret not. A good chunk of your existing HTML knowledge still applies.
-
-#### Figma design file 1![image1](https://res.cloudinary.com/mclint-cdn/image/upload/v1523521664/make_reservation_prepaid.svg)
-
-#### Figma design file 2 ![image2](https://res.cloudinary.com/mclint-cdn/image/upload/v1523521676/Make_Reservation_Pay_on_arrival.svg)
-
-#### Figma design file 3
-
-![image3](https://res.cloudinary.com/mclint-cdn/image/upload/v1523522108/Issue_with_reservation_Client.png)
-
-### Important contribution guidelines
-
-1.  You <strong>must</strong> create a new branch for every template you make. Your branch's name must follow the provided format in the table below.
+1.  You <strong>must</strong> create a new branch for every action you make on the repository.
+2.  You <strong>must</strong> create a new branch for every HTML email template you create. Your branch's name must follow the provided format in the table below.
 
 | Branch name                              | Design                            | Who is working on it | Status     |
 | ---------------------------------------- | --------------------------------- | -------------------- | ---------- |
@@ -43,7 +30,7 @@ The work to be done is to convert three(3) Figma design files into responsive HT
 
 ### Suggestions
 
-If you are having a hard time coding the email templates, try using MJML.
+If you are having a hard time coding the email templates, try using <strong>MJML</strong>.
 MJML is a markup language designed to reduce the pain of coding a responsive email. Its semantic syntax makes it easy and straightforward and its rich standard components library speeds up your development time and lightens your email codebase. MJML’s open-source engine generates high quality responsive HTML compliant with best practices.
 
 ###### MJML documentation
@@ -53,3 +40,17 @@ MJML is a markup language designed to reduce the pain of coding a responsive ema
 ###### MJML live editor
 
 > https://mjml.io/try-it-live
+
+### Getting Started
+
+The work to be done is to convert three(3) Figma design files into responsive HTML email templates.
+
+> It is important that you know that normal HTML is different from HTML for emails. However, fret not. A good chunk of your existing HTML knowledge still applies.
+
+![image](https://res.cloudinary.com/mclint-cdn/image/upload/v1523521664/make_reservation_prepaid.svg)
+Figma design file 1
+
+![image2](https://res.cloudinary.com/mclint-cdn/image/upload/v1523521676/Make_Reservation_Pay_on_arrival.svg)
+Figma design file 2
+
+![image3](https://res.cloudinary.com/mclint-cdn/image/upload/v1523522108/Issue_with_reservation_Client.png)
