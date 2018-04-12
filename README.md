@@ -31,7 +31,7 @@ The work to be done is to convert three(3) Figma design files into responsive HT
 | ---------------------------------------- | --------------------------------- | -------------------- | ---------- |
 | template-make-reservation-prepaid        | Make reservation (Prepaid)        |                      | Unassigned |
 | template-make-reservation-pay-on-arrival | Make reservation (Pay-on-arrival) |                      | Unassigned |
-| template-issue-with-reservation          | Issue with reservation (Client)   |                      | Unassigned |
+| template-issue-with-reservation          | Issue with reservation (Client)   |  @nellybaz10         | Unassigned |
 
 2.  In your newly created branch create a folder with a name that matches the branch name in the root folder and put your work inside there. Please do not touch anything else in the root folder.
 
