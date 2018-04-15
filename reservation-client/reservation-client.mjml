@@ -1,8 +1,6 @@
 <mjml>
   <mj-head>
-    <mj-attributes>
-      <mj-class name="underline" text-decoration='underline' \>
-    </mj-attributes>
+    <mj-title>Reservation (Client)</mj-title>
   </mj-head>
 
   <mj-body background-color="#fbf9f9">
