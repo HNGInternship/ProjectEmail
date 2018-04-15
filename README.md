@@ -36,35 +36,131 @@ MJML is a markup language designed to reduce the pain of coding a responsive ema
 ### Tasks
 | Task                                     | Branch Name                       | Developer            | Reviewer    | Links  |
 | ---------------------------------------- | --------------------------------- | -------------------- | ----------- |--------|
-| Reservation (Client)                     | reservation-client                | @justiceotuya        | @nedy       |        |
-| Reservation (Client) - Prepaid           | reservation-client-prepaid        | @nedy                |             |        |
-| Make Reservation - Prepaid               | make-reservation-pay-on-arrival   | @Pearl               |             |        |
-| Make Reservation - Pay on arrival        | make-reservation-prepaid          |                      |             |        |
-| Issue with Reservation (Client)          | issue-with -reservation-client    |                      |             |        |
-| Reservation Confirmed (Client            | reservation-confirmed-client      |                      |             |        |
-| Reservation Confirmed (Client) -Prepaid  | reservation-confirmed-client-prepaid|                    |             |        |
-| Slight Delay in booking (Client)         | slight-delay-client               |                      |             |        |
-| Client Cancelled                         | client-cancelled                  |                      | @nellybaz10 |        |
-| Hotel has been shut down (Client)        | hotel-shut-down-client            | @nseetim             | @justiceotuya|       |
-| Hotel has been shut down (Client)-Prepaid| hotel-shut-down-client-prepaid    |                      |             |        |
-| Requested Room Unavailable (Client)      | requested-room-unavailable-client | @nellybaz10          | @nseetim    |        |
-| Fully booked (Client)                    | fully-booked-client               |                      |             |        |
+| Reservation (Client)                     | reservation-client                | @justiceotuya        | @nedy       |  
+https://res.cloudinary.com/teexee19/image/upload/v1523723556/Reservation%20is%20being%20processed%28client%29/Reservation.png ;
+https://res.cloudinary.com/teexee19/image/upload/v1523723555/Reservation%20is%20being%20processed%28client%29/mobile_size_reservation_processed.png ;
+https://www.figma.com/file/EScD1TxAH8gILZKSXRFVIwtM/Reservation-is-being-processed-(Client)
+      |
+| Reservation (Client) - Prepaid           | reservation-client-prepaid        | @nedy                |             |  https://res.cloudinary.com/teexee19/image/upload/v1523723556/Reservation%20is%20being%20processed%28client%29/Reservation-1.png ;
+https://res.cloudinary.com/teexee19/image/upload/v1523723555/Reservation%20is%20being%20processed%28client%29/mobile_size_prepaid_reservation_processed.png ;
+https://www.figma.com/file/EScD1TxAH8gILZKSXRFVIwtM/Reservation-is-being-processed-(Client)      |
+| Make Reservation - Prepaid               | make-reservation-pay-on-arrival   | @Pearl               |             | https://res.cloudinary.com/teexee19/image/upload/v1523819875/Make%20reservation/Make_Reservation_Prepaid.png ; https://res.cloudinary.com/teexee19/image/upload/v1523819876/Make%20reservation/mobile_size_Pre-paid.png ;
+https://www.figma.com/file/crVkECZ3V9eyomXeFZ7nQV/Make-reservation-Hotel       |
+| Make Reservation - Pay on arrival        | make-reservation-prepaid          |                      |             | https://res.cloudinary.com/teexee19/image/upload/v1523819882/Make%20reservation/mobile_size_Pay_on_arrival.png ;
+https://res.cloudinary.com/teexee19/image/upload/v1523819876/Make%20reservation/Make_Reservation_Pay_on_arrival.png ;
+https://www.figma.com/file/crVkECZ3V9eyomXeFZ7nQV/Make-reservation-Hotel       |
+| Issue with Reservation (Client)          | issue-with -reservation-client    |                      |             |https://res.cloudinary.com/teexee19/image/upload/v1523819904/Make%20reservation/Issue_with_reservation_Client.png ;
+https://res.cloudinary.com/teexee19/image/upload/v1523819877/Make%20reservation/mobile_size_Issue_with_reservation.png ;
+https://www.figma.com/file/crVkECZ3V9eyomXeFZ7nQV/Make-reservation-Hotel        |
+| Reservation Confirmed (Client            | reservation-confirmed-client      |                      |             | 
+https://res.cloudinary.com/teexee19/image/upload/v1523723523/Reservation%20Confirmation/Reservation_confirmed_Client.png ; 
+https://res.cloudinary.com/teexee19/image/upload/v1523723523/Reservation%20Confirmation/mobile_size_Reservation_confirmed.png ;
+https://www.figma.com/file/NBqefPVlbur8kW2EfgYmfR5Q/Reservation-confirmed-(Client)
+|
+| Reservation Confirmed (Client) -Prepaid  | reservation-confirmed-client-prepaid|                    |             | 
+https://res.cloudinary.com/teexee19/image/upload/v1523723523/Reservation%20Confirmation/Prepaid.png ;
+https://res.cloudinary.com/teexee19/image/upload/v1523723523/Reservation%20Confirmation/mobile_size-1_reservation_confirmed.png ;
+https://www.figma.com/file/NBqefPVlbur8kW2EfgYmfR5Q/Reservation-confirmed-(Client)
+       |
+| Slight Delay in booking (Client)         | slight-delay-client               |                      |             |  
+https://res.cloudinary.com/teexee19/image/upload/v1523723629/Slight%20delay%20in%20booking%28client%29/slight_delay.png ;
+https://res.cloudinary.com/teexee19/image/upload/v1523723628/Slight%20delay%20in%20booking%28client%29/mobile_size.png ;
+https://www.figma.com/file/ZVdrXvyj1xoYXPxPWFPF1uwG/Slight-delay-in-booking(client)
+      |
+| Client Cancelled                         | client-cancelled                  |                      | @nellybaz10 |
+https://res.cloudinary.com/teexee19/image/upload/v1523725101/Cancellation%20Request/client_cancelled.png ;
+https://res.cloudinary.com/teexee19/image/upload/v1523725101/Cancellation%20Request/mobile_size_client_cancelled.png ;
+https://www.figma.com/file/M4WwbnK3MmyIEaTSiuf1SGmZ/cancelation-requests
+        |
+| Hotel has been shut down (Client)        | hotel-shut-down-client            | @nseetim             | @justiceotuya| 
+https://res.cloudinary.com/teexee19/image/upload/v1523723415/Hotel%20has%20been%20shut%20down%20%28client%29/hotel_has_been_shutdown.png ;
+https://res.cloudinary.com/teexee19/image/upload/v1523723415/Hotel%20has%20been%20shut%20down%20%28client%29/mobile_size_hotel_shut_down.png ;
+https://www.figma.com/file/cptnHmPUxqluT4eCMjP2fl32/Hotel-has-been-shut-down-(client)
+
+
+     |
+| Hotel has been shut down (Client)-Prepaid| hotel-shut-down-client-prepaid    |                      |             |https://res.cloudinary.com/teexee19/image/upload/v1523723416/Hotel%20has%20been%20shut%20down%20%28client%29/prepaid.png ;
+https://res.cloudinary.com/teexee19/image/upload/v1523723416/Hotel%20has%20been%20shut%20down%20%28client%29/mobile_size-1_hotel_shut_down.png ;
+ https://www.figma.com/file/cptnHmPUxqluT4eCMjP2fl32/Hotel-has-been-shut-down-(client)       |
+| Requested Room Unavailable (Client)      | requested-room-unavailable-client | @nellybaz10          | @nseetim    | 
+https://res.cloudinary.com/teexee19/image/upload/v1523725101/Cancellation%20Request/requested_room_unavailable-1.png ;
+https://res.cloudinary.com/teexee19/image/upload/v1523725101/Cancellation%20Request/mobile_size_room_unavailable.png ;
+https://www.figma.com/file/M4WwbnK3MmyIEaTSiuf1SGmZ/cancelation-requests
+|
+| Fully booked (Client)                    | fully-booked-client               |                      |             | 
+https://res.cloudinary.com/teexee19/image/upload/v1523723366/fully%20booked/fully_booked.png ;
+https://res.cloudinary.com/teexee19/image/upload/v1523723366/fully%20booked/mobile_size_fully_booked.png ;
+https://www.figma.com/file/aX7ldoqF3jHZUq5PUhMHdGf5/fully-booked
+
+
+       |
 | Payment Received (Client)                | payment-received-client           |                      |             |        |
 | Payment Received (Hotel)                 | payment-received-hotel            |                      | @philix     |        |
 | Still Checking In (Client)               | still-checking-in-client          |                      |             |        |
 | Still Checking In (Hotel)                | still-checking-in-hotel           |                      |             |        |
-| Check In Details (Hotel)-Prepaid         | checkin-details-hotel-prepaid     |@philix               | @Luthfulahi |        |
-| Check In Details (Hotel)                 | checkin-details-hotel             |                      |             |        |
-| Check In Details (Client) - Payable      | checkin-details-client-payable    |@Luthfulahi           |             |        |
-| Checking In Today (Hotel)                | checking-in-today-hotel           |                      |             |        |
-| Checking In Today (Client) - Prepaid     | checking-in-today-client-prepaid  |                      |             |        |
+| Check In Details (Hotel)-Prepaid         | checkin-details-hotel-prepaid     |@philix               | @Luthfulahi |
+https://res.cloudinary.com/teexee19/image/upload/v1523723390/HERE%20ARE%20YOUR%20DETAILS%20FOR%20YOUR%20CHECK-IN%20AT%20%24Hotel_name/prepaid_HERE_ARE_YOUR_DETAILS_FOR_YOUR_CHECK-IN_AT_Hotel_name.png ;
+https://res.cloudinary.com/teexee19/image/upload/v1523723390/HERE%20ARE%20YOUR%20DETAILS%20FOR%20YOUR%20CHECK-IN%20AT%20%24Hotel_name/mobile_size-1.png ;
+https://www.figma.com/file/KlyAcSnLxG7e92hB8nPaiEqo/HERE-ARE-YOUR-DETAILS-FOR-YOUR-CHECK-IN-AT-%24Hotel_name
+        |
+| Check In Details (Hotel)                 | checkin-details-hotel             |                      |             |
+https://res.cloudinary.com/teexee19/image/upload/v1523723390/HERE%20ARE%20YOUR%20DETAILS%20FOR%20YOUR%20CHECK-IN%20AT%20%24Hotel_name/client_will_be_checking_in.png ;
+https://res.cloudinary.com/teexee19/image/upload/v1523723391/HERE%20ARE%20YOUR%20DETAILS%20FOR%20YOUR%20CHECK-IN%20AT%20%24Hotel_name/mobile_size-2.png ;
+https://www.figma.com/file/KlyAcSnLxG7e92hB8nPaiEqo/HERE-ARE-YOUR-DETAILS-FOR-YOUR-CHECK-IN-AT-%24Hotel_name
+
+
+        |
+| Check In Details (Client) - Payable      | checkin-details-client-payable    |@Luthfulahi           |             | 
+https://res.cloudinary.com/teexee19/image/upload/v1523723390/HERE%20ARE%20YOUR%20DETAILS%20FOR%20YOUR%20CHECK-IN%20AT%20%24Hotel_name/Payable_HERE_ARE_YOUR_DETAILS_FOR_YOUR_CHECK-IN_AT_Hotel_name.png ;
+https://res.cloudinary.com/teexee19/image/upload/v1523723391/HERE%20ARE%20YOUR%20DETAILS%20FOR%20YOUR%20CHECK-IN%20AT%20%24Hotel_name/mobile_size.png ;
+https://www.figma.com/file/KlyAcSnLxG7e92hB8nPaiEqo/HERE-ARE-YOUR-DETAILS-FOR-YOUR-CHECK-IN-AT-%24Hotel_name
+       |
+| Checking In Today (Hotel)                | checking-in-today-hotel           |                      |             |
+https://res.cloudinary.com/teexee19/image/upload/v1523722543/Are%20you%20still%20checking%20into%20%24Hotel_name_%20client%20is%20still%20checking%20in/client_is_still_checking_in.png ;
+https://res.cloudinary.com/teexee19/image/upload/v1523722543/Are%20you%20still%20checking%20into%20%24Hotel_name_%20client%20is%20still%20checking%20in/mobile_size-1.png ;
+https://www.figma.com/file/QruVmP2C8iWq9TkrKm9V1s3Y/Are-you-still-checking-into-%24Hotel_name%2F-client-is-still-checking-in
+
+
+        |
+| Checking In Today (Client) - Prepaid     | checking-in-today-client-prepaid  |                      |             |
+https://res.cloudinary.com/teexee19/image/upload/v1523819579/Are%20you%20still%20checking%20into%20%24Hotel_name_%20client%20is%20still%20checking%20in/Are_You_still_Checking_Into_Southern_Sun_Hotel_.png ;
+https://res.cloudinary.com/teexee19/image/upload/v1523722543/Are%20you%20still%20checking%20into%20%24Hotel_name_%20client%20is%20still%20checking%20in/mobile_size.png ;
+https://www.figma.com/file/QruVmP2C8iWq9TkrKm9V1s3Y/Are-you-still-checking-into-%24Hotel_name%2F-client-is-still-checking-in
+
+
+
+        |
 | Checking In Today (Client) - Payable     | checking-in-today-client-payable  |                      |             |        |
-| Thanks for hosting                       |                                   |                      |             |        |
-| Payment Details (Client)                 |                                   |                      |             |        |
-| Hotel Is under Renovation                |                                   |                      |             |        |
-| Hotel Is under Renovation (Prepaid)      | Hotel-Is-under-Renovatio-Prepaid  |                      |             |        |
+| Thanks for hosting                       |                                   |                      |             |
+https://res.cloudinary.com/teexee19/image/upload/v1523723637/THANKS%20FOR%20HOSTING%20OUR%20CLIENT%20%28hotel%29/thanks_for_hosting_our_client.png ;
+https://res.cloudinary.com/teexee19/image/upload/v1523723637/THANKS%20FOR%20HOSTING%20OUR%20CLIENT%20%28hotel%29/mobile_size.png ;
+https://www.figma.com/file/RPPEzQs3ym4FzSOl5DnymtFx/THANKS-FOR-HOSTING-OUR-CLIENT-(hotel)
+
+
+        |
+| Payment Details (Client)                 |                                   |                      |             |
+https://res.cloudinary.com/teexee19/image/upload/v1523723459/Payment%20details%20%28Client%29/Payment_Breakdown.png ;
+https://res.cloudinary.com/teexee19/image/upload/v1523723459/Payment%20details%20%28Client%29/mobile_size.png ;
+https://www.figma.com/file/BamIXy0sxLNrQrYaxjmuJfcX/Payment--details-(Client)
+
+
+        |
+| Hotel Is under Renovation                |                                   |                      |             | 
+https://res.cloudinary.com/teexee19/image/upload/v1523820085/Hotel%20Is%20Under%20Renovation%20%28client%29/Hotel_Is_Under_Renovation_client.png ;
+https://res.cloudinary.com/teexee19/image/upload/v1523820085/Hotel%20Is%20Under%20Renovation%20%28client%29/mobile_size.png ;
+https://www.figma.com/file/CPnvu5MiCKt5ruh4TPaFPcqn/Hotel-Is-Under-Renovation-(client)?node-id=23%3A193 (
+       |
+| Hotel Is under Renovation (Prepaid)      | Hotel-Is-under-Renovatio-Prepaid  |                      |             | 
+https://res.cloudinary.com/teexee19/image/upload/v1523820086/Hotel%20Is%20Under%20Renovation%20%28client%29/Prepaid.png ;
+https://res.cloudinary.com/teexee19/image/upload/v1523820085/Hotel%20Is%20Under%20Renovation%20%28client%29/mobile_size-1.png ;
+https://www.figma.com/file/CPnvu5MiCKt5ruh4TPaFPcqn/Hotel-Is-Under-Renovation-(client)?node-id=23%3A193 (
+       |
 | Changed Reservation                      |                                   |                      |             |        |
-| Review your stay                         | review-your-stay                  | @Moe                 |@lekan.koku  |        |
+| Review your stay                         | review-your-stay                  | @Moe                 |@lekan.koku  |
+https://res.cloudinary.com/teexee19/image/upload/v1523723580/Review%20your%20stay%20at%20%24Hotel_name/Review.png ;
+https://res.cloudinary.com/teexee19/image/upload/v1523723577/Review%20your%20stay%20at%20%24Hotel_name/mobile_size.png ;
+https://www.figma.com/file/cw7j3Uu48hQ1EjPVjkDNXhEM/Review-your-stay-at-%24Hotel_name
+        |
 
 
 
