@@ -1,0 +1,110 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-section padding="0px 0px 30px 0px" />
+      <mj-text padding="4px" color="#828282" font-size="16px" />
+      <mj-all font-family="Lato" />
+      <mj-divider padding="16px 0px 0px 0px" />
+      <mj-style>
+        .primary-text{ color: "#333333"; } .secondary-text{ color: "#828282"; }
+      </mj-style>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="white">
+    <mj-section>
+      <mj-column>
+        <mj-image height="39px" width="116px" src="https://res.cloudinary.com/mclint-cdn/image/upload/v1523824094/hng-logo.svg" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="20px" font-weight="bold" font-family="Lato" color="#333333">Slight delay With your Booking</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="16px" font-weight="bold" color="#7C888D">Hello Mr. Abayomi Abidakum,</mj-text>
+        <mj-text color="#7C888D" line-height="19px" letter-spacing="0.03rem">Southern sun ikoyi Hotel, Ikoyi, Lagos is yet to confirm the availability of your selected room category for your check-in date. We are in contact with them, and we are working hard to get your reservation confirmed. You’ll hear from us soon.
+          If you wish to change your reservation, please reply this email or call 07008808800. Thank you for your patience.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-button width="220px" background-color="white" border="2px solid #FA1212" color="#FA1212" font-size="14px">CANCEL RESERVATION</mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-button width="220px" background-color="#00AEFF" color="white" font-size="14px">CHANGE RESERVATION</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-group>
+        <mj-column>
+          <mj-text>Best regards,</mj-text>
+          <mj-text color="#333333">Opeyemi Jegede</mj-text>
+          <mj-text font-size="12px">Booking team</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-text align="right">Email: opeyemi@hotels.ng</mj-text>
+          <mj-text align="right">Phone: 07008808800</mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section>
+      <mj-column background-color="rgba(0, 174, 255, 0.29)">
+        <mj-table>
+          <tr>
+            <td style="font-size: 9px; font-weight: 500; color: #00AEFF;">Sell more rooms and manage your hotel information on multiple OTAs with our Android app</td>
+            <td style="font-size: 12px; font-weight: 800; color: #00AEFF;">Download now</td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>hotels.ng</mj-text>
+        <mj-text font-size="12px">Hotels.ng is an online booking agency specialised in hotel booking within nigeria. we market hotels online nd book rooms for clients. we proffer hotel accomodation solution to the people looking for hotels witnin an area or particular city . we
+          provide them with appropriate hotels that match their budget and expectations.</mj-text>
+        <mj-text color="#00AEFF" font-size="12px">Learn more</mj-text>
+        <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="12px" color="#333333">On Payments</mj-text>
+        <mj-text font-size="12px">When paying via bank transfer, please include your booking id or name in the reference. If you don't get a payment confirmation message at least 5 hours after payment, please call our support line (+2347008808800) or email us at reservations@hotels.ng
+        </mj-text>
+        <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="12px" color="#333333">Late Check-in</mj-text>
+        <mj-text font-size="12px">Standard check-in time is 12pm - 6pm. Please inform hotels.ng if you'll be checking in late to ensure your reservation is not cancelled by the hotel.
+        </mj-text>
+        <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="12px" color="#333333">Refunds and Cancellation</mj-text>
+        <mj-text font-size="12px">Hotels are settled 24 - 48 hours before your check in date. Please endeavour to call or email to cancel before this time. Refunds on cancellations after hotel has been paid may take 3 working days or longer depending on the hotel's policy. Refunds
+          cannot be made on any reservations made on a non-refundable room rate.
+
+        </mj-text>
+        <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="12px" color="#333333">Reservation & Best Price Guarantee</mj-text>
+        <mj-text font-size="12px">Prices on the website are discounted especially for prepaid reservations. Some hotels may charge a higher rate at the hotel if you choose to pay on arrival. Once you place a booking, your reservation is secured, and we'll send you a final confirmation
+          on check-in date. However, the hotel reserves the right to cancel your reservation.
+        </mj-text>
+        <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
+        <mj-text font-size="12px">3, Birrel Avenue, Yaba Lagos. +234 700 880 8800</mj-text>
+        <mj-text font-size="12px">Copyright © 2017 Hotels.ng, All rights reserved. </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
