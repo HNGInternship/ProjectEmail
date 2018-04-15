@@ -18,9 +18,9 @@ If you're here, it means a few things.
 1.  You <strong>must</strong> create a new branch for every action you make on the repository.
 2.  You <strong>must</strong> create a new branch for every HTML email template you create. Your branch's name must follow the provided format in the table below.
 
-| Branch name                              | Design                            | Who is working on it | Status      |
+| Task                                     | Branch Name                       | Developer            | Reviewer    |
 | ---------------------------------------- | --------------------------------- | -------------------- | ----------- |
-| template-make-reservation-prepaid        | Make reservation (Prepaid)        | @calebikhuohon       | In progress |
+| Make reservation (Prepaid)               | template-make-reservation-prepaid        | @calebikhuohon       | In progress |
 | template-make-reservation-pay-on-arrival | Make reservation (Pay-on-arrival) | @Philix              | In progress |
 | template-issue-with-reservation          | Issue with reservation (Client)   | @nellybaz10          | In progress |
 
