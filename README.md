@@ -1,23 +1,10 @@
-# #project-email
-
-If you're here, it means a few things.
-
-1.  You're in <strong>#stage3</strong> of HNG Internship 4.
-2.  You've been added to the <strong>#stage3</strong> spreadsheet by any of the mentors.
-3.  You've joined the <strong>#stage3</strong> channel.
-4.  You've created a repository containing your implementation of the HTML email tutorials linked below.
-    <br>
-    Tutorial 1 > https://webdesign.tutsplus.com/articles/build-an-html-email-template-from-scratch--webdesign-12770
-    <br>
-    Tutorial 2 > https://litmus.com/community/learning/24-how-to-code-a-responsive-email-from-scratch
-5.  You've submitted your repository for review to any of the assistants in the <strong>#project-email</strong> channel.
-6.  An assistant has reviewed your work and added you to the internal <strong>#project-email</strong> team spreadsheet.
+# Project Email
 
 
 ### Contributing (Development Workflow)
 1.Clone the repository. 
 
-2.Switch to development branch:```git checkout development```.
+2.Switch to development branch: `git checkout development`.
 
 3.Create a branch for the task you want to do (Branch name should be same with proposed branch name except you are performing a task not listed below or and even in that case it should be very descriptive).
 
@@ -159,5 +146,4 @@ MJML is a markup language designed to reduce the pain of coding a responsive ema
 
 > https://mjml.io/try-it-live
 
-<strong>NB:</strong> If you do use MJML make sure what you commit to the repository is the generated HTML file.
 
