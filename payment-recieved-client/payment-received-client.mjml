@@ -1,6 +1,6 @@
 <mjml>
   <mj-head>
-    <mj-title>Hotel.ng Reservation prepaid</mj-title>
+    <mj-title>Payment Recieved (client)</mj-title>
     <mj-attributes>
       <mj-all font-family="lato" />
     </mj-attributes>
@@ -94,7 +94,7 @@
         <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px" align="right">
                   &#x20A6 5,550.00</mj-text>
     </mj-column>
-    
+
      <mj-column width="70%">
         <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px" align="left">
                   Charges</mj-text>
@@ -103,8 +103,8 @@
         <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px" align="right">
                   &#x20A6 550.00</mj-text>
     </mj-column>
-    
-    
+
+
 </mj-section>
 <mj-section padding="0" background-color="#00AEFF" >
     <mj-column width="70%" >
@@ -141,11 +141,11 @@
 <mj-section>
         <mj-column width="100%">
           <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
-            If you require any further assistance or want to make changes to the schedule details stated above kindly call us on 07008808800 
+            If you require any further assistance or want to make changes to the schedule details stated above kindly call us on 07008808800
           </mj-text>
       </mj-section>
 
-      
+
       <!--horizontal line and opeyemi's contact-->
       <mj-section padding-top="0px">
         <mj-column>
