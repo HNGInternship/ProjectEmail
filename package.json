@@ -1,0 +1,22 @@
+{
+  "name": "projectemail",
+  "version": "1.0.0",
+  "description": "This is the repo for project email",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HNGInternship/ProjectEmail.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HNGInternship/ProjectEmail/issues"
+  },
+  "homepage": "https://github.com/HNGInternship/ProjectEmail#readme",
+  "dependencies": {
+    "mjml": "^4.0.3"
+  }
+}
