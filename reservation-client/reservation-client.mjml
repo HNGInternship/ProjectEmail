@@ -2,7 +2,7 @@
   <mj-head>
     <mj-title>Reservation-client</mj-title>
     <mj-attributes>
-      <mj-all font-family="lato" letter-spacing="0.48px" />
+      <mj-all font-family="Lato,Arial" letter-spacing="0.48px" />
       <mj-class name="payButton" color="#00AEFF" font-size="14px" line-height="17px" align="center" font-weight="bold" background-color="white" border="1px solid #00AEFF" border-radius="2.26px" width="150px" length="41px" />
 
       <mj-class name="cancelReservationBtn" color="#FA1212" font-size="14px" line-height="17px" align="center" font-weight="bold" background-color="white" border="1px solid #FA1212" border-radius="2.26px" width="220px" length="41px" padding-right="0" />
@@ -37,7 +37,7 @@
 
       <mj-section padding-top="0">
         <mj-column width="100%">
-          <mj-text color="#333333" font-weight="regular" font-size="16px" line-height="24px" align="left">
+          <mj-text color="grey" font-weight="regular" font-size="16px" line-height="24px" align="left">
             <span style="color:#333333; font-size:16px; font-weight: bold; line-height:24px; align:left;">Hello, Mr. Abayomi Abidakum,</span>
             <br/>We have received your reservation request with the details below.<br> This is not your confirmation email
             <br/>
@@ -178,7 +178,7 @@
         </mj-column>
 
         <mj-column width="70%">
-          <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
+          <mj-text color="#7C888D" font-weight="regular" font-size="16px" line-height="19px">
             Charges</mj-text>
         </mj-column>
 
@@ -234,7 +234,7 @@
       <!--Bank Account Numbers-->
       <mj-section>
         <mj-column width="40%">
-          <mj-text color="333333" font-weight="regular" font-size="16px" line-height="23px">
+          <mj-text color="#333333" font-weight="regular" font-size="16px" line-height="23px">
             Account Name: <br/>Account Number: <br/> Bank Name:
           </mj-text>
         </mj-column>
@@ -245,7 +245,7 @@
         </mj-column>
 
         <mj-column width="40%">
-          <mj-text color="333333" font-weight="regular" font-size="16px" line-height="23px">
+          <mj-text color="#333333" font-weight="regular" font-size="16px" line-height="23px">
             Account Name: <br/>Account Number: <br/> Bank Name:
           </mj-text>
         </mj-column>
@@ -257,7 +257,7 @@
         </mj-column>
 
         <mj-column width="40%">
-          <mj-text color="333333" font-weight="regular" font-size="16px" line-height="23px">
+          <mj-text color="#333333" font-weight="regular" font-size="16px" line-height="23px">
             Account Name: <br/>Account Number: <br/> Bank Name:
           </mj-text>
         </mj-column>
@@ -272,7 +272,7 @@
 
       <mj-section>
         <mj-column width="100%">
-          <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
+          <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="1.5">
             If you require any further assistance or want to make changes to the schedule details stated above kindly call us on 07008808800 or use the buttons below
           </mj-text>
       </mj-section>
@@ -300,7 +300,7 @@
 
       <mj-section padding-top="0">
         <mj-column width="40%">
-          <mj-text color="#828282" font-size="15px" line-height="24px">Best Regards,<br><strong>Opeyemi Jegede</strong><br>Bookings Team</mj-text>
+          <mj-text color="#828282" font-size="15px" line-height="24px">Best Regards,<br><strong><span style="color:#333333">Opeyemi Jegede</span></strong><br>Bookings Team</mj-text>
         </mj-column>
         <mj-column width="20%">
 
