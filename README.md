@@ -16,11 +16,11 @@ If you're here, it means a few things.
 
 ### Contributing (Development Workflow)
 1.Clone the repository 
-2.Switch to development branch:<strong>git checkout development</strong>
+2.Switch to development branch:```gitit checkout development```
 3.Create a branch for the task you want to do (Branch name should be same with proposed branch name except you are performing a task not listed below or and even in that case it should be very descriptive).
 4.Create a folder for your file and let folder name be same as branch name
 5.Make consistent commits and commit message should be descriptive (<strong>very important</strong>)
-6.Push the new branch to repository <strong>git push origin branch-name</strong>.
+6.Push the new branch to repository ```git push origin branch-name```.
 ### Important repository guidelines
 
 1.  You <strong>must</strong> create a new branch for every action you make on the repository.
