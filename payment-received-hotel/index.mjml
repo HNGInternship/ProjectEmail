@@ -1,0 +1,30 @@
+<mjml>
+  <mj-head>
+    <mj-title>hotelng</mj-title>
+  </mj-head>
+  <mj-body background-color="white">
+    <mj-section>
+      <mj-column>
+        <mj-image src="images/hng-logo.svg" align="center"></mj-image>
+        <mj-text font-family="Roboto, Arial" padding="30px 0px 0px 40px"font-size="20px"><b>Request for Reservation at your hotel</b></mj-text>
+        
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="16px" font-family="Lato, Arial" padding="0px 0px 0px 40px" color="grey">
+        <b>Hello, Southern sun, Ikoyi Hotel</b></mj-text>
+        <mj-text padding="0px 0px 0px 40px" font-family="Lato, Arial" color="grey" font-size="16px"><p>please make a reservation for our client, uing the details below</p></mj-text>
+        <mj-text padding="0px 0px 0px 40px" font-family="Lato, Arial" color="grey" font-size="16px">please keep your phone lines  open.</mj-text>
+        
+        
+      </mj-column>
+    </mj-section>
+      
+    
+  
+  </mj-body>
+
+
+  
+</mjml>
