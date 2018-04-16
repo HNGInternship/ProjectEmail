@@ -1,0 +1,180 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-section padding="0px 0px 30px 0px" />
+      <mj-text padding="4px" color="#828282" font-size="16px" />
+      <mj-all font-family="Lato" />
+      <mj-style>
+        .primary-text{ color: "#333333"; } .secondary-text{ color: "#828282"; }
+      </mj-style>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="white">
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="30px" color="#00AEFF" align="center" font-family="helvetica">hotels.ng</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="20px" font-weight="bold" font-family="Lato" color="#333333">Request for Reservation at your Hotel</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="16px" font-weight="bold" color="#7C888D">Hello Southern Southern Hotel,</mj-text>
+        <mj-text color="#7C888D" line-height="19px" letter-spacing="0.03rem">Please make a reservation for our client, using the details below. Please keep your phone lines open.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-table>
+          <tr>
+            <th style="color: #333333; text-align: left">Client Name</th>
+            <th style="color: #333333; text-align: left">Booking ID</th>
+          </tr>
+          <tr>
+            <td style="color: #828282;">Ukauwa David Nwazuo</td>
+            <td style="color: #00AEFF;">#23479786754</td>
+          </tr>
+        </mj-table>
+        <mj-table>
+          <tr>
+            <th style="color: #333333; text-align: left">Schedule details</th>
+          </tr>
+          <tr>
+            <th style="color: #828282; text-align: left; font-weight: normal;">Check-in</th>
+            <th style="color: #828282; text-align: left;  font-weight: normal;">Check-out</th>
+            <th style="color: #828282; text-align: left;  font-weight: normal;">Guest(s)</th>
+          </tr>
+          <tr>
+            <td style="color: #828282; font-weight: bold;">Thur 17th January</td>
+            <td style="color: #828282; font-weight: bold;">Tue 22nd January</td>
+            <td style="color: #828282; font-weight: bold;">1</td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>Payment</mj-text>
+        <mj-divider border-color="#BDBDBD" border-style="dotted" border-width="1px"></mj-divider>
+        <mj-table>
+          <tr>
+            <td style="font-size: 16px; color: #828282;">Standard room x 2 nights</td>
+            <td style="font-size: 16px; color: #828282; text-align: right;">N5,500.00</td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column background-color="#00AEFF">
+        <mj-table>
+          <tr>
+            <td style="color: white; font-size: 18px;">Total</td>
+            <td style="color: white; font-size: 18px; text-align: right;">N5,500</td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>Payment type</mj-text>
+        <mj-table>
+          <tr>
+            <td><img src="../images/prepaid-icon.svg" /></td>
+            <td style="color: #828282; font-size: 16px; align: left;">Payment on arrival</td>
+          </tr>
+        </mj-table>
+        <mj-spacer height="20px"></mj-spacer>
+        <mj-text>This is a pay on arrival booking. The client will pay you N5,550.00 on check-in date. We will inform if the client changes their payment option.</mj-text>
+        <mj-spacer height="25px"></mj-spacer>
+        <mj-text>
+          Kindly confirm the reservation as soon as possible and send us feedback. if you require any information, do not hesitate to call us on this phone number 07008808800 or reply this email</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-button width="220px" background-color="white" border="2px solid #FA1212" color="#FA1212" font-size="14px">REJECT BOOKING</mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-button width="220px" background-color="#00AEFF" color="white" font-size="14px">CONFIRM RESERVATION</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>If you are rejecting this booking kindly tell us why to avoid future occurences.</mj-text>
+        <mj-spacer height="25px"></mj-spacer>
+        <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
+        <!--add input here-->
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-group>
+          <mj-text>Best regards,</mj-text>
+          <mj-text color="#333333">Opeyemi Jegede</mj-text>
+          <mj-text font-size="12px">Booking team</mj-text>
+        </mj-group>
+      </mj-column>
+      <mj-column>
+        <mj-text align="right">Email: opeyemi@hotels.ng</mj-text>
+        <mj-text align="right">Phone: 07008808800</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
+        <mj-text color="#333333">Confirm if your hotel information is correct</mj-text>
+        <mj-table>
+          <tr>
+            <th style="text-align: left; color: #828282; font-size: 16px; font-weight: normal;">Name</th>
+            <th style="text-align: left; color: #828282; font-size: 16px;  font-weight: normal;">Address</th>
+          </tr>
+          <tr>
+            <td style="text-align: left; color: #828282; font-size: 16px; font-weight: bold;">Southern Ikoyi Road</td>
+            <td style="text-align: left; color: #828282; font-size: 16px; font-weight: bold;">47 Alfred Rewande Road, Ikoyi, Lagos</td>
+          </tr>
+          <tr style="height: 20px;"></tr>
+          <tr>
+            <th style="text-align: left; color: #828282; font-size: 16px; font-weight: normal;">Contact Details</th>
+            <th style="text-align: left; color: #828282; font-size: 16px; font-weight: normal;">Other Details</th>
+          </tr>
+          <tr>
+            <th style="text-align: left; color: #828282; font-size: 16px; font-weight: bold;">+234 1 280 5200</th>
+            <th style="text-align: left; color: #828282; font-size: 16px; font-weight: bold;">Pictures, Rates, Facilities and Description</th>
+          </tr>
+          <tr>
+            <th style="text-align: left; color: #828282; font-size: 16px; font-weight: bold;">+234 1 280 0630</th>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-button width="220px" background-color="#084482" color="white" font-size="14px">UPDATE INFORMATION</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column background-color="rgba(252, 130, 51, 0.29)">
+        <mj-table>
+          <tr>
+            <td style="font-size: 9px; font-weight: 500; color: #FC8233;">Sell more rooms and manage your hotel information on multiple OTAs with our Android app</td>
+            <td style="font-size: 12px; font-weight: 800; color: #FC8233;">Download now</td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>hotels.ng</mj-text>
+        <mj-text font-size="12px">Hotels.ng is an online booking agency specialised in hotel booking within nigeria. we market hotels online nd book rooms for clients. we proffer hotel accomodation solution to the people looking for hotels witnin an area or particular city . we
+          provide them with appropriate hotels that match their budget and expectations.</mj-text>
+        <mj-text color="#00AEFF" font-size="12px">Learn more</mj-text>
+        <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
+        <mj-text font-size="12px">3, Birrel Avenue, Yaba Lagos. +234 700 880 8800</mj-text>
+        <mj-text font-size="12px">Copyright © 2017 Hotels.ng, All rights reserved. </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
