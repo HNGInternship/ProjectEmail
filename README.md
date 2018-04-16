@@ -15,12 +15,18 @@ If you're here, it means a few things.
 
 
 ### Contributing (Development Workflow)
-1.Clone the repository 
-2.Switch to development branch:```gitit checkout development```
+1.Clone the repository. 
+
+2.Switch to development branch:```git checkout development```.
+
 3.Create a branch for the task you want to do (Branch name should be same with proposed branch name except you are performing a task not listed below or and even in that case it should be very descriptive).
-4.Create a folder for your file and let folder name be same as branch name
-5.Make consistent commits and commit message should be descriptive (<strong>very important</strong>)
+
+4.Create a folder for your file and let folder name be same as branch name.
+
+5.Make consistent commits and commit message should be descriptive (<strong>very important</strong>).
+
 6.Push the new branch to repository ```git push origin branch-name```.
+
 ### Important repository guidelines
 
 1.  You <strong>must</strong> create a new branch for every action you make on the repository.
@@ -39,11 +45,11 @@ MJML is a markup language designed to reduce the pain of coding a responsive ema
 | Reservation (Client)                     | reservation-client                | @justiceotuya        | @nedy       |
 [Desktop](https://res.cloudinary.com/teexee19/image/upload/v1523723556/Reservation%20is%20being%20processed%28client%29/Reservation.png);
 [Mobile](https://res.cloudinary.com/teexee19/image/upload/v1523723555/Reservation%20is%20being%20processed%28client%29/mobile_size_reservation_processed.png);
-[Figma](https://www.figma.com/file/EScD1TxAH8gILZKSXRFVIwtM/Reservation-is-being-processed-(Client)
+[Figma](https://www.figma.com/file/EScD1TxAH8gILZKSXRFVIwtM/Reservation-is-being-processed-(Client))
 |
 | Reservation (Client) - Prepaid           | reservation-client-prepaid        | @nedy                |             | [Desktop](https://res.cloudinary.com/teexee19/image/upload/v1523723556/Reservation%20is%20being%20processed%28client%29/Reservation-1.png) ;
 [Mobile](https://res.cloudinary.com/teexee19/image/upload/v1523723555/Reservation%20is%20being%20processed%28client%29/mobile_size_prepaid_reservation_processed.png) ;
-[Figma](https://www.figma.com/file/EScD1TxAH8gILZKSXRFVIwtM/Reservation-is-being-processed-(Client)      |
+[Figma](https://www.figma.com/file/EScD1TxAH8gILZKSXRFVIwtM/Reservation-is-being-processed-(Client))      |
 | Make Reservation - Prepaid               | make-reservation-pay-on-arrival   | @Pearl               |             | [Desktop](https://res.cloudinary.com/teexee19/image/upload/v1523819875/Make%20reservation/Make_Reservation_Prepaid.png) ; [Mobile](https://res.cloudinary.com/teexee19/image/upload/v1523819876/Make%20reservation/mobile_size_Pre-paid.png) ;
 [Figma](https://www.figma.com/file/crVkECZ3V9eyomXeFZ7nQV/Make-reservation-Hotel)     |
 | Make Reservation - Pay on arrival        | make-reservation-prepaid          |                      |             | [Desktop](https://res.cloudinary.com/teexee19/image/upload/v1523819882/Make%20reservation/mobile_size_Pay_on_arrival.png);
@@ -99,10 +105,7 @@ MJML is a markup language designed to reduce the pain of coding a responsive ema
 | Check In Details (Hotel)                 | checkin-details-hotel             |                      |             |
 [Dexktop](https://res.cloudinary.com/teexee19/image/upload/v1523723390/HERE%20ARE%20YOUR%20DETAILS%20FOR%20YOUR%20CHECK-IN%20AT%20%24Hotel_name/client_will_be_checking_in.png);
 [Mobile](https://res.cloudinary.com/teexee19/image/upload/v1523723391/HERE%20ARE%20YOUR%20DETAILS%20FOR%20YOUR%20CHECK-IN%20AT%20%24Hotel_name/mobile_size-2.png) ;
-[Figma](https://www.figma.com/file/KlyAcSnLxG7e92hB8nPaiEqo/HERE-ARE-YOUR-DETAILS-FOR-YOUR-CHECK-IN-AT-%24Hotel_name)
-
-
-        |
+[Figma](https://www.figma.com/file/KlyAcSnLxG7e92hB8nPaiEqo/HERE-ARE-YOUR-DETAILS-FOR-YOUR-CHECK-IN-AT-%24Hotel_name)|
 | Check In Details (Client) - Payable      | checkin-details-client-payable    |@Luthfulahi           |             | 
 [Desktop](https://res.cloudinary.com/teexee19/image/upload/v1523723390/HERE%20ARE%20YOUR%20DETAILS%20FOR%20YOUR%20CHECK-IN%20AT%20%24Hotel_name/Payable_HERE_ARE_YOUR_DETAILS_FOR_YOUR_CHECK-IN_AT_Hotel_name.png);
 [Mobile](https://res.cloudinary.com/teexee19/image/upload/v1523723391/HERE%20ARE%20YOUR%20DETAILS%20FOR%20YOUR%20CHECK-IN%20AT%20%24Hotel_name/mobile_size.png);
