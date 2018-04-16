@@ -1,23 +1,99 @@
 <mjml>
   <mj-head>
-    <mj-title>hotelng</mj-title>
+    <mj-title>payment-received-hotel</mj-title>
   </mj-head>
   <mj-body background-color="white">
     <mj-section>
       <mj-column>
-        <mj-image src="images/hng-logo.svg" align="center"></mj-image>
-        <mj-text font-family="Roboto, Arial" padding="30px 0px 0px 40px"font-size="20px"><b>Request for Reservation at your hotel</b></mj-text>
+        <mj-image  height="39" width="116" src="https://res.cloudinary.com/damilare1957/image/upload/v1523879042/hng-logo.svg" align="center"></mj-image>
+        <mj-text font-family="Lato, Arial" padding="30px 0px 0px 40px"font-size="20px" line-height="1.2"><b>This Is A Prepaid Booking We Are Responsible For Payment</b></mj-text>
+        <mj-text font-size="16px" line-height="1.5" font-family="Lato, Arial" padding="20px 0px 0px 40px" color="grey">
+        <b>Hello, Southern Sun, Ikoyi Hotel,</b><br>
+        Thank you for trusting us with your booking, Payment for a </br>
+        reservation at <ins> Southern Sun, Ikoyi Hotel, Lagos</ins> was received.</br>
+        Below are the reservation details and payment breakdown.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column >
+        <mj-table padding="0px 0px 0px 40px">
+          <tr style="font-family:Lato, Arial; font-size:16px ; align:left; font-style:regular;" >
+            <td width="40%"  >Client-Name</td>
+            <td width="40%">Booking Id</td>
+          </tr>
+          <tr  style="font-family:Lato, Arial;  font-size:16px ; align:left; font-style:regular; ">
+            <td style="color:grey; padding:10px 0px 0px 0px;"><b>Ukauwa David Nwazuo</b></td>
+            <td style="color:#00AEff;padding:10px 0px 0px 0px;"><b>#23479786754</td>
+          </tr>
+        </mj-table>
+        <mj-text  padding="23px 0px 0px 40px" font-family="Lato, Arial" font-size="16px" font-style="regular">Schedule Details</mj-text>
+        <mj-table padding="10px 0px 0px 40px">
+          <tr style="font-family:Lato, Arial; font-size:16px ;align:left; color:grey;font-style:regular;" >
+            <td width="40%"  >Check-in</td>
+            <td width="40%">Check-out</td>
+            <td align="left">Guest(s)</td>
+          </tr>
+          <tr  style="font-family:Lato, Arial;  align:left;font-size:16px ; color:grey;font-style:regular;">
+            <td style= "padding:10px 0px 0px 0px; "><b>Thur 17th January</b></td>
+            <td style="padding:10px 0px 0px 0px;"><b>Tue 22nd January</td>
+            <td style="padding:10px 0px 0px 0px; align:left"><b>1</td>
+          </tr>
+        </mj-table>
+        <mj-text  padding="23px 0px 0px 40px" font-family="Lato, Arial" font-size="16px" font-style="regular">Payment</mj-text>
+        <mj-divider border-width="1px" border-style="dashed" border-color="lightgrey" padding="10px 40px 0px 40px" />
+        <mj-table padding="0px 0px 0px 40px">
+          <tr style="font-family:Lato, Arial; color:grey;font-size:16px ;align:left; font-style:regular;" >
+            <td width="50%" style="padding:20px 0px 0px 0px" >Standard Room x 2 Nights</td>
+            <td width="40%"style="padding:20px 40px 0px 0px;" align="right"> <del>N</del>5,000.00 </td>
+          </tr>
+          <tr  style="font-family:Lato, Arial; color:grey;  align:left; font-size:16px ;font-style:regular; ">
+            <td style="padding:10px 0px 0px 0px" align="left">Charges</b></td>
+            <td style="padding:20px 40px 0px 0px;" align="right"><del>N</del>550.00</td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section >
+      <mj-column padding="5px" background-color="#00AEFF">
+        <mj-table>
+          <tr style="color:white ;line-height:19px; font-family:Lato,Arial; font-size:18px;">
+            <td width="80%" style="padding:0px 0px 0px 10px;"><b>Total</b></td>
+            <td><b><del>N</del>5,550.00</b></td>
+          </tr>
         
+        </mj-table>
+        
+
+         
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text font-size="16px" font-family="Lato, Arial" padding="0px 0px 0px 40px" color="grey">
-        <b>Hello, Southern sun, Ikoyi Hotel</b></mj-text>
-        <mj-text padding="0px 0px 0px 40px" font-family="Lato, Arial" color="grey" font-size="16px"><p>please make a reservation for our client, uing the details below</p></mj-text>
-        <mj-text padding="0px 0px 0px 40px" font-family="Lato, Arial" color="grey" font-size="16px">please keep your phone lines  open.</mj-text>
-        
-        
+      <mj-table padding="0px 0px 0px 40px">
+          <tr style="font-family:Lato, Arial; color:grey; align:left;font-size:16px ;font-style:regular;" >
+            <td width="50%"  >Amount Paid</td>
+            <td width="40%"style="padding:0px 40px 0px 0px; color:#219653;"  align="right"> <del>N</del>5,000.00 </td>
+          </tr>
+          <tr  style="font-family:Lato, Arial; color:grey;  font-size:16px ; line-height:19px; font-style:regular; ">
+            <td style="padding:10px 0px 0px 0px">Balance Due</b></td>
+            <td style="padding:20px 40px 0px 0px; color:#EB5757;" align="right"><del>N</del>0.00</td>
+          </tr>
+        </mj-table>
+        <mj-text font-size="16px" line-height="1.5"  align="left"font-family="Lato, Arial" padding="20px 0px 0px 40px" color="#828282">
+        if you require further assistance or want to make changes to the schedule details
+        stated above kindly call us on <b>07008808800</b>
+        </mj-text>
+        <mj-divider border-width="1px"  border-color="lightgrey" padding="20px 40px 0px 40px" />
+
+        <mj-table padding="20px 0px 0px 40px">
+          <tr style="font-family:Lato, Arial; color:grey;font-size:16px ;font-style:regular;" >
+            <td width="50%"  >Best Regards,</td>
+            <td width="40%"style="padding:0px 40px 0px 0px;" align="right"> Email:<span style="color:#00AEFF">Opeyemi@hotels.ng </span> </td>
+          </tr>
+          
+        </mj-table>
+
       </mj-column>
     </mj-section>
       
