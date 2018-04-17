@@ -42,7 +42,7 @@
         <mj-column>
           <mj-table>
             <tr style="font-size: 16px; color: #333333">
-              <td>Best regards,</td>
+              <td style="color: #828282">Best regards,</td>
             </tr>
             <tr style="font-size: 16px; color: #333333">
               <td>Opeyemi Jegede</td>
@@ -58,13 +58,13 @@
         <mj-column>
           <mj-table>
             <tr>
-              <td style="text-align: right; font-size: 16px">Email:</td>
+              <td style="color: #333333; text-align: right; font-size: 16px">Email:</td>
             </tr>
             <tr>
               <td style="text-align: right; color: #00AEFF; font-size: 16px ">opeyemi@hotels.ng</td>
             </tr>
             <tr>
-              <td style="text-align: right; font-size: 16px">Phone:</td>
+              <td style="color: #333333; text-align: right; font-size: 16px">Phone:</td>
             </tr>
             <tr>
               <td style="text-align: right; color: #00AEFF; font-size: 16px ">07008808800</td>
@@ -83,7 +83,7 @@
         </mj-table>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section padding="16px 30px 10px 30px">
       <mj-column>
         <mj-image align="left " height="18px " width="55px " padding="0px 0px 0px 4px " src="https://res.cloudinary.com/mclint-cdn/image/upload/v1523824094/hng-logo.svg " />
         <mj-text font-size="12px ">Hotels.ng is an online booking agency specialised in hotel booking within nigeria. we market hotels online nd book rooms for clients. we proffer hotel accomodation solution to the people looking for hotels witnin an area or particular city . we
@@ -92,7 +92,7 @@
         <mj-divider border-color="#BDBDBD " border-width="1px "></mj-divider>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section padding="0px 30px 10px 30px">
       <mj-column>
         <mj-text font-size="12px " color="#333333 ">On Payments</mj-text>
         <mj-text font-size="12px ">When paying via bank transfer, please include your booking id or name in the reference. If you don't get a payment confirmation message at least 5 hours after payment, please call our support line (+2347008808800) or email us at reservations@hotels.ng
@@ -100,7 +100,7 @@
         <mj-divider border-color="#BDBDBD " border-width="1px "></mj-divider>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section padding="0px 30px 10px 30px">
       <mj-column>
         <mj-text font-size="12px " color="#333333 ">Late Check-in</mj-text>
         <mj-text font-size="12px ">Standard check-in time is 12pm - 6pm. Please inform hotels.ng if you'll be checking in late to ensure your reservation is not cancelled by the hotel.
@@ -108,12 +108,11 @@
         <mj-divider border-color="#BDBDBD " border-width="1px "></mj-divider>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section padding="0px 30px 16px 30px">
       <mj-column>
         <mj-text font-size="12px " color="#333333 ">Refunds and Cancellation</mj-text>
         <mj-text font-size="12px ">Hotels are settled 24 - 48 hours before your check in date. Please endeavour to call or email to cancel before this time. Refunds on cancellations after hotel has been paid may take 3 working days or longer depending on the hotel's policy. Refunds
           cannot be made on any reservations made on a non-refundable room rate.
-
         </mj-text>
         <mj-divider border-color="#BDBDBD " border-width="1px "></mj-divider>
       </mj-column>
@@ -125,7 +124,7 @@
           on check-in date. However, the hotel reserves the right to cancel your reservation.
         </mj-text>
         <mj-divider border-color="#BDBDBD " border-width="1px "></mj-divider>
-        <mj-text font-size="12px ">3, Birrel Avenue, Yaba Lagos. +234 700 880 8800</mj-text>
+        <mj-text padding="16px 0px 0px 0px" font-size="12px ">3, Birrel Avenue, Yaba Lagos. +234 700 880 8800</mj-text>
         <mj-text font-size="12px ">Copyright © 2017 Hotels.ng, All rights reserved. </mj-text>
       </mj-column>
     </mj-section>
