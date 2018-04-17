@@ -58,13 +58,13 @@
         <mj-column>
           <mj-table>
             <tr>
-              <td style="color: #333333; text-align: right; font-size: 16px">Email:</td>
+              <td style="color: #828282; text-align: right; font-size: 16px">Email:</td>
             </tr>
             <tr>
               <td style="text-align: right; color: #00AEFF; font-size: 16px ">opeyemi@hotels.ng</td>
             </tr>
             <tr>
-              <td style="color: #333333; text-align: right; font-size: 16px">Phone:</td>
+              <td style="color: #828282; text-align: right; font-size: 16px">Phone:</td>
             </tr>
             <tr>
               <td style="text-align: right; color: #00AEFF; font-size: 16px ">07008808800</td>
