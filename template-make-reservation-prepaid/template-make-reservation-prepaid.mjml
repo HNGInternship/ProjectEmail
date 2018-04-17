@@ -1,15 +1,15 @@
 ﻿<mjml>
   <mj-head>
     <mj-attributes>
-      <mj-section padding="0px 0px 30px 0px" />
+      <mj-section padding="0px 30px 30px 30px" />
       <mj-text padding="4px" color="#828282" font-size="16px" />
-      <mj-all font-family="Lato" />
+      <mj-all font-family="Lato, Arial, sans-serif" />
       <mj-style>
         .primary-text{ color: "#333333"; } .secondary-text{ color: "#828282"; }
       </mj-style>
     </mj-attributes>
   </mj-head>
-  <mj-body>
+  <mj-body background-color="white">
     <mj-section>
       <mj-column>
         <mj-text font-size="30px" color="#00AEFF" align="center" font-family="helvetica">hotels.ng</mj-text>
