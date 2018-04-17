@@ -2,36 +2,37 @@
   <mj-head>
     <mj-title>Hotel is Under Renovation </mj-title>
     <mj-attributes>
-      <mj-all font-family="lato" letter-spacing="0.03em" ; />
-      <mj-class name="payButton" color="#00AEFF" font-size="14px" line-height="17px" align="center" font-weight="bold" background-color="white" border="1px solid #00AEFF" border-radius="2.26px" width="220px" height="41px" />
+      <mj-all font-family="Lato,Arial" letter-spacing="0.03em" />
+      <mj-class name="payButton" color="#00AEFF" font-size="14px" line-height="17px" text-align="center" font-weight="bold" background-color="white" border="2px solid #00AEFF" border-radius="2.26px" width="220px" height="30px" position="absolute" box-sizing:"border-box" transform-matrix(-1,0,0,1,0,0)/>
 
-      <mj-class name="cancelReservationBtn" position="absolute" color="#FA1212" font-size="14px" line-height="normal" text-align="center" font-weight="bold" font-style="normal" background-color="white" border="1px solid #FA1212" border-radius="2.26px" width="220px"
-        height="41px" box-sizing="border-box" transform="matrix(-1, 0, 0, 1, 0, 0)" ; />
 
-      <mj-class name="payReservationBtn" position="absolute" color="#FFFFFF" font-size="14px" line-height="normal" text-align="center" font-weight="bold" font-style="normal" background-color="#084482" border="1px solid #084482" border-radius="2.25895px" width="220px"
-        height="41px" />
+      <mj-class name="cancelReservationBtn" position="absolute" color="#FA1212" font-size="14px" line-height="normal" text-align="center" font-weight="bold" font-style="normal" background-color="white" border="1px solid #FA1212" border-radius="2.26px" width="250px" height="30px" box-sizing="border-box" transform="matrix(-1, 0, 0, 1, 0, 0)"  />
+
+      <mj-class name="payReservationBtn" position="absolute" color="#FFFFFF" font-size="14px" line-height="normal" text-align="center" font-weight="bold" font-style="normal" background-color="#084482" border="1px solid #084482" border-radius="2.25895px" width="250px"
+        height="30px" />
 
     </mj-attributes>
     <mj-style>
 
-      .shape{ font-size: 18px; Line-height:22px; text-align:center; background-color:#00AEFF; color:white; border:10px solid #00AEFF; border-radius:50%; }
+
+      .shape { height: 30px; width: 30px; border-radius: 50%; text-align: center;font-size: 18px; ; display: block; margin: 5px; background:#00aeff; color:white; padding: 5px 1px 0 1px}
 
     </mj-style>
   </mj-head>
   <mj-body>
     <mj-wrapper background-color="#ffffff">
       <mj-section>
-        <mj-column width="80%">
-          <!--hotels.ng logo with 80% width-->
-          <mj-image src="http://res.cloudinary.com/justiceotuya/image/upload/v1523683447/hotelslogo.png" alt="hotels.ng logo" width="116" height="39" />
         </mj-column>
-        <mj-column width="20%">
+        <mj-column width="100%">
           <mj-text>
             <a href="#" style="color:#4F4F4F;font-size:8.28px; text-decoration:none;line-height:10px; text-align:right;">
-              <mj-text style="border-bottom:1px solid #4f4f4f">View in browser</mj-text>
+              <mj-text style="float:right;border-bottom:1px solid #4f4f4f">View in browser</mj-text>
             </a>
           </mj-text>
         </mj-column>>
+        <mj-column width="100%">
+          <!--hotels.ng logo with 80% width-->
+          <mj-image src="http://res.cloudinary.com/justiceotuya/image/upload/v1523683447/hotelslogo.png" alt="hotels.ng logo" width="116" height="39" />
       </mj-section>
 
       <mj-section padding-bottom="0">
@@ -80,16 +81,16 @@
       </mj-section>
 
       <mj-section>
-        <mj-column width="10%">
-          <mj-text><span class="shape">1</span></mj-text>
+        <mj-column width="100%" >
+          <mj-text><span class="shape" style="float:left">1</span></mj-text>
         </mj-column>
 
-        <mj-column width="30%">
-          <mj-text color="333333" font-weight="normal" font-size="16px" line-height="23px">
+        <mj-column width="35%">
+          <mj-text color="#333333" font-weight="normal" font-size="16px" line-height="23px">
             Hotel Name: <br/>Avrg. Room Price: <br/> Location:
           </mj-text>
         </mj-column>
-        <mj-column width="60%">
+        <mj-column width="55%">
           <mj-text color="#7c888d" font-weight="regular" font-size="16px" line-height="23px">
             Colonades Hotel <br/>N4500.00 <br/> 47 Alfred Rewane Road ikoti, Lagos
           </mj-text>
@@ -118,7 +119,7 @@
         </mj-column>
 
         <mj-column width="30%">
-          <mj-text color="333333" font-weight="normal" font-size="16px" line-height="23px">
+          <mj-text color="#333333" font-weight="normal" font-size="16px" line-height="23px">
             Hotel Name: <br/>Avrg. Room Price: <br/> Location:
           </mj-text>
         </mj-column>
@@ -151,9 +152,10 @@
         </mj-column>
 
         <mj-column width="30%">
-          <mj-text color="333333" font-weight="normal" font-size="16px" line-height="23px">
+          <mj-text color="#333333" font-weight="normal" font-size="16px" line-height="23px">
             Hotel Name: <br/>Avrg. Room Price: <br/> Location:
           </mj-text>
+
         </mj-column>
         <mj-column width="60%">
           <mj-text color="#7c888d" font-weight="regular" font-size="16px" line-height="23px">
@@ -165,6 +167,8 @@
         <mj-column width="33.3%">
           <mj-image width="147px" src="http://res.cloudinary.com/justiceotuya/image/upload/v1523881700/undefined.jpg" align="center">
         </mj-column>
+
+
         <mj-column width="33.3%">
           <mj-image width="147px" src="http://res.cloudinary.com/justiceotuya/image/upload/v1523881700/undefined.jpg" align="center">
         </mj-column>
@@ -225,13 +229,16 @@
           <mj-text color="#7C888D" font-size="15px" line-height="24px">Email: <span style="color:#00AEFF; font-weight:bold">opeyemi@hotels.ng</span></br>Phone: <span style="color:#00AEFF; font-weight:bold">0708808800</span> </mj-text>
         </mj-column>
       </mj-section>
+      </mj-wrapper>
+
+
 
       <!---Download App ribbon -->
-      <mj-section padding="0" background-color="rgba(0, 174, 255, 0.29)" style="mix-blend-mode: normal;
-opacity: 0.62;">
+      <mj-section style="mix-blend-mode: normal;
+opacity: 1;" background-color="rgba(0, 174, 255, 0.29)">
         <mj-column width="70%">
-          <mj-text color="#00aeff" font-weight="bold" font-size="9px" line-height="normal">
-            Get the hotels.ng app book your hotels instantly with our andriod app</mj-text>
+          <mj-text color="#00AEFF" font-size="9px" line-height="normal">
+           <strong> Get the hotels.ng app book your hotels instantly with our andriod app</strong></mj-text>
         </mj-column>
         <mj-column width="30%">
           <mj-text color="#00AEFF" font-weight="800" font-size="12px" line-height="normal" align="center">
@@ -240,12 +247,14 @@ opacity: 0.62;">
       </mj-section>
 
 
+
+<mj-wrapper background-color="#FAFAFA">
       <!--footer-->
       <mj-section>
         <mj-column width="100%">
           <!--hotels.ng logo with 80% width-->
           <mj-image src="http://res.cloudinary.com/justiceotuya/image/upload/v1523683447/hotelslogo.png" alt="hotels.ng logo" width="55" height="18" align="left" />
-          <mj-text font-weight="regular" font-size="12px" line-height="23px" line-spacing="0.03em" color="#828282">
+          <mj-text font-weight="regular" font-size="12px" line-height="23px" color="#828282">
             Hotels.ng is an online booking agency specialised in hotel booking within nigeria. we market hotels online nd book rooms for clients. we proffer hotel accomodation solution to the people looking for hotels witnin an area or particular city . we provide
             them with appropriate hotels that match their budget and expectations.
             <br/><span style="color:#00AEFF">Learn more</span>
