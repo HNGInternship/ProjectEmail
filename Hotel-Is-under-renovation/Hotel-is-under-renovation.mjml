@@ -94,7 +94,7 @@
 
     </mj-section>
     <mj-section>
-      <mj-column width="10%">
+      <mj-column width="100%">
         <mj-text><span class="shape">2</span></mj-text>
       </mj-column>
 
@@ -127,7 +127,7 @@
 
     </mj-section>
     <mj-section>
-      <mj-column width="10%">
+      <mj-column width="100%">
         <mj-text><span class="shape">3</span></mj-text>
       </mj-column>
 
@@ -163,10 +163,6 @@
 
     </mj-section>
 
-
-
-
-
     <mj-section>
       <mj-column width="100%">
         <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
@@ -175,21 +171,13 @@
     </mj-section>
 
     <mj-section>
-      <mj-column width="50%">
-        <mj-button mj-class="cancelReservationBtn">
-          CANCEL RESERVATION
-        </mj-button>
+      <mj-column>
+        <mj-button width="220px" background-color="white" border="2px solid #FA1212" color="#FA1212" font-size="14px">CANCEL RESERVATION</mj-button>
       </mj-column>
-
-      <mj-column width="50%">
-        <mj-button mj-class="payReservationBtn">
-          VIEW ALTERNATIVE HOTELS
-        </mj-button>
+      <mj-column>
+        <mj-button width="220px" background-color="#084482" color="white" font-size="14px">VIEW ALTERNATIVE HOTELS</mj-button>
       </mj-column>
     </mj-section>
-
-
-
 
     <!--horizontal line and opeyemi's contact-->
     <mj-section padding-top="0px">
