@@ -126,7 +126,7 @@
     <mj-section padding="">
     	<mj-column>
       	<mj-text font-size="16" color="#828282"> Contact Details</mj-text>
-        <mj-text font-size="16" color="#828282" font-weight="bold"> +234 1 280 5200 </br>
+        <mj-text font-size="16" color="#828282" font-weight="bold"> +234 1 280 5200 <br/>
 +234 1 280 0630</mj-text>
       </mj-column>
       <mj-column>
@@ -155,7 +155,7 @@
     
     	<mj-column >
         <mj-text font-family="lato" font-size="16" color="828282">
-          Email: <span style="color: #00AEFF">opeyemi@hotels.ng </span></br>
+          Email: <span style="color: #00AEFF">opeyemi@hotels.ng </span><br/>
         Phone: <span style="color: #00AEFF">09024097111</span>
           </mj-text>
       	
@@ -181,11 +181,11 @@
   <mj-column>
     <mj-image align="left" padding="0 0 0 25"width="55" height="18" src="../images/hng-logo.svg"></mj-image>
   	<mj-text color="#828282" font-size="12"> Hotels.ng is an online booking agency specialised in hotel booking within nigeria. we market hotels online nd book rooms for clients. we proffer hotel accomodation solution to the people looking for hotels witnin an area or particular city . 
-      we provide them with appropriate hotels that match their budget and expectations. </br><span style="color: #00AEFF"> Learn more</span>
+      we provide them with appropriate hotels that match their budget and expectations. <br/><span style="color: #00AEFF"> Learn more</span>
 </mj-text>
   <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
-  <mj-text color="#7C888D" font-size="12"> 3, Birrel Avenue, Yaba Lagos. +234 700 880 8800 </br>
-  <p></p></br>
+  <mj-text color="#7C888D" font-size="12"> 3, Birrel Avenue, Yaba Lagos. +234 700 880 8800 <br/>
+  <p></p><br/>
 
 Copyright © 2017 Hotels.ng, All rights reserved. 
 
