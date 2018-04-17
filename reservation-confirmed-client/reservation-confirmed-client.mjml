@@ -15,16 +15,16 @@
     <mj-wrapper background-color="#ffffff">
 
       <mj-section>
-        <mj-column width="80%">
-          <!--hotels.ng logo with 80% width-->
-          <mj-image src="http://res.cloudinary.com/justiceotuya/image/upload/v1523683447/hotelslogo.png" alt="hotels.ng logo" width="116" height="39" />
-        </mj-column>
-        <mj-column width="20%">
+         <mj-column width="100%">
           <mj-text>
             <a href="#" style="color:#4F4F4F;font-size:8.28px; text-decoration:none;line-height:10px; text-align:right;">
-              <mj-text style="border-bottom:1px solid #4f4f4f">View in browser</mj-text>
+              <mj-text style="float:right;border-bottom:1px solid #4f4f4f">View in browser</mj-text>
             </a>
           </mj-text>
+        </mj-column>
+        <mj-column width="100%">
+          <!--hotels.ng logo with 80% width-->
+          <mj-image src="http://res.cloudinary.com/justiceotuya/image/upload/v1523683447/hotelslogo.png" alt="hotels.ng logo" width="116" height="39" />
         </mj-column>
       </mj-section>
 
@@ -40,7 +40,7 @@
         <mj-column width="100%">
           <mj-text color="#333333" font-weight="regular" font-size="16px" line-height="24px" align="left">
             <span style="color:#333333; font-size:16px; font-weight: bold; line-height:24px; align:left;">Hello, Mr. Abayomi Abidakum,</span>
-            <br/>Hello Mr. Abayomi Abidakum, Your reservation for a Standard Room at <span style="border-bottom:1px solid #4f4f4f">Southern sun ikoyi Hotel</span>, Lagos, has been made and confirmed. The hotel looks forward to your arrival. If you'll
+            <br/>Hello Mr. Abayomi Abidakum, Your reservation for a Standard Room at <span style="border-bottom:1px solid #4f4f4f">&nbspSouthern sun ikoyi Hotel</span>, Lagos, has been made and confirmed. The hotel looks forward to your arrival. If you'll
             be checking-in after 5 PM, please inform us immediately by phone or email.<br/><br/> Your payment method is "Pay on arrival". We strongly recommend that you prepay for your accommodation. You can <span style="border-bottom:1px solid #4f4f4f">pay onlinel</span>            with your debit card or pay to any of our bank accounts listed below.<br/><br/> Enjoy your stay<br/><br/> Best Regards,<br/>
             <span style="color:#828282; font-weight:bold; font-size:16px; line-height:19px;">
             Opeyemi jegede
