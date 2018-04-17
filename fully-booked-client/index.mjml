@@ -260,9 +260,12 @@
     </mj-section>
     
     <mj-section padding="0 0 0 0">
+      <mj-column>
+      
+      </mj-column>
     	<mj-column width="50%" padding="0 0 0 85" >
         <mj-text font-family="lato" font-size="14" color="00AEFF">
-         Email: opeyemi@hotels.ng 
+          Email: opeyemi@hotels.ng </br>
 Phone: 09024097111
           </mj-text>
       	
