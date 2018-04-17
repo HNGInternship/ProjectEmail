@@ -1,35 +1,35 @@
 <mjml>
   <mj-head>
     <mj-title>Reservation (Client) - Prepaid</mj-title>
+
     <mj-attributes>
-      <mj-all font-family="lato, aria" letter-spacing="0.48px" />
-      <mj-class name="payButton" color="#00AEFF" font-size="14px" line-height="17px" align="center" font-weight="bold" background-color="white" border="1px solid #00AEFF" border-radius="2.26px" width="150px" length="41px" />
+      <mj-all font-family="Lato, Arial"/>
+      <mj-class name="cancelReservationBtn" color="#FA1212" font-size="14px" line-height="17px"  font-weight="bold" background-color="white" border="1px solid #FA1212" border-radius="2.26px" width="220px" length="41px"  />
 
-      <mj-class name="cancelReservationBtn" color="#FA1212" font-size="14px" line-height="17px" align="center" font-weight="bold" background-color="white" border="1px solid #FA1212" border-radius="2.26px" width="220px" length="41px" padding-right="0" />
-
-      <mj-class name="payReservationBtn" color="#FFFFFF" font-size="14px" line-height="17px" align="center" font-weight="bold" background-color="#084482" border="1px solid #084482" border-radius="2.26px" width="220px" length="41px" padding-left="0" />
+      <mj-class name="payReservationBtn" color="#FFFFFF" font-size="14px" line-height="17px" font-weight="bold" background-color="#084482" border="1px solid #084482" border-radius="2.26px" width="220px" length="41px"  />
     </mj-attributes>
   </mj-head>
-  <mj-body background="black">
+  <mj-body background="212121">
     <mj-wrapper background-color="#ffffff">
 
       <mj-section>
-        <mj-column width="80%">
-          <!--hotels.ng logo with 80% width-->
-          <mj-image src="http://res.cloudinary.com/justiceotuya/image/upload/v1523683447/hotelslogo.png" alt="hotels.ng logo" width="116" height="39" />
-        </mj-column>
-        <mj-column width="20%">
+        <mj-column width="100%">
           <mj-text>
-            <a href="#" style="color:#4F4F4F;font-size:8.28px; text-decoration:none;line-height:10px; text-align:right;">
+            <a href="#" style="color:#4F4F4F;font-size:8.28px; text-decoration:none;line-height:10px; text-align:right; float:right">
               <mj-text style="border-bottom:1px solid #4f4f4f">View in browser</mj-text>
             </a>
           </mj-text>
         </mj-column>
+        <mj-column width="100%">
+          <!--hotels.ng logo with 80% width-->
+          <mj-image src="http://res.cloudinary.com/justiceotuya/image/upload/v1523683447/hotelslogo.png" alt="hotels.ng logo" width="116" height="39" />
+        </mj-column>
+
       </mj-section>
 
       <mj-section padding-bottom="0">
         <mj-column width="100%">
-          <mj-text color="#333333" font-weight="bold" font-size="20px" line-height="24px" align="left" letter-spacing="30%">
+          <mj-text color="#333333" font-weight="bold" font-size="20px" line-height="normal" align="left" text-transform ="capitalize">
             Your Reservation Is Being Processed
           </mj-text>
         </mj-column>
@@ -37,45 +37,45 @@
 
       <mj-section padding-top="0">
         <mj-column width="100%">
-          <mj-text color="#333333" font-weight="regular" font-size="16px" line-height="24px" align="left">
-            <span style="color:#333333; font-size:16px; font-weight: bold; line-height:24px; align:left;">Hello, Mr. Abayomi Abidakum,</span>
+          <mj-text color="#7c888d" font-size="16px" line-height="19px" align="left" letter-spacing="0.03em">
+            <span style="color:#7c888d; font-size:16px; font-weight: bold; line-height:19px; align:left;">Hello, Mr. Abayomi Abidakum,</span>
             <br/>We have received your reservation request with the details below.<br> This is not your confirmation email
             <br/>
             <br/> You'll recieve a confirmation email immediately the hotel confirms your reservation.
           </mj-text>
-          <mj-divider border-width="2px" border-style="solid" border-color="lightgrey" />
+          <mj-divider border-width="1px" border-style="solid" border-color="#bdbdbd" />
         </mj-column>
       </mj-section>
 
       <!--Booking details-->
       <mj-section>
         <mj-column width="100%">
-          <mj-text color="#333333" font-weight="regular" font-size="16px" line-height="19px">
+          <mj-text color="#333333" font-weight="normal" font-size="16px" line-height="normal">
             Booking Details
           </mj-text>
         </mj-column>
 
         <!--Booking Details-->
         <mj-column width="30%">
-          <mj-text color="#333333" font-weight="regular" font-size="16px" line-height="19px">
+          <mj-text color="#333333" font-weight="regular" font-size="16px" line-height="normal">
             Guest Name:
           </mj-text>
         </mj-column>
 
         <mj-column width="70%">
-          <mj-text color="#7C888D" font-weight="regular" font-size="16px" line-height="19px">
+          <mj-text color="#7C888D" font-weight="normal" font-size="16px" line-height="normal">
             Mr. Abayomi Abidakum
           </mj-text>
         </mj-column>
 
         <mj-column width="30%">
-          <mj-text color="#333333" font-weight="regular" font-size="16px" line-height="19px">
+          <mj-text color="#333333" font-weight="regular" font-size="16px" line-height="normal" letter-spacing="0.03">
             Hotel Name:
           </mj-text>
         </mj-column>
 
         <mj-column width="70%">
-          <mj-text color="#7C888D" font-weight="regular" font-size="16px" line-height="19px">
+          <mj-text color="#7C888D" font-weight="normal" font-size="16px" line-height="normal">
             Southern sun ikoyi Hotel <span style="font-size:11px; border-bottom:1px solid #4f4f4f">(view map)</span>
           </mj-text>
         </mj-column>
@@ -87,7 +87,7 @@
         </mj-column>
 
         <mj-column width="70%">
-          <mj-text color="#7C888D" font-weight="regular" font-size="16px" line-height="19px">
+          <mj-text color="#7C888D" font-weight="normal" font-size="16px" line-height="normal">
             47 Alfred Rewane Road ikoti, Lagos
           </mj-text>
         </mj-column>
@@ -99,7 +99,7 @@
         </mj-column>
 
         <mj-column width="70%">
-          <mj-text color="#00AEFF" font-weight="regular" font-size="16px" line-height="19px">
+          <mj-text color="#00AEFF" font-weight="regular" font-size="16px" line-height="normal">
             1084392023
           </mj-text>
         </mj-column>
@@ -116,22 +116,30 @@
         </mj-column>
 
         <mj-column width="40%">
-          <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
-            Check-in <br>
-            <span style="color:#828282;font-weight:bold;">Thur 17th January</span>
+          <mj-text color="#7c888d" font-weight="regular" font-size="16px" line-height="14px">
+            Check-in
+            <br/>
+            <br/>
+            <span style="font-weight:bold;">Thur 17th January</span>
           </mj-text>
         </mj-column>
 
         <mj-column width="40%">
-          <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
-            Check-out <br/>
+          <mj-text color="#7c888d" font-weight="regular" font-size="16px" line-height="14px">
+            Check-out
+            <br/>
+            <br/>
+
             <span style="font-weight:bold;">Tues 22nd January</span>
           </mj-text>
         </mj-column>
 
         <mj-column width="20%">
-          <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
-            Guest(s) <br/>
+          <mj-text color="#7c888d" font-weight="regular" font-size="16px" line-height="14px">
+            Guest(s)
+            <br/>
+            <br/>
+
             <span style="font-weight:bold;">1</span>
           </mj-text>
         </mj-column>
@@ -148,7 +156,7 @@
         </mj-column>
 
         <mj-column width="100%">
-          <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
+          <mj-text color="#7c888d" font-weight="regular" font-size="16px" line-height="19px">
             Red win, Breakfast in bed
           </mj-text>
         </mj-column>
@@ -168,42 +176,42 @@
         </mj-column>
 
         <mj-column width="70%">
-          <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
+          <mj-text color="#7c888d" font-weight="regular" font-size="16px" line-height="19px">
             Standard Room x 2 Nights</mj-text>
         </mj-column>
 
         <mj-column width="30%">
-          <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
-            &#x20A6 5,550.00</mj-text>
+          <mj-text color="#7c888d" font-weight="regular" font-size="16px" line-height="19px">
+            <span style="text-decoration:line-through">N</span>5,550.00</mj-text>
         </mj-column>
 
+
+
         <mj-column width="70%">
-          <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
-            Charges</mj-text>
+          <mj-text color="#7c888d" font-weight="regular" font-size="16px" line-height="19px">
+              Charges</mj-text>
         </mj-column>
 
         <mj-column width="30%">
-          <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
-            &#x20A6 550.00</mj-text>
+          <mj-text color="#7c888d" font-weight="regular" font-size="16px" line-height="19px">
+            <span style="text-decoration:line-through">N</span>550.00</mj-text>
         </mj-column>
-      </mj-section>
 
-      <mj-section padding="0" background-color="#00AEFF">
+      <mj-section background-color="#00AEFF">
 
         <mj-column width="70%">
-          <mj-text color="#ffffff" font-weight="bold" font-size="18px" line-height="22px" align="left">
+          <mj-text color="#ffffff" font-weight="bold" font-size="18px" line-height="19px" >
             Total</mj-text>
         </mj-column>
-        <mj-column width="30%">
-          <mj-text color="#ffffff" font-weight="bold" font-size="19px" line-height="19px">
-            &#x20A6 5,550.00</mj-text>
+        <mj-column width="30%" class="placement">
+          <mj-text color="#ffffff" font-weight="bold" font-size="18px" line-height="19px"  >
+             <span style="text-decoration:line-through">N</span> 5,550.00</mj-text>
         </mj-column>
       </mj-section>
-
 
       <mj-section>
         <mj-column width="100%">
-          <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
+          <mj-text color="#7C888D" font-weight="regular" font-size="16px" line-height="19px">
             If you require any further assistance or want to make changes to the schedule details stated above kindly call us on <span style="font-weight:bold">0708808800</span> or use the buttons below
           </mj-text>
       </mj-section>
@@ -231,24 +239,24 @@
 
       <mj-section padding-top="0">
         <mj-column width="40%">
-          <mj-text color="#828282" font-size="15px" line-height="24px">Best Regards,<br><strong>Opeyemi Jegede</strong><br>Bookings Team</mj-text>
+          <mj-text color="#7C888D" font-size="15px" line-height="24px">Best Regards,<br><strong>Opeyemi Jegede</strong><br>Bookings Team</mj-text>
         </mj-column>
         <mj-column width="20%">
 
         </mj-column>
         <mj-column width="40%">
-          <mj-text color="#828282" font-size="15px" line-height="24px">Email: <span style="color:#00AEFF; font-weight:bold">opeyemi@hotels.ng</span></br>Phone: <span style="color:#00AEFF; font-weight:bold">0708808800</span> </mj-text>
+          <mj-text color="##7C888D" font-size="15px" line-height="24px">Email: <span style="color:#00AEFF; font-weight:bold">opeyemi@hotels.ng</span></br>Phone: <span style="color:#00AEFF; font-weight:bold">0708808800</span> </mj-text>
         </mj-column>
       </mj-section>
 
       <!---Download App ribbon -->
       <mj-section padding="0" background-color="rgba(0, 174, 255, 0.29)">
-        <mj-column width="70%">
-          <mj-text color="#00AEFF" font-weight="medium" font-size="9px" line-height="14px">
+        <mj-column width="70%" style="opacity:0.62">
+          <mj-text color="#00AEFF" font-weight="500" font-size="9px" line-height="14px">
             Get the hotels.ng app book your hotels instantly with our andriod app</mj-text>
         </mj-column>
         <mj-column width="30%">
-          <mj-text color="#00AEFF" font-weight="900" font-size="12px" line-height="14px" align="right">
+          <mj-text color="#00AEFF" font-weight="900" font-size="12px" line-height="normal" align="left">
             Download now</mj-text>
         </mj-column>
       </mj-section>
@@ -270,7 +278,7 @@
       <!--horizontal line -->
       <mj-section padding-top="0px">
         <mj-column>
-          <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding-top="0" />
+          <mj-divider border-width="1px" border-style="solid" border-color="#bdbdbd" padding-top="0" />
         </mj-column>
       </mj-section>
 
@@ -280,7 +288,7 @@
         <mj-column width="100%">
           <mj-text font-weight="bold" font-size="12px" line-height="16px" color="#333333" padding-top="0" padding-bottom='0'>On Payments
           </mj-text>
-          <mj-text font-weight="regular" font-size="12px" line-height="23px" color="#828282">
+          <mj-text font-weight="regular" font-size="12px" line-height="17px" color="#828282">
             When paying via bank transfer, please include your booking id or name in the reference. If you don't get a payment confirmation message at least 5 hours after payment, please call our support line (<span style="color:#00AEFF; font-weight:bold;">+2347008808800</span>)
             or email us at <span style="color:#00AEFF; font-weight:bold;">reservations@hotels.ng</span>
           </mj-text>
@@ -289,7 +297,7 @@
       <!--horizontal line -->
       <mj-section padding-top="0px">
         <mj-column>
-          <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding-top="0" />
+          <mj-divider border-width="1px" border-style="solid" border-color="#bdbdbd" padding-top="0" />
         </mj-column>
       </mj-section>
 
@@ -300,14 +308,14 @@
         <mj-column width="100%">
           <mj-text font-weight="bold" font-size="12px" line-height="16px" color="#333333" padding-top="0" padding-bottom='0'>Late Check-in
           </mj-text>
-          <mj-text font-weight="regular" font-size="12px" line-height="23px" color="#828282">Standard check-in time is 12pm - 6pm. Please inform hotels.ng if you'll be checking in late to ensure your reservation is not cancelled by the hotel.
+          <mj-text font-weight="normal" font-size="12px" line-height="17px" color="#828282">Standard check-in time is 12pm - 6pm. Please inform hotels.ng if you'll be checking in late to ensure your reservation is not cancelled by the hotel.
           </mj-text>
         </mj-column>
       </mj-section>
-      <!--horizontal line -->
+       <!--horizontal line -->
       <mj-section padding-top="0px">
         <mj-column>
-          <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding-top="0" />
+          <mj-divider border-width="1px" border-style="solid" border-color="#bdbdbd" padding-top="0" />
         </mj-column>
       </mj-section>
 
@@ -316,17 +324,18 @@
 
       <mj-section padding-top="0">
         <mj-column width="100%">
-          <mj-text font-weight="bold" font-size="12px" line-height="16px" color="#333333" padding-top="0" padding-bottom='0'>Refunds & Cancellation
+          <mj-text font-weight="bold" font-size="12px" line-height="normal" color="#333333" padding-top="0" padding-bottom='0'>Refunds & Cancellation
           </mj-text>
-          <mj-text font-weight="regular" font-size="12px" line-height="23px" color="#828282">Hotels are settled 24 - 48 hours before your check in date. Please endeavour to call or email to cancel before this time.<br/> Refunds on cancellations after hotel has been paid may take 3 working days or longer depending on the hotel's policy.<br/>            Refunds cannot be made on any reservations made on a non-refundable room rate.
+          <mj-text font-weight="regular" font-size="12px" line-height="17px" color="#828282">Hotels are settled 24 - 48 hours before your check in date. Please endeavour to call or email to cancel before this time.<br/> Refunds on cancellations after hotel has been paid may take 3 working days or longer depending on the hotel's policy.<br/>            Refunds cannot be made on any reservations made on a non-refundable room rate.
 
           </mj-text>
         </mj-column>
       </mj-section>
-      <!--horizontal line -->
+
+        <!--horizontal line -->
       <mj-section padding-top="0px">
         <mj-column>
-          <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding-top="0" />
+          <mj-divider border-width="1px" border-style="solid" border-color="#bdbdbd" padding-top="0" />
         </mj-column>
       </mj-section>
 
@@ -334,27 +343,27 @@
 
       <mj-section padding-top="0">
         <mj-column width="100%">
-          <mj-text font-weight="bold" font-size="12px" line-height="16px" color="#333333" padding-top="0" padding-bottom='0'>Reservation & Best Price Gurantee
+          <mj-text font-weight="bold" font-size="12px" line-height="normal" color="#333333" padding-top="0" padding-bottom='0'>Reservation & Best Price Gurantee
           </mj-text>
-          <mj-text font-weight="regular" font-size="12px" line-height="23px" color="#828282">Prices on the website are discounted especially for prepaid reservations. Some hotels may charge a higher rate at the hotel if you choose to pay on arrival.<br/> Once you place a booking, your reservation is secured, and we'll send you a final
+          <mj-text font-weight="regular" font-size="12px" line-height="17px" color="#828282">Prices on the website are discounted especially for prepaid reservations. Some hotels may charge a higher rate at the hotel if you choose to pay on arrival.<br/> Once you place a booking, your reservation is secured, and we'll send you a final
             confirmation on check-in date. However, the hotel reserves the right to cancel your reservation.
 
 
           </mj-text>
         </mj-column>
       </mj-section>
-      <!--horizontal line -->
+       <!--horizontal line -->
       <mj-section padding-top="0px">
         <mj-column>
-          <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding-top="0" padding-bottom="0" />
+          <mj-divider border-width="1px" border-style="solid" border-color="#bdbdbd" padding-top="0" />
         </mj-column>
       </mj-section>
 
       <!--Address-->
 
-      <mj-section padding-top="0">
+      <mj-section padding="0">
         <mj-column width="100%">
-          <mj-text font-weight="regular" font-size="12px" line-height="23px" color="#828282">3, Birrel Avenue, Yaba Lagos. +234 700 880 8800 <br/> Copyright © 2017 Hotels.ng, All rights reserved.
+          <mj-text font-weight="regular" font-size="12px" line-height="17px" color="#7c888d">3, Birrel Avenue, Yaba Lagos. +234 700 880 8800 <br/></br> Copyright © 2017 Hotels.ng, All rights reserved.
 
           </mj-text>
         </mj-column>
