@@ -2,7 +2,7 @@
   <mj-head>
     <mj-title>Hotel is Under Renovation </mj-title>
     <mj-attributes>
-      <mj-section padding="0px 30px 30px 30px" />
+      <mj-section padding="0px 30px 16px 30px" />
       <mj-text padding="4px" color="#828282" font-size="16px" />
       <mj-all font-family="Lato, Arial, sans-serif" />
       <mj-divider padding="16px 0px 0px 0px" />
@@ -87,7 +87,7 @@
         <mj-image width="147px" src="http://res.cloudinary.com/justiceotuya/image/upload/v1523881700/undefined.jpg" align="center">
       </mj-column>
       <mj-column width="100%">
-        <mj-button mj-class="payButton">
+        <mj-button width="220px" background-color="white" border="2px solid #00AEFF" color="#00AEFF" font-size="14px">
           VIEW HOTEL
         </mj-button>
       </mj-column>
@@ -120,7 +120,7 @@
         <mj-image width="147px" src="http://res.cloudinary.com/justiceotuya/image/upload/v1523881700/undefined.jpg" align="center">
       </mj-column>
       <mj-column width="100%">
-        <mj-button mj-class="payButton">
+        <mj-button width="220px" background-color="white" border="1px solid #00AEFF" color="#00AEFF" font-size="14px">
           VIEW HOTEL
         </mj-button>
       </mj-column>
@@ -156,7 +156,7 @@
         <mj-image width="147px" src="http://res.cloudinary.com/justiceotuya/image/upload/v1523881700/undefined.jpg" align="center">
       </mj-column>
       <mj-column width="100%">
-        <mj-button mj-class="payButton">
+        <mj-button width="220px" background-color="white" border="1px solid #00AEFF" color="#00AEFF" font-size="14px">
           VIEW HOTEL
         </mj-button>
       </mj-column>
@@ -172,10 +172,10 @@
 
     <mj-section>
       <mj-column>
-        <mj-button width="220px" background-color="white" border="2px solid #FA1212" color="#FA1212" font-size="14px">CANCEL RESERVATION</mj-button>
+        <mj-button width="220px" background-color="white" border="1px solid #FA1212" color="#FA1212" font-size="14px" line-height="17px">CANCEL RESERVATION</mj-button>
       </mj-column>
       <mj-column>
-        <mj-button width="220px" background-color="#084482" color="white" font-size="14px">VIEW ALTERNATIVE HOTELS</mj-button>
+        <mj-button width="240px" background-color="#084482" color="white" font-size="14px" line-height="17px">VIEW ALTERNATIVE HOTELS</mj-button>
       </mj-column>
     </mj-section>
 
@@ -201,14 +201,14 @@
 
 
     <!---Download App ribbon -->
-    <mj-section background-color="rgba(0, 174, 255, 0.29)">
-      <mj-column width="70%">
-        <mj-text color="#00AEFF" font-size="9px" line-height="normal">
-          <strong> Get the hotels.ng app book your hotels instantly with our andriod app</strong></mj-text>
-      </mj-column>
-      <mj-column width="30%">
-        <mj-text color="#00AEFF" font-weight="800" font-size="12px" line-height="normal" align="center">
-          Download now</mj-text>
+    <mj-section>
+      <mj-column background-color="rgba(0, 174, 255, 0.29)">
+        <mj-table>
+          <tr>
+            <td style="font-size: 9px; font-weight: 500; color: #00AEFF;">Sell more rooms and manage your hotel information on multiple OTAs with our Android app</td>
+            <td style="font-size: 12px; font-weight: 800; color: #00AEFF;">Download now</td>
+          </tr>
+        </mj-table>
       </mj-column>
     </mj-section>
 
@@ -219,7 +219,7 @@
       <mj-section>
         <mj-column width="100%">
           <!--hotels.ng logo with 80% width-->
-          <mj-image src="http://res.cloudinary.com/justiceotuya/image/upload/v1523683447/hotelslogo.png" alt="hotels.ng logo" width="55" height="18" align="left" />
+          <mj-image align="left " height="18px " width="55px " padding="0px 0px 0px 4px " src="https://res.cloudinary.com/mclint-cdn/image/upload/v1523824094/hng-logo.svg " />
           <mj-text font-weight="regular" font-size="12px" line-height="23px" color="#828282">
             Hotels.ng is an online booking agency specialised in hotel booking within nigeria. we market hotels online nd book rooms for clients. we proffer hotel accomodation solution to the people looking for hotels witnin an area or particular city . we provide
             them with appropriate hotels that match their budget and expectations.
@@ -239,7 +239,7 @@
 
       <mj-section padding-top="0">
         <mj-column width="100%">
-          <mj-text font-weight="bold" font-size="12px" line-height="16px" color="#333333" padding-top="0" padding-bottom='0'>On Payments
+          <mj-text font-weight="bold" font-size="12px" line-height="14px" color="#333333" padding-top="0" padding-bottom='0'>On Payments
           </mj-text>
           <mj-text font-weight="regular" font-size="12px" line-height="23px" color="#828282">
             When paying via bank transfer, please include your booking id or name in the reference. If you don't get a payment confirmation message at least 5 hours after payment, please call our support line (<span style="color:#00AEFF; font-weight:bold;">+2347008808800</span>)
@@ -259,7 +259,7 @@
 
       <mj-section padding-top="0">
         <mj-column width="100%">
-          <mj-text font-weight="bold" font-size="12px" line-height="16px" color="#333333" padding-top="0" padding-bottom='0'>Late Check-in
+          <mj-text font-weight="bold" font-size="12px" line-height="14px" color="#333333" padding-top="0" padding-bottom='0'>Late Check-in
           </mj-text>
           <mj-text font-weight="regular" font-size="12px" line-height="23px" color="#828282">Standard check-in time is 12pm - 6pm. Please inform hotels.ng if you'll be checking in late to ensure your reservation is not cancelled by the hotel.
           </mj-text>
@@ -277,7 +277,7 @@
 
       <mj-section padding-top="0">
         <mj-column width="100%">
-          <mj-text font-weight="bold" font-size="12px" line-height="16px" color="#333333" padding-top="0" padding-bottom='0'>Refunds & Cancellation
+          <mj-text font-weight="bold" font-size="12px" line-height="14px" color="#333333" padding-top="0" padding-bottom='0'>Refunds & Cancellation
           </mj-text>
           <mj-text font-weight="regular" font-size="12px" line-height="23px" color="#828282">Hotels are settled 24 - 48 hours before your check in date. Please endeavour to call or email to cancel before this time.<br/> Refunds on cancellations after hotel has been paid may take 3 working days or longer depending on the hotel's policy.<br/>            Refunds cannot be made on any reservations made on a non-refundable room rate.
 
@@ -295,7 +295,7 @@
 
       <mj-section padding-top="0">
         <mj-column width="100%">
-          <mj-text font-weight="bold" font-size="12px" line-height="16px" color="#333333" padding-top="0" padding-bottom='0'>Reservation & Best Price Gurantee
+          <mj-text font-weight="bold" font-size="12px" line-height="14px" color="#333333" padding-top="0" padding-bottom='0'>Reservation & Best Price Gurantee
           </mj-text>
           <mj-text font-weight="regular" font-size="12px" line-height="23px" color="#828282">Prices on the website are discounted especially for prepaid reservations. Some hotels may charge a higher rate at the hotel if you choose to pay on arrival.<br/> Once you place a booking, your reservation is secured, and we'll send you a final
             confirmation on check-in date. However, the hotel reserves the right to cancel your reservation.
