@@ -10,6 +10,7 @@
   <mj-body background-color="white">
     <mj-section>
       <mj-column>
+        <mj-text line-height="20px" color="#868686" padding="10px 30px" align="right" font-size="8px">view in browser</mj-text>
         <mj-image height="39px" width="116px" src="https://res.cloudinary.com/mclint-cdn/image/upload/v1523824094/hng-logo.svg" />
       </mj-column>
     </mj-section>
@@ -80,7 +81,7 @@
         <mj-text>Payment type</mj-text>
         <mj-table>
           <tr>
-            <td style="width: 50px;"><img src="../images/prepaid-icon.svg" /></td>
+            <td style="width: 50px;"><img src="http://res.cloudinary.com/dlb33ndhf/image/upload/v1524043412/pay-on-arrival.svg" /></td>
             <td style="color: #828282; font-size: 16px; align: left; font-weight: bold;">Payment on arrival</td>
           </tr>
         </mj-table>
