@@ -80,7 +80,7 @@
         <mj-text>Payment type</mj-text>
         <mj-table>
           <tr>
-            <td><img src="../images/prepaid-icon.svg" /></td>
+            <td style="width: 50px;"><img src="../images/prepaid-icon.svg" /></td>
             <td style="color: #828282; font-size: 16px; align: left; font-weight: bold;">Payment on arrival</td>
           </tr>
         </mj-table>
