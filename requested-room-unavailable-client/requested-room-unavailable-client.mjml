@@ -1,25 +1,25 @@
 <mjml>
 
   <mj-head>
-
+		<mj-title>Hotels.ng</mj-title>
    <mj-attributes>
       <mj-image padding='0'/>
       <mj-text align="left" color="#333333" font-family="lato, arial"/>
-      <mj-section background-color="#fffff" />
+      <mj-section background-color="#ffffff" />
      
     </mj-attributes>
 
   </mj-head>
-	<mj-body>
+	<mj-body background-color="#ffffff">
  		<mj-section>
       <mj-group>
 			<mj-column width="70%">
-        <mj-image padding="40px 0px 0px 0px" width="116px" height="39px" src="http://res.cloudinary.com/maaj/image/upload/v1523994242/hng-logo.svg"></mj-image>
+        <mj-image padding="40px 0px 0px 0px" width="116px" height="39px" alt="hotels.ng logo" src="http://res.cloudinary.com/maaj/image/upload/v1523994242/hng-logo.svg"></mj-image>
         
        </mj-column>
       <mj-column width="30%">
       	<mj-navbar>
-        	<mj-navbar-link font-family="lato" text-decoration="underline" text-transform="lowercase" align="left" color="#4f4f4f" font-size="8.28px" line-height="10px">view in browser</mj-navbar-link>
+        	<mj-navbar-link font-family="lato" text-decoration="underline" text-transform="lowercase" color="#4f4f4f" font-size="8.28px" line-height="10px">view in browser</mj-navbar-link>
         </mj-navbar>
       </mj-column>
         </mj-group>
@@ -31,23 +31,23 @@
     </mj-section>
    <mj-section padding="">
     	<mj-column>
-     	<mj-text font-size="16px" color="#828282" font-weight="bold" line-height="19px" letter-spacing="3%">Hello Mr. Abayomi Abidakum,</mj-text>
-        <mj-text font-size="16px" color="#828282" line-height="19px">Your requested room ( standard ) is unavailable for your selected date(Thur 17th January - Tues 22th January) at <span style="text-decoration: underline">Southern sun ikoyi Hotel , Ikoyi, Lagos.</span> However, there are other room categories at the hotel that you’ll like.</mj-text>
-     <mj-text font-size="16px" color="#828282" line-height="19px">Reply this email or call us If you need expert recommendations on other hotel within your budget and location as your initial choice.</mj-text>
+     	<mj-text font-size="16px" color="#828282" font-weight="bold" line-height="23px" letter-spacing="3%">Hello Mr. Abayomi Abidakum,</mj-text>
+        <mj-text font-size="16px" color="#828282" line-height="23px">Your requested room ( standard ) is unavailable for your selected date(Thur 17th January - Tues 22th January) at <span style="text-decoration: underline">Southern sun ikoyi Hotel , Ikoyi, Lagos.</span> However, there are other room categories at the hotel that you’ll like.</mj-text>
+     <mj-text font-size="16px" color="#828282" line-height="23px">Reply this email or call us If you need expert recommendations on other hotel within your budget and location as your initial choice.</mj-text>
      </mj-column>
     </mj-section>
     <mj-section padding="">
     	<mj-column>
-      	<mj-button width="220px" height="41px" color="#fff" background-color="00AEFF" font-family="lato" font-size="14px" font-weight="bold">CHANGE HOTEL ROOM</mj-button>
-        <mj-text font-size="16px" color="#828282" line-height="19px">If you require further assistance or want to make changes to the schedule details stated above kindly call us on <b> 07008808800</b> </mj-text>
+      	<mj-button width="220px" height="41px" color="#ffffff" background-color="00AEFF" font-family="lato" font-size="14px" font-weight="bold">CHANGE HOTEL ROOM</mj-button>
+        <mj-text font-size="16px" color="#828282" line-height="23px">If you require further assistance or want to make changes to the schedule details stated above kindly call us on <b> 07008808800</b> </mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
     	<mj-column>
-      	<mj-button width="220px" height="41px" color="#FA1212" background-color="#fff" border="1px solid #FA1212" font-family="lato, arial" font-size="14px" font-weight="bold">CANCEL RESERVATION</mj-button>
+      	<mj-button width="240px" height="41px" color="#FA1212" background-color="#ffffff" border="1px solid #FA1212" font-family="lato, arial" font-size="14px" font-weight="bold">CANCEL RESERVATION</mj-button>
       </mj-column>
       <mj-column>
-      <mj-button width="220px" height="41px" color="#fff" background-color="084482" font-family="lato, arial" font-size="14px" font-weight="bold">VIEW ALTERNATIVE HOTELS</mj-button>
+      <mj-button width="240px" height="41px" color="#ffffff" background-color="#084482" font-family="lato, arial" font-size="14px" font-weight="bold">VIEW ALTERNATIVE HOTELS</mj-button>
         
       </mj-column>
         
@@ -59,18 +59,18 @@
     </mj-section>
     <mj-section padding="">
     	<mj-column>
-      	<mj-text font-size="16px" color="#828282" line-height="19px"> Best Regards,<br/>
+      	<mj-text font-size="16px" color="#828282" line-height="23px"> Best Regards,<br/>
 <span style="color: #4F4F4F; font-weight: bold; font-size:16px;" >Opeyemi Jegede</span><br/>
 Booking Team</mj-text>
       </mj-column>
       <mj-column>
-      	<mj-text font-size="16px" color="#828282" line-height="19px">
+      	<mj-text font-size="16px" color="#828282" line-height="23px">
         	Email: <span style="color: #00AEFF">opeyemi@hotels.ng</span><br/>
           Phone: <span style="color: #00AEFF">09024097111</span>
         </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section width="600px" background-color="rgba(0, 174, 255, 0.29)">
+    <mj-section background-color="rgba(0, 174, 255, 0.29)">
       <mj-column width="70%">
       	<mj-text font-size="9px" color="#00AEFF" line-height="11px">Get the hotels.ng app book your hotels instantly with our andriod app</mj-text>
       </mj-column>
@@ -79,18 +79,18 @@ Booking Team</mj-text>
       </mj-column>
     
     </mj-section>
-    <mj-section width="600px" background-color="#FAFAFA">
+    <mj-section background-color="#FAFAFA">
       <mj-column>
-      <mj-image align="left" padding="0 0 0 25px" width="55px" height="18px" src="http://res.cloudinary.com/maaj/image/upload/v1523994242/hng-logo.svg"></mj-image>
-        <mj-text font-size="12px" color="#828282" line-height="14px">Hotels.ng is an online booking agency specialised in hotel booking within nigeria. we market hotels online nd book rooms for clients. we proffer hotel accomodation solution to the people looking for hotels witnin an area or particular city . 
+      <mj-image align="left" padding="0 0 0 25px" width="55px" alt="hotels.ng logo" height="18px" src="http://res.cloudinary.com/maaj/image/upload/v1523994242/hng-logo.svg"></mj-image>
+        <mj-text font-size="12px" color="#828282" line-height="16px">Hotels.ng is an online booking agency specialised in hotel booking within nigeria. we market hotels online nd book rooms for clients. we proffer hotel accomodation solution to the people looking for hotels witnin an area or particular city . 
 we provide them with appropriate hotels that match their budget and expectations.<br/> <span style="color: #00AEFF">Learn more</span>
 
         </mj-text>
         <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
-        <mj-text font-size="12px" color="#333333" line-height="14px">
+        <mj-text font-size="12px" color="#333333" line-height="16px">
         	On Payments
         </mj-text>
-        <mj-text font-size="12px" color="#828282" line-height="14px">
+        <mj-text font-size="12px" color="#828282" line-height="16px">
         When paying via bank transfer, please include your booking id or name in the reference.
           If you don't get a payment confirmation message at least 5 hours after payment, please call our support line (<span style="color: #00AEFF">+2347008808800</span>) or email us at <span style="color: #00AEFF">reservations@hotels.ng</span>
 
@@ -98,20 +98,20 @@ we provide them with appropriate hotels that match their budget and expectations
         </mj-text>
         <mj-divider border-color="#BDBDBD" border-width="1px">
         </mj-divider>
-        <mj-text font-size="12px" color="#333333" line-height="14px">
+        <mj-text font-size="12px" color="#333333" line-height="16px">
         	Late Check-in
         </mj-text>
-        <mj-text font-size="12px" color="#828282" line-height="14px">
+        <mj-text font-size="12px" color="#828282" line-height="16px">
        Standard check-in time is 12pm - 6pm. Please inform hotels.ng if you'll be checking in late to ensure your reservation is not cancelled by the hotel.
 
 
         </mj-text>
          <mj-divider border-color="#BDBDBD" border-width="1px">
         </mj-divider>
-        <mj-text font-size="12px" color="#33333" line-height="14px">
+        <mj-text font-size="12px" color="#33333" line-height="16px">
         	Refunds & Cancellation
         </mj-text>
-        <mj-text font-size="12px" color="#828282" line-height="14px">
+        <mj-text font-size="12px" color="#828282" line-height="16px">
        Hotels are settled 24 - 48 hours before your check in date. Please endeavour to call or email to cancel before this time.<br/>
 Refunds on cancellations after hotel has been paid may take 3 working days or longer depending on the hotel's policy.<br/>
 Refunds cannot be made on any reservations made on a non-refundable room rate.
@@ -120,10 +120,10 @@ Refunds cannot be made on any reservations made on a non-refundable room rate.
         </mj-text>
          <mj-divider border-color="#BDBDBD" border-width="1px">
         </mj-divider>
-        <mj-text font-size="12px" color="#33333" line-height="14px">
+        <mj-text font-size="12px" color="#33333" line-height="16px">
         	Reservation & Best Price Guarantee
         </mj-text>
-        <mj-text font-size="12px" color="#828282" line-height="14px">
+        <mj-text font-size="12px" color="#828282" line-height="16px">
       
 				Prices on the website are discounted especially for prepaid reservations. Some hotels may charge a higher rate at the hotel if you choose to pay on arrival.
 Once you place a booking, your reservation is secured, and we'll send you a final confirmation on check-in date. However, the hotel reserves the right to cancel your reservation.
