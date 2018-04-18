@@ -10,6 +10,7 @@
   <mj-body background-color="white">
     <mj-section>
       <mj-column>
+        <mj-text line-height="20px" color="#868686" padding="10px 30px" align="right" font-size="8px">view in browser</mj-text>
         <mj-image height="39px" width="116px" src="https://res.cloudinary.com/mclint-cdn/image/upload/v1523824094/hng-logo.svg" />
       </mj-column>
     </mj-section>
@@ -162,6 +163,7 @@
         <mj-text font-size="12px">Hotels.ng is an online booking agency specialised in hotel booking within nigeria. we market hotels online nd book rooms for clients. we proffer hotel accomodation solution to the people looking for hotels witnin an area or particular city . we
           provide them with appropriate hotels that match their budget and expectations.</mj-text>
         <mj-text color="#00AEFF" font-size="12px">Learn more</mj-text>
+        <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
       </mj-column>
     </mj-section>
     <mj-section>
