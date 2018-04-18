@@ -38,10 +38,10 @@
 
       <mj-section padding-top="0">
         <mj-column width="100%">
-          <mj-text color="#333333" font-weight="regular" font-size="16px" line-height="24px" align="left">
-            <span style="color:#828282; font-size:16px; font-weight: bold; line-height:24px; align:left;">Hello, Mr. Abayomi Abidakum,</span>
-            <br/>Hello Mr. Abayomi Abidakum, Your reservation for a Standard Room at &nbsp<span style="border-bottom:1px solid #4f4f4f">Southern sun ikoyi Hotel</span>, Lagos, has been made and confirmed. The hotel looks forward to your arrival. If you'll
-            be checking-in after 5 PM, please inform us immediately by phone or email.<br/><br/> Your payment method is "Pay on arrival". We strongly recommend that you prepay for your accommodation. You can &nbsp<span style="border-bottom:1px solid #4f4f4f">pay online</span>            with your debit card or pay to any of our bank accounts listed below.<br/><br/> Enjoy your stay<br/><br/> Best Regards,<br/>
+          <mj-text color="#7C888D" font-weight="regular" font-size="16px" line-height="24px" align="left">
+            <span style= "font-size:16px; font-weight: bold; line-height:24px; align:left;">Hello, Mr. Abayomi Abidakum,</span>
+            <br/>Your reservation for a Standard Room at &nbsp;;<span style="border-bottom:1px solid #7c888d">Southern sun ikoyi Hotel</span>, Lagos, has been made and confirmed. The hotel looks forward to your arrival. If you'll
+            be checking-in after 5 PM, please inform us immediately by phone or email.<br/><br/> Your payment method is "Pay on arrival". We strongly recommend that you prepay for your accommodation. You can &nbsp;<span style="border-bottom:1px solid #7c888d">pay online</span>            with your debit card or pay to any of our bank accounts listed below.<br/><br/> Enjoy your stay<br/><br/> Best Regards,<br/>
             <span style="color:#828282; font-weight:bold; font-size:16px; line-height:19px;">
             Opeyemi jegede
           </span>
@@ -49,7 +49,7 @@
 
 
           </mj-text>
-          <mj-divider border-width="2px" border-style="solid" border-color="lightgrey" />
+          <mj-divider border-width="1px" border-style="solid" border-color="#bdbdbd" />
         </mj-column>
       </mj-section>
 
@@ -82,7 +82,7 @@
 
         <mj-column width="70%">
           <mj-text color="#7C888D" font-weight="regular" font-size="16px" line-height="19px">
-            Southern sun ikoyi Hotel <span style="font-size:11px; border-bottom:1px solid #4f4f4f">(view map)</span>
+            Southern sun ikoyi Hotel <span style="font-size:11px; border-bottom:1px solid #7c888d">(view map)</span>
           </mj-text>
         </mj-column>
 
@@ -123,7 +123,7 @@
 
         <mj-column width="40%">
           <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
-            Check-in <br>
+            Check-in <br/>
             <span style="color:#828282;font-weight:bold;">Thur 17th January</span>
           </mj-text>
         </mj-column>
@@ -153,7 +153,7 @@
           <mj-text color="#333333" font-weight="regular" font-size="16px" line-height="19px">
             Payment
           </mj-text>
-          <mj-divider border-width="1px" border-style="dashed" border-color="lightgrey" />
+          <mj-divider border-width="1px" border-style="dashed" border-color="#bdbdbd" />
         </mj-column>
 
         <mj-column width="70%">
@@ -478,13 +478,13 @@ color: #00aeff">888907</td>
       <!--horizontal line and opeyemi's contact-->
       <mj-section padding-top="0px">
         <mj-column>
-          <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding-top="-40px" />
+          <mj-divider border-width="1px" border-style="solid" border-color="#bdbdbd" padding-top="-40px" />
         </mj-column>
       </mj-section>
 
       <mj-section padding-top="0">
         <mj-column width="40%">
-          <mj-text color="#828282" font-size="15px" line-height="24px">Best Regards,<br><strong>Opeyemi Jegede</strong><br>Bookings Team</mj-text>
+          <mj-text color="#828282" font-size="15px" line-height="24px">Best Regards,<br/><strong>Opeyemi Jegede</strong><br/>Bookings Team</mj-text>
         </mj-column>
         <mj-column width="20%">
 
@@ -501,7 +501,7 @@ color: #00aeff">888907</td>
             Get the hotels.ng app book your hotels instantly with our andriod app</mj-text>
         </mj-column>
         <mj-column width="30%">
-          <mj-text color="#00AEFF" font-weight="900" font-size="12px" line-height="14px" align="right">
+          <mj-text color="#00AEFF" font-weight="900" font-size="12px" line-height="14px">
             Download now</mj-text>
         </mj-column>
       </mj-section>
@@ -523,7 +523,7 @@ color: #00aeff">888907</td>
       <!--horizontal line -->
       <mj-section padding-top="0px">
         <mj-column>
-          <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding-top="0" />
+          <mj-divider border-width="1px" border-style="solid" border-color="#bdbdbd" padding-top="0" />
         </mj-column>
       </mj-section>
 
@@ -542,7 +542,7 @@ color: #00aeff">888907</td>
       <!--horizontal line -->
       <mj-section padding-top="0px">
         <mj-column>
-          <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding-top="0" />
+          <mj-divider border-width="1px" border-style="solid" border-color="#bdbdbd" padding-top="0" />
         </mj-column>
       </mj-section>
 
@@ -560,7 +560,7 @@ color: #00aeff">888907</td>
       <!--horizontal line -->
       <mj-section padding-top="0px">
         <mj-column>
-          <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding-top="0" />
+          <mj-divider border-width="1px" border-style="solid" border-color="#bdbdbd" padding-top="0" />
         </mj-column>
       </mj-section>
 
@@ -579,7 +579,7 @@ color: #00aeff">888907</td>
       <!--horizontal line -->
       <mj-section padding-top="0px">
         <mj-column>
-          <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding-top="0" />
+          <mj-divider border-width="1px" border-style="solid" border-color="#bdbdbd" padding-top="0" />
         </mj-column>
       </mj-section>
 
@@ -587,7 +587,7 @@ color: #00aeff">888907</td>
 
       <mj-section padding-top="0">
         <mj-column width="100%">
-          <mj-text font-weight="bold" font-size="12px" line-height="16px" color="#333333" padding-top="0" padding-bottom='0'>Reservation & Best Price Gurantee
+          <mj-text font-weight="bold" font-size="12px" line-height="16px" color="#333333" padding-top="0" padding-bottom='0'>Reservation & Best Price Guarantee
           </mj-text>
           <mj-text font-weight="regular" font-size="12px" line-height="23px" color="#828282">Prices on the website are discounted especially for prepaid reservations. Some hotels may charge a higher rate at the hotel if you choose to pay on arrival.<br/> Once you place a booking, your reservation is secured, and we'll send you a final
             confirmation on check-in date. However, the hotel reserves the right to cancel your reservation.
@@ -599,7 +599,7 @@ color: #00aeff">888907</td>
       <!--horizontal line -->
       <mj-section padding-top="0px">
         <mj-column>
-          <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding-top="0" padding-bottom="0" />
+          <mj-divider border-width="1px" border-style="solid" border-color="#bdbdbd" padding-top="0" padding-bottom="0" />
         </mj-column>
       </mj-section>
 
