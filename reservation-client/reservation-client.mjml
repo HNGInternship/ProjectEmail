@@ -2,7 +2,7 @@
   <mj-head>
     <mj-title>Reservation is being processed </mj-title>
     <mj-attributes>
-      <mj-all font-family="lato" letter-spacing="0.48px" />
+      <mj-all font-family="Lato, Arial" letter-spacing="0.48px" />
       <mj-class name="payButton" color="#00AEFF" font-size="14px" line-height="17px" align="center" font-weight="bold" background-color="white" border="1px solid #00AEFF" border-radius="2.26px" width="220px" length="41px" />
 
       <mj-class name="cancelReservationBtn" color="#FA1212" font-size="14px" line-height="17px" align="center" font-weight="bold" background-color="white" border="1px solid #FA1212" border-radius="2.26px" width="220px" length="41px" />
@@ -15,19 +15,20 @@
   <mj-body background="black">
     <mj-wrapper background-color="#ffffff">
 
-      <mj-section>
-        <mj-column width="80%">
-          <!--hotels.ng logo with 80% width-->
-          <mj-image src="http://res.cloudinary.com/justiceotuya/image/upload/v1523683447/hotelslogo.png" alt="hotels.ng logo" width="116" height="39" />
-        </mj-column>
-        <mj-column width="20%">
+ <mj-section>
+         <mj-column width="100%">
           <mj-text>
             <a href="#" style="color:#4F4F4F;font-size:8.28px; text-decoration:none;line-height:10px; text-align:right;">
-              <mj-text style="border-bottom:1px solid #4f4f4f">View in browser</mj-text>
+              <mj-text style="float:right;border-bottom:1px solid #4f4f4f">View in browser</mj-text>
             </a>
           </mj-text>
         </mj-column>
+        <mj-column width="100%">
+          <!--hotels.ng logo with 80% width-->
+          <mj-image src="http://res.cloudinary.com/justiceotuya/image/upload/v1523683447/hotelslogo.png" alt="hotels.ng logo" width="116" height="39" />
+        </mj-column>
       </mj-section>
+
 
       <mj-section padding-bottom="0">
         <mj-column width="100%">
@@ -39,13 +40,13 @@
 
       <mj-section padding-top="0">
         <mj-column width="100%">
-          <mj-text color="#333333" font-weight="regular" font-size="16px" line-height="24px" align="left">
-            <span style="color:#333333; font-size:16px; font-weight: bold; line-height:24px; align:left;">Hello, Mr. Abayomi Abidakum,</span>
+          <mj-text color="#7C888D" font-weight="regular" font-size="16px" line-height="24px" align="left">
+            <span style="color:#7C888D; font-size:16px; font-weight: bold; line-height:24px; align:left;">Hello Mr. Abayomi Abidakum,</span>
             <br/>We have received your reservation request with the details below.<br> This is not your confirmation email
             <br/>
-            <br/> You'll recieve a confirmation email immediately the hotel confirms your reservation. You can pay online for your reservation with your debit card or by transfer to our bank accounts listed below.
+            <br/> You'll recieve a confirmation email immediately the hotel confirms your reservation. You can <span style="border-bottom:1px solid #7C888D">pay online</span> for your reservation with your debit card or by transfer to our bank accounts listed below.
           </mj-text>
-          <mj-divider border-width="2px" border-style="solid" border-color="lightgrey" />
+          <mj-divider border-width="1px" border-style="solid" border-color="#bdbdbd" />
         </mj-column>
       </mj-section>
 
@@ -59,49 +60,49 @@
 
         <!--Booking Details-->
         <mj-column width="30%">
-          <mj-text color="#333333" font-weight="regular" font-size="16px" line-height="19px">
+          <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
             Guest Name:
           </mj-text>
         </mj-column>
 
         <mj-column width="70%">
-          <mj-text color="#7C888D" font-weight="regular" font-size="16px" line-height="19px">
+          <mj-text color="#828282" font-weight="bold" font-size="16px" line-height="19px">
             Mr. Abayomi Abidakum
           </mj-text>
         </mj-column>
 
         <mj-column width="30%">
-          <mj-text color="#333333" font-weight="regular" font-size="16px" line-height="19px">
+          <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
             Hotel Name:
           </mj-text>
         </mj-column>
 
         <mj-column width="70%">
-          <mj-text color="#7C888D" font-weight="regular" font-size="16px" line-height="19px">
-            Southern sun ikoyi Hotel <span style="font-size:11px; border-bottom:1px solid #4f4f4f">(view map)</span>
+          <mj-text color="#828282" font-weight="bold" font-size="16px" line-height="19px">
+            Southern sun ikoyi Hotel (<span style="font-size:11px; border-bottom:1px solid #828282">view map</span>)
           </mj-text>
         </mj-column>
 
         <mj-column width="30%">
-          <mj-text color="#333333" font-weight="regular" font-size="16px" line-height="19px">
+          <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
             Location:
           </mj-text>
         </mj-column>
 
         <mj-column width="70%">
-          <mj-text color="#7C888D" font-weight="regular" font-size="16px" line-height="19px">
+          <mj-text color="#7C888D" font-weight="bold" font-size="16px" line-height="19px">
             47 Alfred Rewane Road ikoti, Lagos
           </mj-text>
         </mj-column>
 
         <mj-column width="30%">
-          <mj-text color="#333333" font-weight="regular" font-size="16px" line-height="19px">
+          <mj-text color="#7C888D" font-weight="regular" font-size="16px" line-height="19px">
             Booking ID:
           </mj-text>
         </mj-column>
 
         <mj-column width="70%">
-          <mj-text color="#00AEFF" font-weight="regular" font-size="16px" line-height="19px">
+          <mj-text color="#00AEFF" font-weight="bold" font-size="16px" line-height="19px">
             1084392023
           </mj-text>
         </mj-column>
@@ -166,7 +167,7 @@
           <mj-text color="#333333" font-weight="regular" font-size="16px" line-height="19px">
             Payment
           </mj-text>
-          <mj-divider border-width="1px" border-style="dashed" border-color="lightgrey" />
+          <mj-divider border-width="1px" border-style="dashed" border-color="bdbdbd" />
         </mj-column>
 
         <mj-column width="70%">
@@ -474,21 +475,21 @@ color: #00aeff">888907</td>
 
         <mj-section>
           <mj-column width="100%">
-            <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
-              If you require any further assistance or want to make changes to the schedule details stated above kindly call us on 07008808800 or use the buttons below
+            <mj-text color="#7c888d" font-weight="regular" font-size="16px" line-height="19px">
+              If you require any further assistance or want to make changes to the schedule details stated above kindly call us on <span style="font-weight:bold">07008808800</span> or use the buttons below
             </mj-text>
         </mj-section>
 
-        <mj-section>
-          <mj-column width="50%">
-            <mj-button mj-class="cancelReservationBtn">
-              CANCEL RESERVATION
-            </mj-button>
-          </mj-column>
 
+        <mj-section>
           <mj-column width="50%">
             <mj-button mj-class="payReservationBtn">
               CHANGE RESERVATION
+            </mj-button>
+          </mj-column>
+          <mj-column width="50%">
+            <mj-button mj-class="cancelReservationBtn">
+              CANCEL RESERVATION
             </mj-button>
           </mj-column>
         </mj-section>
@@ -496,7 +497,7 @@ color: #00aeff">888907</td>
         <!--horizontal line and opeyemi's contact-->
         <mj-section padding-top="0px">
           <mj-column>
-            <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding-top="-40px" />
+            <mj-divider border-width="0.56px" border-style="solid" border-color="#bdbdbd" padding-top="-40px" />
           </mj-column>
         </mj-section>
 
@@ -541,7 +542,7 @@ color: #00aeff">888907</td>
         <!--horizontal line -->
         <mj-section padding-top="0px">
           <mj-column>
-            <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding-top="0" />
+            <mj-divider border-width="0.56px" border-style="solid" border-color="#bdbdbd" padding-top="0" />
           </mj-column>
         </mj-section>
 
@@ -560,7 +561,7 @@ color: #00aeff">888907</td>
         <!--horizontal line -->
         <mj-section padding-top="0px">
           <mj-column>
-            <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding-top="0" />
+            <mj-divider border-width="0.56px" border-style="solid" border-color="#bdbdbd" padding-top="0" />
           </mj-column>
         </mj-section>
 
@@ -578,7 +579,7 @@ color: #00aeff">888907</td>
         <!--horizontal line -->
         <mj-section padding-top="0px">
           <mj-column>
-            <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding-top="0" />
+            <mj-divider border-width="0.56px" border-style="solid" border-color="#bdbdbd" padding-top="0" />
           </mj-column>
         </mj-section>
 
@@ -597,7 +598,7 @@ color: #00aeff">888907</td>
         <!--horizontal line -->
         <mj-section padding-top="0px">
           <mj-column>
-            <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding-top="0" />
+            <mj-divider border-width="0.56px" border-style="solid" border-color="#bdbdbd" padding-top="0" />
           </mj-column>
         </mj-section>
 
@@ -617,7 +618,7 @@ color: #00aeff">888907</td>
         <!--horizontal line -->
         <mj-section padding-top="0px">
           <mj-column>
-            <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding-top="0" padding-bottom="0" />
+           <mj-divider border-width="0.56px" border-style="solid" border-color="#bdbdbd" padding-top="0" />
           </mj-column>
         </mj-section>
 
