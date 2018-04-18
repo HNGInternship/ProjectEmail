@@ -2,7 +2,7 @@
   <mj-head>
     <mj-title>Hotel is Under Renovation </mj-title>
     <mj-attributes>
-      <mj-section padding="0px 30px 30px 10px" />
+      <mj-section padding="0px 30px 30px 30px" />
       <mj-text padding="4px" color="#828282" font-size="16px" />
       <mj-all font-family="Lato, Arial, sans-serif" />
       <mj-divider padding="16px 0px 0px 0px" />
@@ -201,8 +201,7 @@
 
 
     <!---Download App ribbon -->
-    <mj-section style="mix-blend-mode: normal;
-opacity: 1;" background-color="rgba(0, 174, 255, 0.29)">
+    <mj-section background-color="rgba(0, 174, 255, 0.29)">
       <mj-column width="70%">
         <mj-text color="#00AEFF" font-size="9px" line-height="normal">
           <strong> Get the hotels.ng app book your hotels instantly with our andriod app</strong></mj-text>
@@ -300,8 +299,6 @@ opacity: 1;" background-color="rgba(0, 174, 255, 0.29)">
           </mj-text>
           <mj-text font-weight="regular" font-size="12px" line-height="23px" color="#828282">Prices on the website are discounted especially for prepaid reservations. Some hotels may charge a higher rate at the hotel if you choose to pay on arrival.<br/> Once you place a booking, your reservation is secured, and we'll send you a final
             confirmation on check-in date. However, the hotel reserves the right to cancel your reservation.
-
-
           </mj-text>
         </mj-column>
       </mj-section>
@@ -316,17 +313,9 @@ opacity: 1;" background-color="rgba(0, 174, 255, 0.29)">
 
       <mj-section padding-top="0">
         <mj-column width="100%">
-          <mj-text font-weight="regular" font-size="12px" line-height="23px" color="#828282">3, Birrel Avenue, Yaba Lagos. +234 700 880 8800 <br/> Copyright © 2017 Hotels.ng, All rights reserved.
-
-          </mj-text>
+          <mj-text font-weight="regular" font-size="12px" line-height="23px" color="#828282">3, Birrel Avenue, Yaba Lagos. +234 700 880 8800 <br/> Copyright © 2017 Hotels.ng, All rights reserved.</mj-text>
         </mj-column>
       </mj-section>
-
-
-
-
-
-
     </mj-wrapper>
   </mj-body>
 </mjml>
