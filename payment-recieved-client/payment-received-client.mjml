@@ -2,7 +2,7 @@
   <mj-head>
     <mj-title>Payment Recieved Client</mj-title>
     <mj-attributes>
-      <mj-all font-family="Lato, Aria" />
+      <mj-all font-family="Lato, Arial" />
     </mj-attributes>
   </mj-head>
   <mj-body background-color="#212121">
@@ -29,19 +29,19 @@
         </mj-column>
       </mj-section>
 
-      <mj-section padding-top="0">
+      <mj-section padding="0">
         <mj-column width="100%">
-          <mj-text color="#333333" font-weight="regular" font-size="16px" line-height="24px" align="left">
-            <span style="color:#333333; font-size:16px; font-weight: bold; line-height:24px; align:left;">Hello, Mr. Abayomi Abidakum,</span>
-            <br>Thank you for booking through hotels.ng. Payment for your reservation at &nbsp<span style="border-bottom:1px solid #4f4f4f">Southern sun ikoyi Hotel Lagos</span>&nbsp was recieved.<br> Below are the reservation details and payment breakdown
+          <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="24px" align="left">
+            <span style="font-size:16px; font-weight: bold; line-height:24px; align:left;">Hello, Mr. Abayomi Abidakum,</span>
+            <br/>Thank you for booking through hotels.ng. Payment for your reservation at &nbsp;<span style="border-bottom:1px solid #828282">Southern sun ikoyi Hotel Lagos</span>&nbsp; was recieved.<br/> Below are the reservation details and payment breakdown
           </mj-text>
         </mj-column>
       </mj-section>
 
-      <mj-section>
-        <mj-column width="40%">
+      <mj-section padding="0">
+        <mj-column width="40%" >
           <mj-text color="#333333" font-weight="regular" font-size="16px" line-height="19px" align="left">
-            Client Name <br><br/>
+            Client Name  <br/><br/>
             <span style="color:#828282;font-weight:bold;">Ukauwa David Nwazuo</span>
           </mj-text>
         </mj-column>
@@ -54,7 +54,7 @@
       </mj-section>
 
       <!---Schedule Details-->
-      <mj-section>
+      <mj-section padding="0px">
         <mj-column width="100%">
           <mj-text color="#333333" font-weight="regular" font-size="16px" line-height="19px" align="left">
             Schedule Details
@@ -62,7 +62,7 @@
         </mj-column>
         <mj-column width="40%">
           <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px" align="left">
-            Check-in <br>
+            Check-in <br/>
             <span style="color:#828282;font-weight:bold;">Thursday 17th January</span>
           </mj-text>
         </mj-column>
@@ -82,28 +82,28 @@
 
 
       <!--payment Section-->
-      <mj-section>
+      <mj-section padding="0px">
         <mj-column width="100%">
           <mj-text color="#333333" font-weight="regular" font-size="16px" line-height="19px" align="left">
             Payment
           </mj-text>
           <mj-divider border-width="1px" border-style="dashed" border-color="#bdbdbd" />
         </mj-column>
-        <mj-column width="70%">
+        <mj-column width="77%">
           <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
             Standard Room x 2 Nights</mj-text>
         </mj-column>
-        <mj-column width="30%">
+        <mj-column width="23%">
           <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
             &#x20A6 5,000.00</mj-text>
 
         </mj-column>
 
-        <mj-column width="70%">
+        <mj-column width="80%">
           <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px" align="left">
             <span style="float:left">Charges<span></mj-text>
         </mj-column>
-        <mj-column width="30%" >
+        <mj-column width="20%" >
           <mj-text  color="#828282" font-weight="regular" font-size="16px" line-height="19px">
           &#x20A6 550.00</mj-text>
         </mj-column>
@@ -136,7 +136,7 @@
       </mj-section>
 
 
-      <mj-section>
+      <mj-section padding="0px">
         <mj-column width="100%">
           <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
             If you require any further assistance or want to make changes to the schedule details stated above kindly call us on <span style="font-weight:bold">0708808800</span>
@@ -152,14 +152,16 @@
       </mj-section>
 
       <mj-section padding-top="0">
-        <mj-column width="40%">
-          <mj-text color="#828282" font-size="15px" line-height="24px">Best Regards,<br><strong>Opeyemi Jegede</strong><br>Bookings Team</mj-text>
+        <mj-column width="50%">
+          <mj-text color="#828282" font-size="16px" line-height="24px">Best Regards,<br/><strong>Opeyemi Jegede</strong><br/> <span style="font-size:14px">Bookings Team</span></mj-text>
         </mj-column>
-        <mj-column width="20%">
+        <mj-column width="10%">
 
         </mj-column>
-        <mj-column width="40%">
-          <mj-text color="#828282" font-size="15px" line-height="24px">Email: <span style="color:#00AEFF; font-weight:bold">opeyemi@hotels.ng</span></br>Phone: <span style="color:#00AEFF; font-weight:bold">0708808800</span> </mj-text>
+        <mj-column width="40%" >
+          <mj-text color="#828282" font-size="16px" line-height="24px" align="justify">Email: <span style="color:#00AEFF; font-weight:bold">opeyemi@hotels.ng</span>
+          </mj-text>
+          <mj-text color="#828282" font-size="16px" line-height="24px" align="justify">Phone: <span style="color:#00AEFF; font-weight:bold">0708808800</span> </mj-text>
         </mj-column>
       </mj-section>
 
@@ -170,7 +172,7 @@
             Get the hotels.ng app book your hotels instantly with our andriod app</mj-text>
         </mj-column>
         <mj-column width="30%">
-          <mj-text color="#00AEFF" font-weight="800" font-size="12px" line-height="normal" align="center">
+          <mj-text color="#00AEFF" font-weight="800" font-size="12px" line-height="normal" >
             Download now</mj-text>
         </mj-column>
       </mj-section>
