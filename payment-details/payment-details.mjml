@@ -1,7 +1,7 @@
 <mjml>
   <mj-head>
     <mj-attributes>
-      <mj-section padding="0px 30px 30px 30px" />
+      <mj-section padding="0px 30px 16px 30px" />
       <mj-text padding="4px" color="#828282" font-size="16px" line-height="19px" />
       <mj-divider padding="16px 0px 0px 0px" />
       <mj-all font-family="Lato, Arial, sans-serif" />
@@ -135,35 +135,15 @@
         <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
       </mj-column>
     </mj-section>
-    <mj-section>
-      <mj-column>
-        <mj-table>
-          <tr style="font-size: 16px; color: #333333">
-            <td style="color: #828282">Best regards,</td>
-          </tr>
-          <tr style="font-size: 16px; color: #333333">
-            <td>Opeyemi Jegede</td>
-          </tr>
-          <tr style="font-size: 12px; color: #828282">
-            <td>Booking team</td>
-          </tr>
-        </mj-table>
+    <mj-section padding-top="0">
+      <mj-column width="40%">
+        <mj-text color="#7C888D" font-size="15px" line-height="24px">Best Regards,<br><strong>Opeyemi Jegede</strong><br>Bookings Team</mj-text>
       </mj-column>
-      <mj-column>
-        <mj-table>
-          <tr>
-            <td style="color: #333333; text-align: right; font-size: 16px">Email:</td>
-          </tr>
-          <tr>
-            <td style="text-align: right; color: #00AEFF; font-size: 16px ">opeyemi@hotels.ng</td>
-          </tr>
-          <tr>
-            <td style="color: #333333; text-align: right; font-size: 16px">Phone:</td>
-          </tr>
-          <tr>
-            <td style="text-align: right; color: #00AEFF; font-size: 16px ">07008808800</td>
-          </tr>
-        </mj-table>
+      <mj-column width="20%">
+
+      </mj-column>
+      <mj-column width="40%">
+        <mj-text color="#7C888D" font-size="15px" line-height="24px">Email: <span style="color:#00AEFF; font-weight:bold">opeyemi@hotels.ng</span></br>Phone: <span style="color:#00AEFF; font-weight:bold">0708808800</span> </mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
