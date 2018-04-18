@@ -1,9 +1,10 @@
 <mjml>
   <mj-head>
+    <mj-title>Hotels.ng</mj-title>
     <mj-attributes>
       <mj-image padding='0'/>
-      <mj-text align="left" color="#333" font-family="lato" font-size="16px" />
-      <mj-section background-color="#fff" />
+      <mj-text align="left" color="#333333" font-family="lato, arial" font-size="16px" line-height= "19px"/>
+      <mj-section background-color="#ffffff" />
      
     </mj-attributes>
     
@@ -12,33 +13,33 @@
   <mj-body>
     <mj-section>
       <mj-group>
-			<mj-column>
-        <mj-image width="116px" height="39px" src="http://res.cloudinary.com/maaj/image/upload/v1523994242/hng-logo.svg"></mj-image>
+			<mj-column padding="30px 0px 0px 0px">
+        <mj-image width="116px" height="39px" alt="hotels.ng logo" src="http://res.cloudinary.com/maaj/image/upload/v1523994242/hng-logo.svg"></mj-image>
         
       </mj-column>
       <mj-column>
       	<mj-navbar>
-        	<mj-navbar-link font-family="lato" text-decoration="underline" text-transform="lowercase" font-size="8px">view in browser</mj-navbar-link>
+        	<mj-navbar-link font-family="lato,arial" text-decoration="underline" text-transform="lowercase" font-size="8.29px" line-height="10px">view in browser</mj-navbar-link>
         </mj-navbar>
       </mj-column>
         </mj-group>
      </mj-section>
      <mj-section padding="">
     	<mj-column>
-      	<mj-text align="left" font-family="lato" font-size="20px"font-weight="bold" color="#333333">
+      	<mj-text align="left" font-family="lato" font-size="20px" line-height="24px" font-weight="bold" color="#333333">
         	Southern Sun Ikoyi Hotel Is Fully Booked
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="">
     	<mj-column>
-      	<mj-text align="left" font-family="lato" font-size="16px"font-weight="bold" color="#7C888D">
+      	<mj-text align="left" font-family="lato" font-size="16px" font-weight="bold" color="#828282">
         	Hello Mr. Abayomi Abidakum,
         </mj-text>  
-        <mj-text align="left" font-family="lato" font-size="16px"font-weight="regular" color="#828282">
+        <mj-text align="left" font-family="lato" font-size="16px" font-weight="regular" color="#828282">
         Unfortunately, Southern sun ikoyi Hotel, Ikoyi, Lagos has no room available for your selected dates(Thur 17th January - Tues 22th January). All rooms at the hotel are fully booked.
         </mj-text>
-        <mj-text align="left" font-family="lato" font-size="16px"font-weight="regular" color="#828282">
+        <mj-text align="left" font-family="lato" font-size="16px" font-weight="regular" color="#828282">
         	Here's a list of available hotels within your budget and location.
         </mj-text>
       </mj-column>
@@ -47,7 +48,7 @@
       <mj-section padding="">
         <mj-column>
           <mj-raw>
-      	<div style="margin:0 0 0 10px; width:25px; height: 25px; background-color:#00AEFF; border-radius:50%; font-family:lato; color:#fff" align="center" ><h3>1</h3></div>
+      	<div style="margin:0 0 0 10px; width:25px; height: 25px; background-color:#00AEFF; border-radius:50%; font-family:lato; color:#ffffff" align="center" ><h3>1</h3></div>
       </mj-raw>
         </mj-column>
       </mj-section>
@@ -55,36 +56,36 @@
     <mj-wrapper padding="0 0 0 20px">
     <mj-section padding="">
        <mj-column>
-      	<mj-text align="left" font-family="lato" font-size="16px"font-weight="regular" color="#333333">
+      	<mj-text align="left" font-family="lato" font-size="16px" font-weight="regular" color="#333333">
         	Hotel Name: 
         </mj-text>
       </mj-column>
       <mj-column>
-      	<mj-text align="left" font-family="lato" font-size="16px"font-weight="regular" color="#7C888D">
+      	<mj-text align="left" font-family="lato" font-size="16px" font-weight="regular" color="#828282">
         	Colonades Hotel 
         </mj-text>
       </mj-column>     
     </mj-section>
     <mj-section padding="">
       	<mj-column>
-        	<mj-text align="left" font-family="lato" font-size="16px"font-weight="regular" color="#333333">
+        	<mj-text align="left" font-family="lato" font-size="16px" font-weight="regular" color="#333333">
         	Avrg. Room Price:
         </mj-text>
         </mj-column>
         <mj-column>
-      	<mj-text align="left" font-family="lato" font-size="16px"font-weight="regular" color="#7C888D">
+      	<mj-text align="left" font-family="lato" font-size="16px" font-weight="regular" color="#828282">
         	N4500.00 
         </mj-text>
       </mj-column>  
       </mj-section>
     <mj-section padding="">
       	<mj-column>
-        	<mj-text align="left" font-family="lato" font-size="16px"font-weight="regular" color="#333333">
+        	<mj-text align="left" font-family="lato" font-size="16px" font-weight="regular" color="#333333">
         	Location:
         </mj-text>
         </mj-column>
         <mj-column>
-      	<mj-text align="left" font-family="lato" font-size="16px"font-weight="regular" color="#7C888D">
+      	<mj-text align="left" font-family="lato" font-size="16px" font-weight="regular" color="#828282">
         	47 Alfred Rewane Road ikoti, Lagos
         </mj-text>
       </mj-column>  
@@ -94,19 +95,19 @@
     <mj-section padding="">
       <mj-group>
       <mj-column>
-      	<mj-image width="170" height="87" src="http://res.cloudinary.com/maaj/image/upload/v1523994242/hotel-image1.svg"></mj-image>
+      	<mj-image width="150px" height="87px" alt="hotel image 1" src="http://res.cloudinary.com/maaj/image/upload/v1523994242/hotel-image1.svg"></mj-image>
       </mj-column>
       <mj-column>
-      	<mj-image width="170" height="87" src="http://res.cloudinary.com/maaj/image/upload/v1523994245/hotel-image2.svg"></mj-image>
+      	<mj-image width="150px" height="87px" alt="hotel image 2" src="http://res.cloudinary.com/maaj/image/upload/v1523994245/hotel-image2.svg"></mj-image>
       </mj-column>
       <mj-column>
-      	<mj-image width="170" height="87" src="http://res.cloudinary.com/maaj/image/upload/v1523994244/hotel-image8.svg"></mj-image>
+      	<mj-image width="150px" height="87px" src="http://res.cloudinary.com/maaj/image/upload/v1523994244/hotel-image8.svg"></mj-image>
       </mj-column>
         </mj-group>
       </mj-section>
     <mj-section padding="">
     	<mj-column>
-      	<mj-button background-color="#fff" border="1px solid #00AEFF" width="220px" height="41px" color="#00AEFF" font-family="lato" font-size="14px" font-weight="bold"> VIEW HOTEL
+      	<mj-button background-color="#ffffff" border="1px solid #00AEFF" width="220px" height="41px" color="#00AEFF" font-family="lato" font-size="14px" font-weight="bold" line-height="19px"> VIEW HOTEL
        </mj-button>
       </mj-column>
     </mj-section>
@@ -115,7 +116,7 @@
     <mj-section>
       <mj-column>
         <mj-raw>
-      	<div style="margin:0 0 0 10px;  width:25px; height: 25px; background-color:#00AEFF; border-radius:50%; font-family:lato; color:#fff" align="center" ><h3>2</h3></div>
+      	<div style="margin:0 0 0 10px;  width:25px; height: 25px; background-color:#00AEFF; border-radius:50%; font-family:lato; color:#ffffff" align="center" ><h3>2</h3></div>
       </mj-raw>
       </mj-column>
       
@@ -124,36 +125,36 @@
     <mj-wrapper padding="0 0 0 20px">
     <mj-section padding="">
        <mj-column>
-      	<mj-text align="left" font-family="lato" font-size="16px"font-weight="regular" color="#333333">
+      	<mj-text align="left" font-family="lato" font-size="16px" font-weight="regular" color="#333333">
         	Hotel Name: 
         </mj-text>
       </mj-column>
       <mj-column>
-      	<mj-text align="left" font-family="lato" font-size="16px"font-weight="regular" color="#7C888D">
+      	<mj-text align="left" font-family="lato" font-size="16px" font-weight="regular" color="#828282">
         	Ikoyi Fairview Apartments
         </mj-text>
       </mj-column>     
     </mj-section>
     <mj-section padding="">
       	<mj-column>
-        	<mj-text align="left" font-family="lato" font-size="16px"font-weight="regular" color="#333333">
+        	<mj-text align="left" font-family="lato" font-size="16px" font-weight="regular" color="#333333">
         	Avrg. Room Price:
         </mj-text>
         </mj-column>
         <mj-column>
-      	<mj-text align="left" font-family="lato" font-size="16px"font-weight="regular" color="#7C888D">
+      	<mj-text align="left" font-family="lato" font-size="16px" font-weight="regular" color="#828282">
         	N4200.00 
         </mj-text>
       </mj-column>  
       </mj-section>
     <mj-section padding="">
       	<mj-column>
-        	<mj-text align="left" font-family="lato" font-size="16px"font-weight="regular" color="#333333">
+        	<mj-text align="left" font-family="lato" font-size="16px" font-weight="regular" color="#333333">
         	Location:
         </mj-text>
         </mj-column>
         <mj-column>
-      	<mj-text align="left" font-family="lato" font-size="16px"font-weight="regular" color="#7C888D">
+      	<mj-text align="left" font-family="lato" font-size="16px" font-weight="regular" color="#828282">
         	47 Alfred Rewane Road ikoti, Lagos
         </mj-text>
       </mj-column>  
@@ -163,19 +164,19 @@
     <mj-section padding="">
       <mj-group>
       <mj-column>
-      	<mj-image width="170px" height="87px" src="http://res.cloudinary.com/maaj/image/upload/v1523994255/hotel-image9.svg"></mj-image>
+      	<mj-image width="150px" height="87px" alt="hotel 2 image" src="http://res.cloudinary.com/maaj/image/upload/v1523994255/hotel-image9.svg"></mj-image>
       </mj-column>
       <mj-column>
-      	<mj-image width="170" height="87" src="http://res.cloudinary.com/maaj/image/upload/v1523994253/hotel-image3.svg"></mj-image>
+      	<mj-image width="150px" height="87px" alt="hotel 2 image" src="http://res.cloudinary.com/maaj/image/upload/v1523994253/hotel-image3.svg"></mj-image>
       </mj-column>
       <mj-column>
-      	<mj-image width="170" height="87" src="http://res.cloudinary.com/maaj/image/upload/v1523994259/hotel-image4.svg"></mj-image>
+      	<mj-image width="150px" height="87px" alt="hotel 2 image" src="http://res.cloudinary.com/maaj/image/upload/v1523994259/hotel-image4.svg"></mj-image>
       </mj-column>
         </mj-group>
       </mj-section>
     <mj-section padding="">
     	<mj-column>
-      	<mj-button background-color="#fff" border="1px solid #00AEFF" width="220px" height="41px" color="#00AEFF" font-family="lato" font-size="14px" font-weight="bold"> VIEW HOTEL
+      	<mj-button background-color="#ffffff" border="1px solid #00AEFF" width="220px" height="41px" color="#00AEFF" font-family="lato" font-size="14px" font-weight="bold" line-height="19px"> VIEW HOTEL
        </mj-button>
       </mj-column>
     </mj-section>
@@ -184,7 +185,7 @@
     <mj-section>
       <mj-column>
         <mj-raw>
-      	<div style="margin:0 0 0 10px ; width:25px; height: 25px; background-color:#00AEFF; border-radius:50%; font-family:lato; color:#fff" align="center" ><h3>3</h3></div>
+      	<div style="margin:0 0 0 10px ; width:25px; height: 25px; background-color:#00AEFF; border-radius:50%; font-family:lato; color:#ffffff" align="center" ><h3>3</h3></div>
       </mj-raw>
       </mj-column>
     </mj-section>
@@ -192,36 +193,36 @@
     <mj-wrapper padding="0 0 0 20px">
     <mj-section padding="">
        <mj-column>
-      	<mj-text align="left" font-family="lato" font-size="16px"font-weight="regular" color="#333333">
+      	<mj-text align="left" font-family="lato" font-size="16px" font-weight="regular" color="#333333">
         	Hotel Name: 
         </mj-text>
       </mj-column>
       <mj-column>
-      	<mj-text align="left" font-family="lato" font-size="16px"font-weight="regular" color="#7C888D">
+      	<mj-text align="left" font-family="lato" font-size="16px" font-weight="regular" color="#828282">
         	Westwood Hotel Ikoyi
         </mj-text>
       </mj-column>     
     </mj-section>
     <mj-section padding="">
       	<mj-column>
-        	<mj-text align="left" font-family="lato" font-size="16px"font-weight="regular" color="#333333">
+        	<mj-text align="left" font-family="lato" font-size="16px" font-weight="regular" color="#333333">
         	Avrg. Room Price:
         </mj-text>
         </mj-column>
         <mj-column>
-      	<mj-text align="left" font-family="lato" font-size="16px"font-weight="regular" color="#7C888D">
+      	<mj-text align="left" font-family="lato" font-size="16px" font-weight="regular" color="#828282">
         	N5500.00
         </mj-text>
       </mj-column>  
       </mj-section>
     <mj-section padding="">
       	<mj-column>
-        	<mj-text align="left" font-family="lato" font-size="16px"font-weight="regular" color="#333333">
+        	<mj-text align="left" font-family="lato" font-size="16px" font-weight="regular" color="#333333">
         	Location:
         </mj-text>
         </mj-column>
         <mj-column>
-      	<mj-text align="left" font-family="lato" font-size="16px"font-weight="regular" color="#7C888D">
+      	<mj-text align="left" font-family="lato" font-size="16px" font-weight="regular" color="#828282">
         	47 Alfred Rewane Road ikoti, Lagos
         </mj-text>
       </mj-column>  
@@ -231,16 +232,22 @@
     <mj-section padding="">
       <mj-group>
       <mj-column>
-      	<mj-image width="170" height="87" src="http://res.cloudinary.com/maaj/image/upload/v1523994250/hotel-image7.svg"></mj-image>
+      	<mj-image width="150px" height="87px" alt="hotel 3 image" src="http://res.cloudinary.com/maaj/image/upload/v1523994250/hotel-image7.svg"></mj-image>
       </mj-column>
       <mj-column>
-      	<mj-image width="170" height="87" src="http://res.cloudinary.com/maaj/image/upload/v1523994245/hotel-image5.svg"></mj-image>
+      	<mj-image width="150px" height="87px" alt="hotel 3 image" src="http://res.cloudinary.com/maaj/image/upload/v1523994245/hotel-image5.svg"></mj-image>
       </mj-column>
       <mj-column>
-      	<mj-image width="170" height="87" src="http://res.cloudinary.com/maaj/image/upload/v1523994246/hotel-image6.svg"></mj-image>
+      	<mj-image width="150px" height="87px" alt="hotel 3 image" src="http://res.cloudinary.com/maaj/image/upload/v1523994246/hotel-image6.svg"></mj-image>
       </mj-column>
         </mj-group>
       </mj-section>
+      <mj-section padding="">
+    	<mj-column>
+      	<mj-button background-color="#ffffff" border="1px solid #00AEFF" width="220px" height="41px" color="#00AEFF" font-family="lato" font-size="14px" font-weight="bold" line-height="19px"> VIEW HOTEL
+       </mj-button>
+      </mj-column>
+    </mj-section>
     <mj-section padding="">
     	<mj-column>
       	<mj-text color="#828282" font-family="lato" font-size="16px" font-weight="regular">Reply this email or call 07008808800 if you would like to get more expert recommendations.</mj-text>
@@ -296,7 +303,7 @@ Phone: <span style="color:#00AEFF;">09024097111 </span>
         </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="rgba(0, 174, 255, 0.29)" full-width="full-width">
+    <mj-section background-color="rgba(0, 174, 255, 0.29)">
     
     <mj-column width="70%">
     	<mj-text font-family="lato" font-size="9px" color="#00AEFF">
@@ -310,7 +317,7 @@ Phone: <span style="color:#00AEFF;">09024097111 </span>
       </mj-column>
     </mj-section>
     
-    <mj-wrapper background-color="#eee" full-width="full-width">
+    <mj-wrapper background-color="#eee" >
   <mj-section background-color="#eee">
       <mj-column>
       	<mj-image align="left" padding="0 0 0 25px" width="55px" height="18px" src="http://res.cloudinary.com/maaj/image/upload/v1523994242/hng-logo.svg" ></mj-image>
