@@ -1,7 +1,7 @@
 <mjml>
   <mj-head>
     <mj-attributes>
-      <mj-section padding="0px 0px 16px 0px" />
+      <mj-section padding="0px 30px 30px 30px" />
       <mj-text padding="4px" color="#828282" font-size="16px" line-height="19px" />
       <mj-divider padding="16px 0px 0px 0px" />
       <mj-all font-family="Lato, Arial, sans-serif" />
@@ -21,7 +21,8 @@
     <mj-section>
       <mj-column>
         <mj-text font-size="16px" font-weight="bold" color="#7C888D">Hello Mr Abayomi Abidakum,</mj-text>
-        <mj-text color="#7C888D" line-height="19px" letter-spacing="0.03rem">Thanks for booking Southern sun ikoyi Hotel, Ikoyi, Lagos from Friday 18th January - Wednesday 23rd January. You can pay online or through bank transfer to any of our bank accounts listed below.
+        <mj-text color="#7C888D" line-height="19px" letter-spacing="0.03rem">Thanks for booking <a style="color: #7c888d; border: 0px solid #333333; border-bottom: 2px">Southern sun ikoyi Hotel, Ikoyi, Lagos</a> from Friday 18th January - Wednesday 23rd January. You can pay online or through bank transfer to any of our
+          bank accounts listed below.
         </mj-text>
         <mj-text color="#7C888D" line-height="19px" letter-spacing="0.03rem">Please ensure to place your booking ID or guest name in the narration field of the bank transfer to help us easily identify your payment.</mj-text>
         <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
