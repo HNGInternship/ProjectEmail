@@ -85,7 +85,7 @@
           </tr>
         </mj-table>
         <mj-spacer height="20px"></mj-spacer>
-        <mj-text>This is a pay on arrival booking. The client will pay you N5,550.00 on check-in date. We will inform if the client changes their payment option.
+        <mj-text line-height="23px">This is a pay on arrival booking. The client will pay you N5,550.00 on check-in date. We will inform if the client changes their payment option.
           <br><br> Kindly confirm the reservation as soon as possible and send us feedback. if you require any information, do not hesitate to call us on this phone number <span style="font-weight: bold">07008808800</span> or reply this email</mj-text>
       </mj-column>
     </mj-section>
@@ -168,11 +168,11 @@
     <mj-section>
       <mj-column>
         <mj-image align="left " height="18px " width="55px " padding="0px 0px 0px 4px " src="https://res.cloudinary.com/mclint-cdn/image/upload/v1523824094/hng-logo.svg " />
-        <mj-text font-size="12px ">Hotels.ng is an online booking agency specialised in hotel booking within nigeria. we market hotels online nd book rooms for clients. we proffer hotel accomodation solution to the people looking for hotels witnin an area or particular city . we
+        <mj-text font-size="12px " line-height="23px">Hotels.ng is an online booking agency specialised in hotel booking within nigeria. we market hotels online nd book rooms for clients. we proffer hotel accomodation solution to the people looking for hotels witnin an area or particular city . we
           provide them with appropriate hotels that match their budget and expectations.</mj-text>
         <mj-text color="#00AEFF " font-size="12px ">Learn more</mj-text>
         <mj-divider border-color="#BDBDBD " border-width="1px "></mj-divider>
-        <mj-text padding="16px 0px 0px 0px " font-size="12px ">3, Birrel Avenue, Yaba Lagos. +234 700 880 8800</mj-text>
+        <mj-text padding="16px 0px 0px 0px " font-size="12px " line-height="17px">3, Birrel Avenue, Yaba Lagos. +234 700 880 8800</mj-text>
         <mj-text font-size="12px ">Copyright © 2017 Hotels.ng, All rights reserved. </mj-text>
       </mj-column>
     </mj-section>
