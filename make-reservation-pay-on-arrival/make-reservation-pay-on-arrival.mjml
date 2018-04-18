@@ -1,7 +1,7 @@
 <mjml>
   <mj-head>
     <mj-attributes>
-      <mj-section padding="0px 30px 30px 10px" />
+      <mj-section padding="0px 30px 16px 10px" />
       <mj-text padding="4px" color="#828282" font-size="16px" />
       <mj-all font-family="Lato, Arial, sans-serif" />
       <mj-divider padding="16px 0px 0px 0px" />
@@ -32,23 +32,23 @@
             <th style="color: #333333; text-align: left">Booking ID</th>
           </tr>
           <tr>
-            <td style="color: #828282;">Ukauwa David Nwazuo</td>
-            <td style="color: #00AEFF;">#23479786754</td>
+            <td style="font-size: 16px; color: #828282;">Ukauwa David Nwazuo</td>
+            <td style="font-size: 16px; color: #00AEFF;">#23479786754</td>
           </tr>
         </mj-table>
         <mj-table>
           <tr>
-            <th style="color: #333333; text-align: left">Schedule details</th>
+            <th style="font-size: 16px; color: #333333; text-align: left">Schedule details</th>
           </tr>
           <tr>
-            <th style="color: #828282; text-align: left; font-weight: normal;">Check-in</th>
-            <th style="color: #828282; text-align: left;  font-weight: normal;">Check-out</th>
-            <th style="color: #828282; text-align: left;  font-weight: normal;">Guest(s)</th>
+            <th style="font-size: 16px; color: #828282; text-align: left; font-weight: normal;">Check-in</th>
+            <th style="font-size: 16px; color: #828282; text-align: left;  font-weight: normal;">Check-out</th>
+            <th style="font-size: 16px; color: #828282; text-align: left;  font-weight: normal;">Guest(s)</th>
           </tr>
           <tr>
-            <td style="color: #828282; font-weight: bold;">Thur 17th January</td>
-            <td style="color: #828282; font-weight: bold;">Tue 22nd January</td>
-            <td style="color: #828282; font-weight: bold;">1</td>
+            <td style="font-size: 16px; color: #828282; font-weight: bold;">Thur 17th January</td>
+            <td style="font-size: 16px; color: #828282; font-weight: bold;">Tue 22nd January</td>
+            <td style="font-size: 16px; color: #828282; font-weight: bold;">1</td>
           </tr>
         </mj-table>
       </mj-column>
@@ -81,19 +81,17 @@
         <mj-table>
           <tr>
             <td><img src="../images/prepaid-icon.svg" /></td>
-            <td style="color: #828282; font-size: 16px; align: left;">Payment on arrival</td>
+            <td style="color: #828282; font-size: 16px; align: left; font-weight: bold;">Payment on arrival</td>
           </tr>
         </mj-table>
         <mj-spacer height="20px"></mj-spacer>
-        <mj-text>This is a pay on arrival booking. The client will pay you N5,550.00 on check-in date. We will inform if the client changes their payment option.</mj-text>
-        <mj-spacer height="25px"></mj-spacer>
-        <mj-text>
-          Kindly confirm the reservation as soon as possible and send us feedback. if you require any information, do not hesitate to call us on this phone number 07008808800 or reply this email</mj-text>
+        <mj-text>This is a pay on arrival booking. The client will pay you N5,550.00 on check-in date. We will inform if the client changes their payment option.
+          <br><br> Kindly confirm the reservation as soon as possible and send us feedback. if you require any information, do not hesitate to call us on this phone number <span style="font-weight: bold">07008808800</span> or reply this email</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-button width="220px" background-color="white" border="2px solid #FA1212" color="#FA1212" font-size="14px">REJECT BOOKING</mj-button>
+        <mj-button width="220px" background-color="white" border="1px solid #FA1212" color="#FA1212" font-size="14px">REJECT BOOKING</mj-button>
       </mj-column>
       <mj-column>
         <mj-button width="220px" background-color="#00AEFF" color="white" font-size="14px">CONFIRM RESERVATION</mj-button>
@@ -101,82 +99,68 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text>If you are rejecting this booking kindly tell us why to avoid future occurences.</mj-text>
+        <mj-text line-height="23px">If you are rejecting this booking kindly tell us why to avoid future occurences.</mj-text>
         <mj-spacer height="25px"></mj-spacer>
-        <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
-        <!--add input here-->
+        <mj-text padding="0px">
+          <form>
+            <input type="text" style="width: 95%; height: 39px; border: 1px solid #C4C4C4; border-left-width: 10px; border-left-color: #00AEFF; font-size: 16px; line-height:23px; padding:0px 0px 0px 16px" placeholder="State reason here " />
+            <form>
+        </mj-text>
+        <mj-divider border-color=" #BDBDBD " border-width="1px "></mj-divider>
+
       </mj-column>
+    </mj-section>
+    <mj-section padding-top="0 ">
+      <mj-column width="40% ">
+        <mj-text color="#7C888D " font-size="15px " line-height="24px ">Best Regards,<br><strong>Opeyemi Jegede</strong><br>Bookings Team</mj-text>
+      </mj-column>
+      <mj-column width="20% ">
+
+      </mj-column>
+      <mj-column width="40% ">
+        <mj-text color="#7C888D " font-size="15px " line-height="24px ">Email: <span style="color:#00AEFF; font-weight:bold ">opeyemi@hotels.ng</span></br>Phone: <span style="color:#00AEFF; font-weight:bold ">0708808800</span> </mj-text>
+      </mj-column>
+    </mj-section>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-table>
-          <tr style="font-size: 16px; color: #333333">
-            <td style="color: #828282">Best regards,</td>
-          </tr>
-          <tr style="font-size: 16px; color: #333333">
-            <td>Opeyemi Jegede</td>
-          </tr>
-          <tr style="font-size: 12px; color: #828282">
-            <td>Booking team</td>
-          </tr>
-        </mj-table>
-      </mj-column>
-      <mj-column>
+        <mj-divider padding="0px 0px 10px 0px " border-color="#BDBDBD " border-width="1px "></mj-divider>
+        <mj-text color="#333333 ">Confirm if your hotel information is correct</mj-text>
         <mj-table>
           <tr>
-            <td style="color: #828282; text-align: right; font-size: 16px">Email:</td>
+            <th style="text-align: left; color: #828282; font-size: 16px; font-weight: normal; ">Name</th>
+            <th style="text-align: left; color: #828282; font-size: 16px; font-weight: normal; ">Address</th>
           </tr>
           <tr>
-            <td style="text-align: right; color: #00AEFF; font-size: 16px ">opeyemi@hotels.ng</td>
+            <td style="text-align: left; color: #828282; font-size: 16px; font-weight: bold; ">Southern Ikoyi Road</td>
+            <td style="text-align: left; color: #828282; font-size: 16px; font-weight: bold; ">47 Alfred Rewande Road, Ikoyi, Lagos</td>
+          </tr>
+          <tr style="height: 20px; "></tr>
+          <tr>
+            <th style="text-align: left; color: #828282; font-size: 16px; font-weight: normal; ">Contact Details</th>
+            <th style="text-align: left; color: #828282; font-size: 16px; font-weight: normal; ">Other Details</th>
           </tr>
           <tr>
-            <td style="color: #828282; text-align: right; font-size: 16px">Phone:</td>
+            <th style="text-align: left; color: #828282; font-size: 16px; font-weight: bold; ">+234 1 280 5200</th>
+            <th style="text-align: left; color: #828282; font-size: 16px; font-weight: bold; ">Pictures, Rates, Facilities and Description</th>
           </tr>
           <tr>
-            <td style="text-align: right; color: #00AEFF; font-size: 16px ">07008808800</td>
-          </tr>
-        </mj-table>
-      </mj-column>
-    </mj-section>
-    <mj-section>
-      <mj-column>
-        <mj-divider padding="0px 0px 10px 0px" border-color="#BDBDBD" border-width="1px"></mj-divider>
-        <mj-text color="#333333">Confirm if your hotel information is correct</mj-text>
-        <mj-table>
-          <tr>
-            <th style="text-align: left; color: #828282; font-size: 16px; font-weight: normal;">Name</th>
-            <th style="text-align: left; color: #828282; font-size: 16px;  font-weight: normal;">Address</th>
-          </tr>
-          <tr>
-            <td style="text-align: left; color: #828282; font-size: 16px; font-weight: bold;">Southern Ikoyi Road</td>
-            <td style="text-align: left; color: #828282; font-size: 16px; font-weight: bold;">47 Alfred Rewande Road, Ikoyi, Lagos</td>
-          </tr>
-          <tr style="height: 20px;"></tr>
-          <tr>
-            <th style="text-align: left; color: #828282; font-size: 16px; font-weight: normal;">Contact Details</th>
-            <th style="text-align: left; color: #828282; font-size: 16px; font-weight: normal;">Other Details</th>
-          </tr>
-          <tr>
-            <th style="text-align: left; color: #828282; font-size: 16px; font-weight: bold;">+234 1 280 5200</th>
-            <th style="text-align: left; color: #828282; font-size: 16px; font-weight: bold;">Pictures, Rates, Facilities and Description</th>
-          </tr>
-          <tr>
-            <th style="text-align: left; color: #828282; font-size: 16px; font-weight: bold;">+234 1 280 0630</th>
+            <th style="text-align: left; color: #828282; font-size: 16px; font-weight: bold; ">+234 1 280 0630</th>
           </tr>
         </mj-table>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-button width="220px" background-color="#084482" color="white" font-size="14px">UPDATE INFORMATION</mj-button>
+        <mj-button width="220px " background-color="#084482 " color="white " font-size="14px ">UPDATE INFORMATION</mj-button>
       </mj-column>
     </mj-section>
     <mj-section>
-      <mj-column background-color="rgba(252, 130, 51, 0.29)">
+      <mj-column background-color="rgba(252, 130, 51, 0.29) ">
         <mj-table>
           <tr>
-            <td style="font-size: 9px; font-weight: 500; color: #FC8233;">Sell more rooms and manage your hotel information on multiple OTAs with our Android app</td>
-            <td style="font-size: 12px; font-weight: 800; color: #FC8233;">Download now</td>
+            <td style="font-size: 9px; font-weight: 500; color: #FC8233; ">Sell more rooms and manage your hotel information on multiple OTAs with our Android app</td>
+            <td style="font-size: 12px; font-weight: 800; color: #FC8233; ">Download now</td>
           </tr>
         </mj-table>
       </mj-column>
@@ -184,12 +168,12 @@
     <mj-section>
       <mj-column>
         <mj-image align="left " height="18px " width="55px " padding="0px 0px 0px 4px " src="https://res.cloudinary.com/mclint-cdn/image/upload/v1523824094/hng-logo.svg " />
-        <mj-text font-size="12px">Hotels.ng is an online booking agency specialised in hotel booking within nigeria. we market hotels online nd book rooms for clients. we proffer hotel accomodation solution to the people looking for hotels witnin an area or particular city . we
+        <mj-text font-size="12px ">Hotels.ng is an online booking agency specialised in hotel booking within nigeria. we market hotels online nd book rooms for clients. we proffer hotel accomodation solution to the people looking for hotels witnin an area or particular city . we
           provide them with appropriate hotels that match their budget and expectations.</mj-text>
-        <mj-text color="#00AEFF" font-size="12px">Learn more</mj-text>
-        <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
-        <mj-text padding="16px 0px 0px 0px" font-size="12px">3, Birrel Avenue, Yaba Lagos. +234 700 880 8800</mj-text>
-        <mj-text font-size="12px">Copyright © 2017 Hotels.ng, All rights reserved. </mj-text>
+        <mj-text color="#00AEFF " font-size="12px ">Learn more</mj-text>
+        <mj-divider border-color="#BDBDBD " border-width="1px "></mj-divider>
+        <mj-text padding="16px 0px 0px 0px " font-size="12px ">3, Birrel Avenue, Yaba Lagos. +234 700 880 8800</mj-text>
+        <mj-text font-size="12px ">Copyright © 2017 Hotels.ng, All rights reserved. </mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
