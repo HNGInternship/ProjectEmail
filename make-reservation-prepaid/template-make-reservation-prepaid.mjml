@@ -85,11 +85,8 @@
             <td style="font-weight: bold; color: #828282; font-size: 16px; align: left;">Pre-paid</td>
           </tr>
         </mj-table>
-        <mj-spacer height="20px"></mj-spacer>
-        <mj-text>This is a pay on arrival booking. The client will pay you N5,550.00 on check-in date. We will inform if the client changes their payment option.</mj-text>
-        <mj-spacer height="25px"></mj-spacer>
-        <mj-text>
-          Kindly confirm the reservation as soon as possible and send us feedback. if you require any information, do not hesitate to call us on this phone number 07008808800 or reply this email</mj-text>
+        <mj-text line-height="23px">This is a pay on arrival booking. The client will pay you N5,550.00 on check-in date. We will inform if the client changes their payment option<br><br> Kindly confirm the reservation as soon as possible and send us feedback. if you require any
+          information, do not hesitate to call us on this phone number 07008808800 or reply this email</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -103,9 +100,14 @@
     <mj-section>
       <mj-column>
         <mj-text>If you are rejecting this booking kindly tell us why to avoid future occurences.</mj-text>
-        <mj-spacer height="25px"></mj-spacer>
+        <mj-spacer height="16px"></mj-spacer>
+        <mj-text>
+          <form>
+            <input type="text" style="width: 95%; height: 39px; border: 1px solid #C4C4C4; border-left-width: 10px; border-left-color: #00AEFF; font-size: 16px; line-height:23px; padding:0px 0px 0px 16px" placeholder="State reason here " />
+            <form>
+        </mj-text>
+        <mj-spacer height="16px"></mj-spacer>
         <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
-        <!--add input here-->
       </mj-column>
     </mj-section>
     <mj-section padding-top="0 ">
@@ -165,12 +167,12 @@
     <mj-section>
       <mj-column>
         <mj-image align="left" height="18px" width="55px " padding="0px 0px 0px 4px " src="https://res.cloudinary.com/mclint-cdn/image/upload/v1523824094/hng-logo.svg " />
-        <mj-text font-size="12px">Hotels.ng is an online booking agency specialised in hotel booking within nigeria. we market hotels online nd book rooms for clients. we proffer hotel accomodation solution to the people looking for hotels witnin an area or particular city . we
+        <mj-text font-size="12px" line-height="23px">Hotels.ng is an online booking agency specialised in hotel booking within nigeria. we market hotels online nd book rooms for clients. we proffer hotel accomodation solution to the people looking for hotels witnin an area or particular city . we
           provide them with appropriate hotels that match their budget and expectations.</mj-text>
         <mj-text color="#00AEFF" font-size="12px" padding="8px 0px 16px 0px">Learn more</mj-text>
         <mj-divider border-color="#BDBDBD " border-width="1px "></mj-divider>
         <mj-text padding="16px 0px 0px 0px " font-size="12px ">3, Birrel Avenue, Yaba Lagos. +234 700 880 8800</mj-text>
-        <mj-text font-size="12px">Copyright © 2017 Hotels.ng, All rights reserved. </mj-text>
+        <mj-text font-size="12px" line-height="17px">Copyright © 2017 Hotels.ng, All rights reserved. </mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
