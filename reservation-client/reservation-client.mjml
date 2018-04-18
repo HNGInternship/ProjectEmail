@@ -12,7 +12,7 @@
     </mj-attributes>
 
   </mj-head>
-  <mj-body background="black">
+  <mj-body background="#212121">
     <mj-wrapper background-color="#ffffff">
 
  <mj-section>
@@ -40,8 +40,8 @@
 
       <mj-section padding-top="0">
         <mj-column width="100%">
-          <mj-text color="#7C888D" font-weight="regular" font-size="16px" line-height="24px" align="left">
-            <span style="color:#7C888D; font-size:16px; font-weight: bold; line-height:24px; align:left;">Hello Mr. Abayomi Abidakum,</span>
+          <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="24px" align="left">
+            <span style="color:#828282; font-size:16px; font-weight: bold; line-height:24px; align:left;">Hello Mr. Abayomi Abidakum,</span>
             <br/>We have received your reservation request with the details below.<br> This is not your confirmation email
             <br/>
             <br/> You'll recieve a confirmation email immediately the hotel confirms your reservation. You can <span style="border-bottom:1px solid #7C888D">pay online</span> for your reservation with your debit card or by transfer to our bank accounts listed below.
@@ -50,8 +50,10 @@
         </mj-column>
       </mj-section>
 
+
+
       <!--Booking details-->
-      <mj-section>
+      <mj-section padding="0">
         <mj-column width="100%">
           <mj-text color="#333333" font-weight="regular" font-size="16px" line-height="19px">
             Booking Details
@@ -59,54 +61,39 @@
         </mj-column>
 
         <!--Booking Details-->
-        <mj-column width="30%">
+        <mj-column width="100%">
           <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
             Guest Name:
-          </mj-text>
+
+<span style="font-weight:bold">  &emsp;&emsp;&emsp;&emsp; &emsp; &emsp; &emsp; &ensp;Mr. Abayomi Abidakum</span>   </mj-text>
         </mj-column>
 
-        <mj-column width="70%">
-          <mj-text color="#828282" font-weight="bold" font-size="16px" line-height="19px">
-            Mr. Abayomi Abidakum
-          </mj-text>
-        </mj-column>
-
-        <mj-column width="30%">
+        <mj-column width="100%">
           <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
             Hotel Name:
-          </mj-text>
+
+<span style="font-weight:bold">  &emsp;&emsp;&emsp;&emsp; &emsp;&emsp; &emsp;&emsp; Southern sun ikoyi Hotel (<span style="font-size:11px; border-bottom:1px solid #828282">view map</span>)</span>   </mj-text>
         </mj-column>
 
-        <mj-column width="70%">
-          <mj-text color="#828282" font-weight="bold" font-size="16px" line-height="19px">
-            Southern sun ikoyi Hotel (<span style="font-size:11px; border-bottom:1px solid #828282">view map</span>)
-          </mj-text>
-        </mj-column>
-
-        <mj-column width="30%">
+        <mj-column width="100%">
           <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
             Location:
-          </mj-text>
+
+<span style="font-weight:bold">  &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&ensp;47 Alfred Rewane Road ikoti, Lagos</span>   </mj-text>
         </mj-column>
 
-        <mj-column width="70%">
-          <mj-text color="#7C888D" font-weight="bold" font-size="16px" line-height="19px">
-            47 Alfred Rewane Road ikoti, Lagos
-          </mj-text>
-        </mj-column>
-
-        <mj-column width="30%">
-          <mj-text color="#7C888D" font-weight="regular" font-size="16px" line-height="19px">
+        <mj-column width="100%">
+          <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
             Booking ID:
-          </mj-text>
+
+<span style="font-weight:bold; color: #00AEFF">  &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&ensp;  1084392023</span>   </mj-text>
         </mj-column>
 
-        <mj-column width="70%">
-          <mj-text color="#00AEFF" font-weight="bold" font-size="16px" line-height="19px">
-            1084392023
-          </mj-text>
-        </mj-column>
-      </mj-section>
+
+
+
+
+
 
 
       <!---Schedule Details-->
@@ -142,7 +129,7 @@
       </mj-section>
 
       <!--Add-ons-->
-      <mj-section>
+      <mj-section padding="0">
 
         <mj-column width="100%">
           <mj-text color="#333333" font-weight="regular" font-size="16px" line-height="19px">
@@ -170,22 +157,22 @@
           <mj-divider border-width="1px" border-style="dashed" border-color="bdbdbd" />
         </mj-column>
 
-        <mj-column width="70%">
+        <mj-column width="75%">
           <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
             Standard Room x 2 Nights</mj-text>
         </mj-column>
 
-        <mj-column width="30%">
+        <mj-column width="25%">
           <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
             &#x20A6 5,550.00</mj-text>
         </mj-column>
 
-        <mj-column width="70%">
+        <mj-column width="75%">
           <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
             Charges</mj-text>
         </mj-column>
 
-        <mj-column width="30%">
+        <mj-column width="25%">
           <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
             &#x20A6 550.00</mj-text>
         </mj-column>
@@ -229,251 +216,81 @@
       </mj-section>
 
 
+<!--Bank Account Number-->
 
-      <!--Bank Account Numbers-->
-      <mj-section>
-        <mj-column width="100%">
-          <mj-table font>
+<!--Zenith Bank-->
+<mj-section>
+ <mj-column width="100%">
+          <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
+          Account Name:
+<span style="font-weight:bold">  &emsp;&ensp; Hotel Booking Limited</span>   </mj-text>
 
-            <tr>
-              <td style="font-family: Lato;
-font-style: normal;
-font-weight: normal;
-line-height: 2;
-font-size: 14px;
-color: #333333">Account Name:</td>
-              <td style="font-family: Lato;
-font-style: normal;
-font-weight: normal;
-line-height: 2;
-font-size: 14px;
-color: #7C888D">Hotel Booking Limited </td>
-            </tr>
-            <tr>
+<mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
+              Account Number:
 
-              <td style="font-family: Lato;
-font-style: normal;
-font-weight: normal;
-line-height: 2;
-font-size: 14px;
-color: #333333">Account Number:</td>
-              <td style="font-family: Lato;
-font-style: normal;
-font-weight: normal;
-line-height: 2;
-font-size: 14px;
-color: #7C888D">1013583788</td>
-            </tr>
-            <tr>
+<span style="font-weight:bold">  &ensp;  1013583788</span>   </mj-text>
+<mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
+            Bank Name:
 
-              <td style="font-family: Lato;
-font-style: normal;
-font-weight: normal;
-line-height: 2;
-font-size: 14px;
-;
-color: #333333">Bank Name:</td>
-              <td style="font-family: Lato;
-font-style: normal;
-font-weight: normal;
-line-height: 2;
-font-size: 14px;
-color: #7C888D">Zenith Bank</td>
+<span style="font-weight:bold"> &emsp;&emsp; &emsp;   Zenith Bank</span>   </mj-text>
+<mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
+            Payment Ref:
 
-
-
-
-
-            </tr>
-
-            <tr>
-
-              <td style="font-family: Lato;
-font-style: normal;
-font-weight: normal;
-line-height: 2;
-font-size: 14px;
-;
-color: #333333">Payment Ref:</td>
-              <td style="font-family: Lato;
-font-style: normal;
-font-weight: 800;
-line-height: 2;
-font-size: 14px;
-color: #00aeff">888907</td>
-
-
-
-
-
-            </tr>
-
-          </mj-table>
-
+<span style="font-weight:bold; color:#00aeff">  &emsp;&emsp; &ensp; 888907</span>   </mj-text>
         </mj-column>
+</mj-section>
 
 
 
-        <mj-column width="100%">
+<!--GTB Bank-->
+<mj-section>
+ <mj-column width="100%">
+          <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
+          Account Name:
+<span style="font-weight:bold">  &emsp;&ensp; Hotel Booking Limited</span>   </mj-text>
 
+<mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
+              Account Number:
 
-          <mj-table>
+<span style="font-weight:bold">  &ensp;  0127699812</span>   </mj-text>
+<mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
+            Bank Name:
 
-            <tr>
-              <td style="font-family: Lato;
-font-style: normal;
-font-weight: normal;
-line-height: 2;
-font-size: 14px;
-color: #333333">Account Name:</td>
-              <td style="font-family: Lato;
-font-style: normal;
-font-weight: normal;
-line-height: 2;
-font-size: 14px;
-color: #7C888D">Hotel Booking Limited </td>
-            </tr>
-            <tr>
+<span style="font-weight:bold"> &emsp;&emsp; &emsp;   GTB Bank</span>   </mj-text>
+<mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
+            Payment Ref:
 
-              <td style="font-family: Lato;
-font-style: normal;
-font-weight: normal;
-line-height: 2;
-font-size: 14px;
-color: #333333">Account Number:</td>
-              <td style="font-family: Lato;
-font-style: normal;
-font-weight: normal;
-line-height: 2;
-font-size: 14px;
-color: #7C888D"> 0127699812 </td>
-            </tr>
-            <tr>
-
-              <td style="font-family: Lato;
-font-style: normal;
-font-weight: normal;
-line-height: 2;
-font-size: 14px;
-color: #333333">Bank Name:</td>
-              <td style="font-family: Lato;
-font-style: normal;
-font-weight: normal;
-line-height: 2;
-font-size: 14px;
-color: #7C888D">GTB Bank</td>
-            </tr>
-
-
-            <tr>
-
-              <td style="font-family: Lato;
-font-style: normal;
-font-weight: normal;
-line-height: 2;
-font-size: 14px;
-;
-color: #333333">Payment Ref:</td>
-              <td style="font-family: Lato;
-font-style: normal;
-font-weight: 800;
-line-height: 2;
-font-size: 14px;
-color: #00aeff">888907</td>
-
-
-
-
-
-            </tr>
-          </mj-table>
+<span style="font-weight:bold; color:#00aeff">   &emsp;&emsp; &ensp; 888907</span>   </mj-text>
         </mj-column>
+</mj-section>
 
 
+<!--UBA Bank-->
+<mj-section>
+ <mj-column width="100%">
+          <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
+          Account Name:
+<span style="font-weight:bold">  &emsp;&ensp; Hotel Booking Limited</span>   </mj-text>
 
-        <mj-section>
-          <mj-column>
-            <mj-table>
+<mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
+              Account Number:
 
-              <tr>
-                <td style="font-family: Lato;
-font-style: normal;
-font-weight: normal;
-line-height: 2;
-font-size: 14px;
-color: #333333">Account Name:</td>
-                <td style="font-family: Lato;
-font-style: normal;
-font-weight: normal;
-line-height: 2;
-font-size: 14px;
-color: #7C888D"> Hotel Booking Limited </td>
-              </tr>
+<span style="font-weight:bold">  &ensp;  1017438301</span>   </mj-text>
+<mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
+            Bank Name:
 
-              <tr>
-                <td style="font-family: Lato;
-font-style: normal;
-font-weight: normal;
-line-height: 2;
-font-size: 14px;
-color: #333333">Account Number:</td>
-                <td style="font-family: Lato;
-font-style: normal;
-font-weight: normal;
-line-height: 2;
-font-size: 14px;
-letter-spacing: 0.03em;
-color: #7C888D">1017438301 </td>
-              </tr>
+<span style="font-weight:bold"> &emsp;&emsp; &emsp;   UBA Bank</span>   </mj-text>
+<mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
+            Payment Ref:
 
-              <tr>
-                <td style="font-family: Lato;
-font-style: normal;
-font-weight: normal;
-line-height: 2;
-font-size: 14px;
-color: #333333">Bank Name:</td>
-                <td style="font-family: Lato;
-font-style: normal;
-font-weight: normal;
-line-height: 2;
-font-size: 14px;
-color: #7C888D">UBA Bank</td>
-              </tr>
-
-
-              <tr>
-
-                <td style="font-family: Lato;
-font-style: normal;
-font-weight: normal;
-line-height: 2;
-font-size: 14px;
-;
-color: #333333">Payment Ref:</td>
-                <td style="font-family: Lato;
-font-style: normal;
-font-weight: 800;
-line-height: 2;
-font-size: 14px;
-color: #00aeff">888907</td>
+<span style="font-weight:bold; color:#00aeff">  &emsp;&emsp; &ensp; 888907</span>   </mj-text>
+        </mj-column>
+</mj-section>
 
 
 
 
-
-              </tr>
-            </mj-table>
-          </mj-column>
-        </mj-section>
-
-
-
-
-
-
-
-        <mj-section>
+        <mj-section padding-top="0">
           <mj-column width="100%">
             <mj-text color="#7c888d" font-weight="regular" font-size="16px" line-height="19px">
               If you require any further assistance or want to make changes to the schedule details stated above kindly call us on <span style="font-weight:bold">07008808800</span> or use the buttons below
@@ -505,11 +322,14 @@ color: #00aeff">888907</td>
           <mj-column width="40%">
             <mj-text color="#828282" font-size="15px" line-height="24px">Best Regards,<br><strong>Opeyemi Jegede</strong><br>Bookings Team</mj-text>
           </mj-column>
-          <mj-column width="20%">
+          <mj-column width="10%">
 
           </mj-column>
-          <mj-column width="40%">
-            <mj-text color="#828282" font-size="15px" line-height="24px">Email: <span style="color:#00AEFF; font-weight:bold">opeyemi@hotels.ng</span></br>Phone: <span style="color:#00AEFF; font-weight:bold">0708808800</span> </mj-text>
+
+          <mj-column width="50%">
+            <mj-text color="#828282" font-size="15px" line-height="24px">Email: <span style="color:#00AEFF; font-weight:bold">opeyemi@hotels.ng</mj-text>
+
+            <mj-spacer height="0"/><mj-text color="#828282" font-size="15px" line-height="24px">Phone: <span style="color:#00AEFF; font-weight:bold">0708808800</span> </mj-text>
           </mj-column>
         </mj-section>
 
