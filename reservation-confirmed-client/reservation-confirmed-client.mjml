@@ -482,15 +482,18 @@ color: #00aeff">888907</td>
         </mj-column>
       </mj-section>
 
+     
       <mj-section padding-top="0">
-        <mj-column width="40%">
-          <mj-text color="#828282" font-size="15px" line-height="24px">Best Regards,<br/><strong>Opeyemi Jegede</strong><br/>Bookings Team</mj-text>
+        <mj-column width="45%">
+          <mj-text color="#828282" font-size="16px" line-height="24px">Best Regards,<br/><strong>Opeyemi Jegede</strong><br/> <span style="font-size:14px">Bookings Team</span></mj-text>
         </mj-column>
-        <mj-column width="20%">
+        <mj-column width="10%">
 
         </mj-column>
-        <mj-column width="40%">
-          <mj-text color="#828282" font-size="15px" line-height="24px">Email: <span style="color:#00AEFF; font-weight:bold">opeyemi@hotels.ng</span></br>Phone: <span style="color:#00AEFF; font-weight:bold">0708808800</span> </mj-text>
+        <mj-column width="45%" >
+          <mj-text color="#828282" font-size="16px" line-height="24px" align="justify">Email: <span style="color:#00AEFF; font-weight:bold">opeyemi@hotels.ng</span>
+          </mj-text>
+          <mj-text color="#828282" font-size="16px" line-height="24px" align="justify">Phone: <span style="color:#00AEFF; font-weight:bold">0708808800</span> </mj-text>
         </mj-column>
       </mj-section>
 
