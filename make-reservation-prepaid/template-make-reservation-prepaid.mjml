@@ -138,30 +138,37 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
-        <mj-text color="#333333" padding="16px 0px 0px 0px">Confirm if your hotel information is correct</mj-text>
-        <mj-table>
-          <tr>
-            <th style="text-align: left; color: #828282; font-size: 16px; font-weight: normal;">Name</th>
-            <th style="text-align: left; color: #828282; font-size: 16px;  font-weight: normal;">Address</th>
-          </tr>
-          <tr>
-            <td style="text-align: left; color: #828282; font-size: 16px; font-weight: bold;">Southern Ikoyi Road</td>
-            <td style="text-align: left; color: #828282; font-size: 16px; font-weight: bold;">47 Alfred Rewande Road, Ikoyi, Lagos</td>
-          </tr>
-          <tr style="height: 20px;"></tr>
-          <tr>
-            <th style="text-align: left; color: #828282; font-size: 16px; font-weight: normal;">Contact Details</th>
-            <th style="text-align: left; color: #828282; font-size: 16px; font-weight: normal;">Other Details</th>
-          </tr>
-          <tr>
-            <th style="text-align: left; color: #828282; font-size: 16px; font-weight: bold;">+234 1 280 5200</th>
-            <th style="text-align: left; color: #828282; font-size: 16px; font-weight: bold;">Pictures, Rates, Facilities and Description</th>
-          </tr>
-          <tr>
-            <th style="text-align: left; color: #828282; font-size: 16px; font-weight: bold;">+234 1 280 0630</th>
-          </tr>
-        </mj-table>
+        <mj-text color="#333333" font-size="16px" line-height="19px">
+          Name
+          <br>
+          <p style="color: #828282; font-weight: bold;">Southern Sun Ikoyi Hotel</p>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text color="#333333" font-size="16px" line-height="19px">
+          Address
+          <br>
+          <p style="color: #828282; font-weight: bold">47 Alfred Rewande Road, Ikoyi, Lagos</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text color="#828282" font-size="16px" line-height="19px">
+          Contact details
+          <br>
+          <p style="color: #828282; font-weight: bold;">
+            +234 1 280 5200
+            <br> +234 1 280 0630
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text color="#828282" font-size="16px" line-height="19px">
+          Other details
+          <br>
+          <p style="color: #828282; font-weight: bold">Pictures, Rates, Facilities and Description</p>
+        </mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
