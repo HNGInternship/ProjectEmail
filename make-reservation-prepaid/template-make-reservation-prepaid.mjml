@@ -1,5 +1,6 @@
 ﻿<mjml>
   <mj-head>
+    <mj-title>Make Reservation - Prepaid</mj-title>
     <mj-attributes>
       <mj-section padding="0px 30px 16px 30px" />
       <mj-text padding="4px" color="#828282" font-size="16px" />
@@ -10,7 +11,6 @@
   <mj-body background-color="white">
     <mj-section>
       <mj-column>
-
         <mj-image height="39px" width="116px" src="https://res.cloudinary.com/mclint-cdn/image/upload/v1523824094/hng-logo.svg" />
       </mj-column>
     </mj-section>
@@ -21,37 +21,52 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text font-size="16px" font-weight="bold" color="#7C888D">Hello Southern Southern Hotel,</mj-text>
+        <mj-text font-size="16px" font-weight="bold" color="#7C888D">Hello Southern Sun Ikoyi Hotel,</mj-text>
         <mj-text color="#7C888D" line-height="19px" letter-spacing="0.03rem">Please make a reservation for our client, using the details below. Please keep your phone lines open.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-table>
-          <tr>
-            <th style="font-size: 16px; color: #333333; text-align: left">Client Name</th>
-            <th style="font-size: 16px; color: #333333; text-align: left">Booking ID</th>
-          </tr>
-          <tr>
-            <td style="font-size: 16px; color: #828282;">Ukauwa David Nwazuo</td>
-            <td style="font-size: 16px; color: #00AEFF;">#23479786754</td>
-          </tr>
-        </mj-table>
-        <mj-table>
-          <tr>
-            <th style="font-size: 16px; color: #333333; text-align: left">Schedule details</th>
-          </tr>
-          <tr>
-            <th style="font-size: 16px; color: #828282; text-align: left; font-weight: normal;">Check-in</th>
-            <th style="font-size: 16px; color: #828282; text-align: left;  font-weight: normal;">Check-out</th>
-            <th style="font-size: 16px; color: #828282; text-align: left;  font-weight: normal;">Guest(s)</th>
-          </tr>
-          <tr>
-            <td style="font-size: 16px; color: #828282; font-weight: bold;">Thur 17th January</td>
-            <td style="font-size: 16px; color: #828282; font-weight: bold;">Tue 22nd January</td>
-            <td style="font-size: 16px; color: #828282; font-weight: bold;">1</td>
-          </tr>
-        </mj-table>
+        <mj-text color="#333333" font-size="16px" line-height="19px">
+          Client name
+          <br>
+          <p style="color: #828282; font-weight: bold;">Ukauwa David Nwazuo</p>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text color="#333333" font-size="16px" line-height="19px">
+          Booking ID
+          <br>
+          <p style="color: #00AEFF; font-weight: bold">#23479786754</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text color="#333333" font-size="16px" line-height="19px">Schedule details</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text color="#828282" font-size="16px" line-height="19px">
+          Check in
+          <br>
+          <p style="color: #828282; font-weight: bold;">Thur 17th January</p>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text color="#828282" font-size="16px" line-height="19px">
+          Booking ID
+          <br>
+          <p style="color: #828282; font-weight: bold">Tues 22th January</p>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text color="#828282" font-size="16px" line-height="19px">
+          Client name
+          <br>
+          <p style="color: #828282; font-weight: bold;">1</p>
+        </mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
