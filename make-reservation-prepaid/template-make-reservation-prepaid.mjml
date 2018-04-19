@@ -138,6 +138,11 @@
     </mj-section>
     <mj-section>
       <mj-column>
+        <mj-divider border-color="#BDBDBD" border-width="1px" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
         <mj-text color="#333333" font-size="16px" line-height="19px">
           Name
           <br>
