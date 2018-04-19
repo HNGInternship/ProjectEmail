@@ -4,19 +4,19 @@
       <mj-all padding="0px"></mj-all>
       <mj-class name="preheader" color="#000000" font-size="11px" font-family="Ubuntu, Helvetica, Arial, sans-serif" padding="0px"></mj-class>
     </mj-attributes>
-    <mj-style inline="inline">a { text-decoration: none; color: inherit; }</mj-style>
+    
   </mj-head>
 
   <mj-body background-color="#ffffff">
     <mj-container>
 
-      <mj-section padding="10px 0" text-align="center">
+      <mj-section padding="10px" text-align="center">
         <mj-column width="33%">
-          <mj-image src="../images/hng-logo.svg" alt="logo" width="150px" padding="10px 0"></mj-image>
+          <mj-image src="https://res.cloudinary.com/dzwrncue8/image/upload/v1524130997/hng-logo.svg" alt="logo" width="150px" padding="10px 0"></mj-image>
         </mj-column>
       </mj-section>
       
-      <mj-section padding="5px 0" >
+      <mj-section padding="10px" >
         <mj-column >
         <mj-text font-family="lato" font-style="normal" font-weight="bold" line-height="normal" font-size="20px" color="#333333">
         <h3>
@@ -24,19 +24,24 @@
         </mj-column>
       </mj-section>
       
-
-
-
-      <mj-section background-color="#ffffff" padding-top="20px" padding-bottom="15px">
-        <mj-column width="100%">
+      
+      
+      
+      
+      
+      
+      
+      
+      <mj-section background-color="#ffffff" padding="10px">
+        <mj-column>
 
           <mj-text font-family="lato" font-style="normal" line-height="23px" font-size="16px" letter-spacing="0.03em" color="#828282">
               <strong>Hello Mr. Abayomi Abidakum,</strong><br />
-              <p>Unfortunately, <span color="#333" style="text-decoration: underline;">Southern sun ikoyi Hotel , Ikoyi, Lagos</span>  is temporarily closed for business till further noticed. </P>
+              <p> Unfortunately, <span color="#333" style="text-decoration: underline;">Southern sun ikoyi Hotel , Ikoyi, Lagos</span>  is temporarily closed for business till further noticed. </P>
           </mj-text>
           <mj-text font-family="lato" font-style="normal"  line-height="23px" font-size="16px" letter-spacing="0.03em" color="#828282">
-              <p>
-              Please consider some of our best alternative recommendations listed below.</P>
+             
+              Please consider some of our best alternative recommendations listed below.
           </mj-text>
 
         </mj-column>
@@ -44,9 +49,10 @@
 
 
 
-      <mj-section padding-bottom="15px" padding-top="20">
+
+      <mj-section padding="10px">
         <mj-column>
-          <mj-text font-size="16px" font-family="Lato" align="left" font-style="Regular" line-height="25px" color="#333333"><strong>Schdule Details</strong>
+          <mj-text font-size="16px" font-family="Lato" align="left" font-style="Regular" line-height="25px" color="#333333"><strong>fdsfsdsdgSchdule Details</strong>
           </mj-text>
         </mj-column>
       </mj-section>
@@ -54,7 +60,7 @@
 
 
 
-      <mj-section padding-bottom="15px" padding-top="20">
+      <mj-section padding="10px">
         <mj-column>
           <mj-text font-size="16px" font-family="Lato" align="left" font-style="Regular" line-height="25px" letter-spacing="3%" color="#828282">Check-in
           </mj-text>
@@ -78,15 +84,15 @@
       <!-- Number 1 pannel -->
 
 
-      <mj-section >
+      <mj-section padding="10px">
         <mj-column >
-          <mj-button border-radius="50%" background-color="#00AEFF" color="#ffffff" font-size="15px"  font-family="Lato" align="left" font-style="bold">1</mj-button>
+          <mj-button height="35px" border-radius="50%" background-color="#00AEFF" color="#ffffff" font-size="15px"  font-family="Lato" align="left" font-style="bold">1</mj-button>
         </mj-column>
       </mj-section>
 
 
 
-      <mj-section>
+      <mj-section padding="0px 10px 0px 40px">
         <mj-column width="40%">
 
           <mj-text font-size="16px" font-family="Lato" align="left" font-style="Regular" line-height="30px" letter-spacing="3%" color="#333333"><strong>Hotel Name:</strong>
@@ -97,7 +103,7 @@
           <mj-text font-size="16px" font-family="Lato" align="left" font-style="Regular" line-height="30px" letter-spacing="3%" color="#333333">Location:</mj-text>
         </mj-column>
 
-        <mj-column width="45%">
+        <mj-column width="50%">
           <mj-text font-size="16px" font-family="Lato" align="left" font-style="Regular" line-height="30px" letter-spacing="3%" color="#7c888D"><strong>Colonades Hotel</strong></mj-text>
 
           <mj-text font-size="16px" font-family="Lato" align="left" font-style="Regular" line-height="30px" letter-spacing="3%" color="#7c888D">N4500.00</mj-text>
@@ -110,19 +116,18 @@
 
 
 
-      <mj-section background-color="#ffffff" padding="10px 0px">
-        <mj-column width="30%">
-          <mj-image src="../images/hotel-image1.svg" alt="New York" width="170px"></mj-image>
+      <mj-section background-color="#ffffff" padding="0px 10px 0px 0px">
+        <mj-column  width="30%" padding="3px">
+          <mj-image src="https://res.cloudinary.com/dzwrncue8/image/upload/v1524130999/hotel-image1.svg" alt="New York" width="170px"></mj-image>
         </mj-column>
 
-        <mj-column width="30%">
-          <mj-image src="../images/hotel-image2.svg" alt="London" width="170px"></mj-image>
+        <mj-column width="30%" padding="3px">
+          <mj-image src="https://res.cloudinary.com/dzwrncue8/image/upload/v1524130999/hotel-image2.svg" alt="London" width="170px"></mj-image>
         </mj-column>
-        <mj-column width="30%">
-          <mj-image src="../images/hotel-image3.svg" alt="Berlin" width="170px"></mj-image>
+        <mj-column  width="30%" padding="3px">
+          <mj-image src="https://res.cloudinary.com/dzwrncue8/image/upload/v1524130997/hotel-image3.svg" alt="Berlin" width="170px"></mj-image>
         </mj-column>
       </mj-section>
-
 
 
       <mj-section padding-bottom="20px"  padding-top="10px">
@@ -138,15 +143,15 @@
       <!-- Number 2 pannel -->
 
 
-      <mj-section >
+      <mj-section padding="10px">
         <mj-column>
-          <mj-button background-color="#00AEFF" color="#ffffff" font-size="18px" border-radius="50%" href="#" font-family="Lato" align="left" line-height="22px" font-style="bold">2</mj-button>
+          <mj-button height="35px" background-color="#00AEFF" color="#ffffff" font-size="18px" border-radius="50%" href="#" font-family="Lato" align="left" line-height="22px" font-style="bold">2</mj-button>
         </mj-column>
       </mj-section>
 
 
 
-      <mj-section>
+      <mj-section padding="0px 10px 0px 40px">
         <mj-column width="40%">
 
           <mj-text font-size="16px" font-family="Lato" align="left" font-style="Regular" line-height="30px" letter-spacing="3%" color="#333333"><strong>Hotel Name:</strong>
@@ -170,22 +175,22 @@
 
 
 
-      <mj-section background-color="#ffffff" padding="10px 0px">
-        <mj-column width="30%">
-          <mj-image src="../images/hotel-image4.svg" alt="New York" width="170px"></mj-image>
+      <mj-section background-color="#ffffff" padding="10px">
+        <mj-column width="30%" padding="3px">
+          <mj-image src="https://res.cloudinary.com/dzwrncue8/image/upload/v1524130999/hotel-image4.svg" alt="New York" width="170px"></mj-image>
         </mj-column>
 
-        <mj-column width="30%">
-          <mj-image src="../images/hotel-image5.svg" alt="London" width="170px"></mj-image>
+        <mj-column width="30%" padding="3px">
+          <mj-image src="https://res.cloudinary.com/dzwrncue8/image/upload/v1524130995/hotel-image5.svg" alt="London" width="170px"></mj-image>
         </mj-column>
-        <mj-column width="30%">
-          <mj-image src="../images/hotel-image6.svg" alt="Berlin" width="170px"></mj-image>
+        <mj-column width="30%" padding="3px">
+          <mj-image src="https://res.cloudinary.com/dzwrncue8/image/upload/v1524130998/hotel-image6.svg" alt="Berlin" width="170px"></mj-image>
         </mj-column>
       </mj-section>
 
 
 
-      <mj-section padding-bottom="20px"  padding-top="10px">
+      <mj-section  padding="10px">
       <mj-column>
 
         <mj-button width="250px" background-color="#ffffff" border="1px solid #00AEFF" color="#00AEFF" href="#" font-family="Lato" padding="20px 0 0 0" font-weight="bold" font-size="14px">VIEW HOTEL</mj-button>
@@ -200,15 +205,15 @@
       <!-- Number 3 pannel -->
 
 
-      <mj-section >
+      <mj-section padding="10px">
         <mj-column>
-          <mj-button background-color="#00AEFF" color="#ffffff" font-size="18px" border-radius="50%" href="#" font-family="Lato" align="left" line-height="22px" font-style="bold">3</mj-button>
+          <mj-button height="35px" background-color="#00AEFF" color="#ffffff" font-size="18px" border-radius="50%" href="#" font-family="Lato" align="left" line-height="22px" font-style="bold">3</mj-button>
         </mj-column>
       </mj-section>
 
 
 
-      <mj-section>
+      <mj-section padding="0px 10px 0px 40px">
         <mj-column width="40%">
 
           <mj-text font-size="16px" font-family="Lato" align="left" font-style="Regular" line-height="30px" letter-spacing="3%" color="#333333"><strong>Hotel Name:</strong>
@@ -232,22 +237,22 @@
 
 
 
-      <mj-section background-color="#ffffff" padding="10px 0px">
-        <mj-column width="30%">
-          <mj-image src="../images/hotel-image7.svg" alt="New York" width="170px"></mj-image>
+      <mj-section background-color="#ffffff" padding="10px">
+        <mj-column width="30%" padding="3px">
+          <mj-image src="https://res.cloudinary.com/dzwrncue8/image/upload/v1524130995/hotel-image7.svg" alt="New York" width="170px"></mj-image>
         </mj-column>
 
-        <mj-column width="30%">
-          <mj-image src="../images/hotel-image8.svg" alt="London" width="170px"></mj-image>
+        <mj-column width="30%" padding="3px">
+          <mj-image src="https://res.cloudinary.com/dzwrncue8/image/upload/v1524130996/hotel-image8.svg" alt="London" width="170px"></mj-image>
         </mj-column>
-        <mj-column width="30%">
-          <mj-image src="../images/hotel-image2.svg" alt="Berlin" width="170px"></mj-image>
+        <mj-column width="30%" padding="3px">
+          <mj-image src="https://res.cloudinary.com/dzwrncue8/image/upload/v1524130999/hotel-image2.svg" alt="Berlin" width="170px"></mj-image>
         </mj-column>
       </mj-section>
 
 
 
-      <mj-section padding-bottom="20px"  padding-top="10px">
+      <mj-section padding="10px">
       <mj-column>
 
         <mj-button width="250px" background-color="#ffffff" border="1px solid #00AEFF" color="#00AEFF" href="#" font-family="Lato" padding="20px 0 0 0" font-weight="bold" font-size="14px">VIEW HOTEL</mj-button>
@@ -259,7 +264,7 @@
 
 
 
-      <mj-section background-color="#ffffff" padding-top="20px">
+      <mj-section background-color="#ffffff" padding="10px">
         <mj-column width="90%">
           <mj-text font-family="lato" font-style="normal"  line-height="25px" font-size="16px" letter-spacing="0.03em" color="#828282">
               <p>Your payment will be transferred to your new booking if you make one, and the difference will be communicated to you immediately. However, if you choose to cancel the booking we will process your refund within 3 working days.</p>
@@ -272,7 +277,7 @@
       </mj-section>
 
 
-      <mj-section padding-bottom="20px"  padding-top="10px">
+      <mj-section padding="10px">
         <mj-column width="40%">
           <mj-button width="230px" background-color="#ffffff" border="1px solid #FA1212" color="#FA1212" href="#" font-family="Lato" padding="20px 0 0 0" font-weight="bold" font-size="13px">CANCEL RESERVATION</mj-button>
         </mj-column>
@@ -283,7 +288,7 @@
 
 
 
-      <mj-section>
+      <mj-section padding="10px">
       <mj-column width="90%">
         <mj-divider border-width="1px" border-style="groove" border-color="#E3E3E3" />
          <mj-spacer height="40px" />
@@ -291,7 +296,7 @@
     </mj-section>
      
 
-     <mj-section padding-bottom="15px" padding-top="15">
+     <mj-section padding="10px">
         <mj-column width="45%">
 
           <mj-text font-size="16px" font-family="Lato" align="left" font-style="Regular, Bold" line-height="25px" letter-spacing="0.03em" color="#7c888D">
@@ -315,22 +320,22 @@
 
 
 
-      <mj-section background-color="#D1F0FF" padding="20px">
-        <mj-column vertical-align="top" width="60%">
+      <mj-section background-color="#D1F0FF" padding="10px">
+        <mj-column  width="60%">
           <mj-text font-size="10px" font-family="Lato" align="left" font-style="Bold" line-height="11px" letter-spacing="0.03em" color="#00AEFF">Get the hotels.ng app book your hotels instantly with our andriod app</mj-text>
         </mj-column>
 
-        <mj-column vertical-align="top" width="40%">
-          <mj-text font-size="15px" font-family="Lato" align="Right" font-style="ExtraBold" line-height="12px" color="#00AEFF">Download now</mj-text>
+        <mj-column width="40%" padding-left="100px">
+          <mj-text font-size="15px" font-family="Lato" align="left" font-style="ExtraBold" line-height="12px" color="#00AEFF">Download now</mj-text>
         </mj-column>
       </mj-section>
 
 
 
 
-      <mj-section background-color="#ffffff" padding-top="20px">
+      <mj-section background-color="#FAFAFA" padding="10px">
         <mj-column width="90%">
-          <mj-image align="left" src="../images/hng-logo.svg" alt="logo" width="70px" padding="10px 0"></mj-image>
+          <mj-image align="left" src="https://res.cloudinary.com/dzwrncue8/image/upload/v1524130997/hng-logo.svg" alt="logo" width="70px" padding="10px 0"></mj-image>
 
 
           <mj-text font-family="lato" font-style="Regular" line-height="25px" font-size="14px" letter-spacing="0.03em" color="#828282" align="left">
@@ -343,14 +348,14 @@
 
 
 
-      <mj-section>
+      <mj-section background-color="#FAFAFA" padding="10px">
       <mj-column width="90%">
         <mj-divider border-width="1px" border-style="groove" border-color="#E3E3E3" />
          <mj-spacer height="5px" />
       </mj-column>
     </mj-section>
 
-      <mj-section background-color="#ffffff" padding-top="10px">
+      <mj-section background-color="#FAFAFA" padding="10px">
         <mj-column width="90%">          
           <mj-text font-family="lato" font-style="Regular" line-height="25px" font-size="14px" letter-spacing="0.03em" color="#828282" align="left">
               <p><strong font-weight="bold">On Payments</strong></p>
@@ -363,14 +368,14 @@
 
 
 
-      <mj-section>
+      <mj-section background-color="#FAFAFA" padding="10px">
       <mj-column width="90%">
         <mj-divider border-width="1px" border-style="groove" border-color="#E3E3E3" />
          <mj-spacer height="5px" />
       </mj-column>
     </mj-section>
 
-       <mj-section background-color="#ffffff" padding-top="10px">
+       <mj-section background-color="#FAFAFA" padding="10px">
         <mj-column width="90%">          
           <mj-text font-family="lato" font-style="Regular" line-height="25px" font-size="14px" letter-spacing="0.03em" color="#828282" align="left">
               <p><strong font-weight="bold">Late Check-in</strong></p>
@@ -383,13 +388,14 @@
 
 
 
-      <mj-section>
+      <mj-section background-color="#FAFAFA" padding="10px">
       <mj-column width="90%">
         <mj-divider border-width="1px" border-style="groove" border-color="#E3E3E3" />
          <mj-spacer height="5px" />
       </mj-column>
     </mj-section>
-       <mj-section background-color="#ffffff" padding-top="10px">
+    
+       <mj-section background-color="#FAFAFA" padding-top="10px">
         <mj-column width="90%">          
           <mj-text font-family="lato" font-style="Regular" line-height="25px" font-size="14px" letter-spacing="0.03em" color="#828282" align="left">
               <p><strong font-weight="bold">Refunds & Cancellation</strong></p>
@@ -401,14 +407,14 @@
 
 
 
-        <mj-section>
+        <mj-section background-color="#FAFAFA" padding="10px">
       <mj-column width="90%">
         <mj-divider border-width="1px" border-style="groove" border-color="#E3E3E3" />
          <mj-spacer height="5px" />
       </mj-column>
     </mj-section>
 
-        <mj-section background-color="#ffffff" padding-top="10px">
+        <mj-section background-color="#FAFAFA" padding="10px">
         <mj-column width="90%">          
           <mj-text font-family="lato" font-style="Regular" line-height="25px" font-size="14px" letter-spacing="0.03em" color="#828282" align="left">
               <p><strong font-weight="bold">Reservation & Best Price Guarantee</strong></p>
@@ -419,14 +425,14 @@
       </mj-section>
 
 
-      <mj-section>
+      <mj-section background-color="#FAFAFA" padding="10px">
       <mj-column width="90%">
         <mj-divider border-width="1px" border-style="groove" border-color="#E3E3E3" />
          <mj-spacer height="5px" />
       </mj-column>
     </mj-section>
 
-      <mj-section background-color="#ffffff" padding-top="10px">
+      <mj-section background-color="#FAFAFA" padding="10px">
         <mj-column width="90%">          
           <mj-text font-family="lato" font-style="Regular" line-height="25px" font-size="14px" letter-spacing="0.03em" color="#828282" align="left">
 
