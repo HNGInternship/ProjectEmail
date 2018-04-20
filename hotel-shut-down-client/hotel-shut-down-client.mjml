@@ -1,10 +1,10 @@
 <mjml>
-  <mj-body>
+  <mj-body background-color="#ffffff">
     <!--Company Header -->
     <mj-section>
       <mj-column>
 
-        <mj-image width="100" alt="hotels.ng logo" height="39" src="http://res.cloudinary.com/justiceotuya/image/upload/v1523683447/hotelslogo.png"></mj-image>
+        <mj-image width="100%" align="center" alt="hotels.ng logo" height="39" src="http://res.cloudinary.com/justiceotuya/image/upload/v1523683447/hotelslogo.png"></mj-image>
 
 
         <mj-text font-size="20px" color="#333333" font-family="Lato" font-style="normal" font-weight="bold" line-height="normal" text-transform="capitalize">Southern Sun Ikoyi Hotel Is Closed</mj-text>
