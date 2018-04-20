@@ -44,10 +44,10 @@
     </mj-section>
     <mj-section>
     	<mj-column>
-      	<mj-button width="240px" height="41px" color="#FA1212" background-color="#ffffff" border="1px solid #FA1212" font-family="lato, arial" font-size="14px" font-weight="bold">CANCEL RESERVATION</mj-button>
+      	<mj-button width="250px" height="41px" color="#FA1212" background-color="#ffffff" border="1px solid #FA1212" font-family="lato, arial" font-size="14px" font-weight="bold">CANCEL RESERVATION</mj-button>
       </mj-column>
       <mj-column>
-      <mj-button width="240px" height="41px" color="#ffffff" background-color="#084482" font-family="lato, arial" font-size="14px" font-weight="bold">VIEW ALTERNATIVE HOTELS</mj-button>
+      <mj-button width="250px" height="41px" color="#ffffff" background-color="#084482" font-family="lato, arial" font-size="14px" font-weight="bold">VIEW ALTERNATIVE HOTELS</mj-button>
         
       </mj-column>
         
