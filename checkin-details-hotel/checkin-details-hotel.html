@@ -13,6 +13,11 @@
         @media screen and (max-width: 630px) {
             .outer-table{
               width: 300px;
+              padding: 0 10px ! important;
+            }
+
+            .space{
+              height: 0px ! important;
             }
 
             td{
@@ -94,42 +99,43 @@
 
 <body style="padding:0; margin:0; font-family: Lato, arial; background-color: #FFFFFF;">
 
-  <table class="outer-table top" align="center" width="600"  border="0" cellspacing="16">
+  <table style="padding: 0 30px" class="outer-table top" align="center" width="600"  border="0" cellspacing="16">
     <tr>
       <td align="right"><a style="font-size: 8.28px; color: #4F4F4F" href="#">view in browser</a></td>
     </tr>
 
     <tr>
-      <td class="logo" align="center"><img class="logo" width="116px" height="39px" src="http://res.cloudinary.com/nellybaz/image/upload/v1523899142/hng-logo.svg"></td>
+      <td class="logo" align="center"><img class="logo" width="116px" height="39px" src="http://res.cloudinary.com/nellybaz/image/upload/v1523899142/hng-logo.svg" alt="hotels.ng logo"></td>
     </tr>
 
      <tr>
       <td style="font-size: 20px; width: 428; color: #333333 "><b>Abayomi Abidakum will be checking in today</b></td>
     </tr>
      <tr>
-      <td style="font-size: 16px; color: #828282; border-bottom: 2px solid #BDBDBD; padding-bottom:15px; "><span style="color: #7C888D"><b>Hello Southern Sun ikoyi Hotel,</b></span><br>
+      <td style="font-size: 16px; color: #828282; border-bottom: 1px solid #BDBDBD; padding-bottom:15px; "><span style="color: #7C888D"><b>Hello Southern Sun ikoyi Hotel,</b></span><br>
 Just before your client checks into Southern sun ikoyi Hotel , Ikoyi, Lagos, here’s a quick rundown of the check-in details.<br><br>
 
 Please feel free to give us a call if anything is unclear or if you run into any difficulty. Don’t forget to urge the customer to leave a review at check-out to boost your ratings.</td>
     </tr>
     <tr><td>
-    <table border="0" width="100%" style="color: #7C888D">
+    <table border="0" width="100%" style="color: #7C888D; font-size: 16px;">
       <tr>
         <td width="117px" style="color: #333333">
           Booking Details
         </td>
       </tr>
 
+
       <tr>
         <td style="color: #333333">
           Guest Name
         </td>
 
-        <td width="30%">
+        <td class="space" width="10%" height="25px">
           &nbsp;
         </td>
 
-        <td >
+        <td style="font-size: 16px">
           Mr. Abayomi Abidakum
         </td>
       </tr>
@@ -138,7 +144,7 @@ Please feel free to give us a call if anything is unclear or if you run into any
         <td style="color: #333333">
           Hotel Name
         </td>
-         <td width="30%">
+         <td class="space" width="10%" height="25px">
           &nbsp;
         </td>
 
@@ -151,7 +157,7 @@ Please feel free to give us a call if anything is unclear or if you run into any
           Location
         </td>
 
-         <td width="30%">
+         <td class="space" width="10%" height="25px">
           &nbsp;
         </td>
 
@@ -165,7 +171,7 @@ Please feel free to give us a call if anything is unclear or if you run into any
           Booking ID:
         </td>
 
-         <td width="30%">
+         <td class="space" width="10%" height="25px">
           &nbsp;
         </td>
 
@@ -179,12 +185,12 @@ Please feel free to give us a call if anything is unclear or if you run into any
           Guest Phone Number:
         </td>
 
-         <td width="30%">
+         <td class="space" width="10%" height="25px">
           &nbsp;
         </td>
 
         <td>
-          09024095111
+          <a style="color: #7C888D; text-decoration: none;" href="tel:09024095111">09024095111</a>
         </td>
       </tr>
     </table>
@@ -256,7 +262,7 @@ Please feel free to give us a call if anything is unclear or if you run into any
             &nbsp;
           </td>
           <td style="color: #7C888D;" >
-            N5,000.00
+            &#8358;5,000.00
           </td>
         </tr><br>
 
@@ -268,7 +274,7 @@ Please feel free to give us a call if anything is unclear or if you run into any
             &nbsp;
           </td>
           <td style="color: #7C888D">
-            N550.00
+            &#8358;550.00
           </td>
         </tr>
             </table>
@@ -283,18 +289,18 @@ Please feel free to give us a call if anything is unclear or if you run into any
   </tr>
   </table>
 
-  <table border="0" class="outer-table" height="44px" style="height: 44px; padding:0 30px; font-size: 18px; color: #FFFFFF" bgcolor="#00AEFF" width="600" align="center">
+  <table border="0" class="outer-table" height="44px" style="height: 44px; padding:0 44px; font-size: 18px; color: #FFFFFF" bgcolor="#00AEFF" width="600" align="center">
     <tr >
       <td  class="td-no"><b>Total</b></td>
       <td class="td-no" width="40%">&nbsp;</td>
-      <td  class="td-no" align="right"><b>N5500.00</b></td>
+      <td  class="td-no" align="right"><b>&#8358;5500.00</b></td>
     </tr>
   </table>
 
-  <table class="outer-table" align="center" width="600px" cellspacing="16" border="0">
+  <table class="outer-table" style="padding: 0 30px" align="center" width="600px" cellspacing="16" border="0">
 
     <tr>
-      <td width="100%" style="color: #7C888D">If you require any further assistance or want to make changes to the schedule details stated above kindly call us on 07008808800 or use the buttons below</td>
+      <td width="100%" style="color: #7C888D">If you require any further assistance or want to make changes to the schedule details stated above kindly call us on <a style="color: #7C888D; text-decoration: none;" href="tel:07008808800">07008808800</a> or use the buttons below</td>
     </tr>
 
     <tr>
@@ -336,25 +342,25 @@ Please feel free to give us a call if anything is unclear or if you run into any
       </td>
 
       <td style=" color: #828282">Email: <span style="color: #00AEFF">opeyemi@hotels.ng</span><br>
-        Phone: <span style="color: #00AEFF">09024097111</span></td>
+        Phone: <a style="color: #00AEFF; text-decoration: none;" href="tel:07008808800">09024097111</a></td>
           </tr>
         </table>
       </td>
     </tr>
   </table>
 
-  <table class="outer-table" align="center" width="600" height="44" border="0" style="color: #FC8233; background-color: #FDEBE0;">
+  <table class="outer-table" align="center" width="600" height="44" border="0" style="color: #FC8233; background-color: #FDEBE0; padding: 0 45px">
     <tr>
-      <td style="color: #FC8233; font-size: 9px; padding: 0 30px">Sell more rooms and manage your hotel information on multiple OTAs with our Android app</td>
+      <td style="color: #FC8233; font-size: 9px; ">Sell more rooms and manage your hotel information on multiple OTAs with our Android app</td>
       <td width="1%">&nbsp;</td>
-      <td ><a href="#" style="text-decoration: none; padding: 0 30px; font-size: 12px; color: #FC8233"><b> Download Now</b></a></td>
+      <td ><a href="#" style="text-decoration: none; font-size: 12px; color: #FC8233"><b> Download Now</b></a></td>
     </tr>
   </table>
 
-  <table class="outer-table bottom" width="600" cellspacing="16" border="0" align="center" style="font-size: 12px; color: #828282">
+  <table class="outer-table bottom" width="600" cellspacing="16" border="0" align="center" style="font-size: 12px; color: #828282; padding: 0 30px">
     <tr>
       <td>
-        <img width="55" height="18" src="http://res.cloudinary.com/nellybaz/image/upload/v1523899142/hng-logo.svg">
+        <img width="55" height="18" src="http://res.cloudinary.com/nellybaz/image/upload/v1523899142/hng-logo.svg" alt="hotels.ng logo">
       </td>
     </tr>
 
@@ -366,50 +372,7 @@ Learn more
       </td>
     </tr>
 
-    <tr>
-      <td style="color: #333333; border-top: 2px solid #BDBDBD; padding-top: 20px">On Payments</td>
-    </tr>
-    <tr>
-      <td>
-        When paying via bank transfer, please include your booking id or name in the reference.
-If you don't get a payment confirmation message at least 5 hours after payment, please call our support line (<span style="color: #00AEFF">+2347008808800</span>) or email us at <span style="color: #00AEFF">reservations@hotels.ng</span>
-
-
-      </td>
-    </tr>
-
-<tr>
-      <td style="color: #333333; border-top: 2px solid #BDBDBD; padding-top: 20px">Late Check-in</td>
-    </tr>
-    <tr>
-      <td>
-        Standard check-in time is 12pm - 6pm. Please inform hotels.ng if you'll be checking in late to ensure your reservation is not cancelled by the hotel.
-      </td>
-    </tr>
-
-    <tr>
-      <td  style="color: #333333; border-top: 2px solid #BDBDBD; padding-top: 20px" >Refunds & Cancellation</td>
-    </tr>
-    <tr>
-      <td>
-        Hotels are settled 24 - 48 hours before your check in date. Please endeavour to call or email to cancel before this time.<br>
-Refunds on cancellations after hotel has been paid may take 3 working days or longer depending on the hotel's policy.<br>
-Refunds cannot be made on any reservations made on a non-refundable room rate.
-
-      </td>
-    </tr>
-
-      <tr>
-      <td style="color: #333333; border-top: 2px solid #BDBDBD; padding-top: 20px">Reservation & Best Price Guarantee</td>
-    </tr>
-    <tr>
-      <td>
-        Prices on the website are discounted especially for prepaid reservations. Some hotels may charge a higher rate at the hotel if you choose to pay on arrival.
-Once you place a booking, your reservation is secured, and we'll send you a final confirmation on check-in date. However, the hotel reserves the right to cancel your reservation.
-
-Learn more
-      </td>
-    </tr>
+   
 
       
     <tr>
