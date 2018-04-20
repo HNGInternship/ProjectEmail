@@ -10,7 +10,7 @@
     
   </mj-head>
   
-  <mj-body>
+  <mj-body background-color="#FFFFFF">
     <mj-section>
       <mj-group>
 			<mj-column padding="30px 0px 0px 0px">
@@ -142,7 +142,7 @@
         </mj-text>
         </mj-column>
         <mj-column>
-      	<mj-text align="left" font-family="lato" font-size="16px" font-weight="regular" color="#828282">
+      	<mj-text align="left" font-family="lato, arial" font-size="16px" font-weight="regular" color="#828282">
         	N4200.00 
         </mj-text>
       </mj-column>  
@@ -317,10 +317,10 @@ Phone: <span style="color:#00AEFF;">09024097111 </span>
       </mj-column>
     </mj-section>
     
-    <mj-wrapper background-color="#eee" >
-  <mj-section background-color="#eee">
+    <mj-wrapper background-color="#FAFAFA" >
+  <mj-section background-color="#FAFAFA">
       <mj-column>
-      	<mj-image align="left" padding="0 0 0 25px" width="55px" height="18px" src="http://res.cloudinary.com/dv3ymesru/image/upload/v1524078850/hng-logo.png" ></mj-image>
+      	<mj-image align="left" padding="0 0 0 25px" width="55px" height="18px" alt="hotels.ng logo" src="http://res.cloudinary.com/dv3ymesru/image/upload/v1524078850/hng-logo.png" ></mj-image>
         
        <mj-text font-family="lato" font-size="13px" color="#828282">
         Hotels.ng is an online booking agency specialised in hotel booking within nigeria. we market hotels online nd book rooms for clients. we proffer hotel accomodation solution to the people looking for hotels witnin an area or particular city . 
