@@ -74,7 +74,7 @@
         </mj-column>
         <mj-column>
       	<mj-text align="left" font-family="lato" font-size="16px" font-weight="regular" color="#828282">
-        	N4500.00 
+        	₦4500.00 
         </mj-text>
       </mj-column>  
       </mj-section>
@@ -143,7 +143,7 @@
         </mj-column>
         <mj-column>
       	<mj-text align="left" font-family="lato, arial" font-size="16px" font-weight="regular" color="#828282">
-        	N4200.00 
+        	₦4200.00 
         </mj-text>
       </mj-column>  
       </mj-section>
@@ -211,7 +211,7 @@
         </mj-column>
         <mj-column>
       	<mj-text align="left" font-family="lato" font-size="16px" font-weight="regular" color="#828282">
-        	N5500.00
+        	₦5500.00
         </mj-text>
       </mj-column>  
       </mj-section>
@@ -280,18 +280,6 @@
     </mj-section>
     <mj-section padding="0 0 0 0">
       <mj-column>
-        
-      </mj-column>
-    	<mj-column width="50%" padding="0 0 0 85px" >
-        <mj-text font-family="lato" font-size="14px" color="#828282">
-         Email: <span style="color:#00AEFF;"> opeyemi@hotels.ng <br/></span>
-Phone: <span style="color:#00AEFF;">09024097111 </span>
-          </mj-text>
-      	
-      </mj-column>
-    </mj-section>
-    <mj-section>
-    	<mj-column>
       	<mj-text font-family="lato" font-size="16px" color="#828282">
         	Best Regards,
         </mj-text>
@@ -302,7 +290,15 @@ Phone: <span style="color:#00AEFF;">09024097111 </span>
         	Booking Team
         </mj-text>
       </mj-column>
+    	<mj-column width="50%"  >
+        <mj-text font-family="lato" font-size="16px" color="#828282">
+         Email: <span style="color:#00AEFF;"> opeyemi@hotels.ng <br/></span>
+Phone: <span style="color:#00AEFF;">09024097111 </span>
+          </mj-text>
+      	
+      </mj-column>
     </mj-section>
+    
     <mj-section background-color="rgba(0, 174, 255, 0.29)">
     
     <mj-column width="70%">
@@ -317,8 +313,7 @@ Phone: <span style="color:#00AEFF;">09024097111 </span>
       </mj-column>
     </mj-section>
     
-    <mj-wrapper background-color="#FAFAFA" >
-  <mj-section background-color="#FAFAFA">
+    <mj-section background-color="#FAFAFA">
       <mj-column>
       	<mj-image align="left" padding="0 0 0 25px" width="55px" height="18px" alt="hotels.ng logo" src="http://res.cloudinary.com/dv3ymesru/image/upload/v1524078850/hng-logo.png" ></mj-image>
         
