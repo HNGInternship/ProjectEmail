@@ -147,7 +147,7 @@
       <!--horizontal line and opeyemi's contact-->
       <mj-section padding-top="0px">
         <mj-column>
-          <mj-divider border-width="1px" border-style="dashed" border-color="#bdbdbd" />
+          <mj-divider border-width="1px"  border-color="#bdbdbd" />
         </mj-column>
       </mj-section>
 
