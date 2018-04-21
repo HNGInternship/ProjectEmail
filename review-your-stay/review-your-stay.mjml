@@ -1,0 +1,113 @@
+<mjml>
+  <mj-head>
+    <mj-title> REVIEW YOUR STAY</mj-title>
+    <mj-attributes>
+      <mj-section padding="0px 30px 30px 10px" />
+      <mj-text padding="4px" color="#828282" font-size="16px" />
+      <mj-all font-family="Lato, Arial, sans-serif" />
+      <mj-divider padding="16px 0px 0px 0px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#ffffff">
+    <mj-section>
+        <mj-group>
+      <mj-column width="70%" padding="30px 0px 0 0">
+        <mj-image height="39px" width="116px" alt="hotels.ng logo" src="http://res.cloudinary.com/dv3ymesru/image/upload/v1524078850/hng-logo.png" align="right" />
+      </mj-column>
+      <mj-column width="30%">
+       <mj-text font-size="8.29px" color="#4F4F4F" line-height="10px" text-decoration="underline" align="right">view in browser</mj-text>
+      </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="20px" font-weight="bold" font-family="Lato" color="#333333" line-height="24px">Tell Southern Sun Hotel What You Love And What They Can Do Better</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="16px" font-weight="bold" color="#828282" line-height="19px">Hello Mr. Abayomi Abidakum,</mj-text>
+        <mj-text color="#828282" line-height="19px" letter-spacing="0.03rem">
+          We hope you’re having a good day. If it won’t be too much trouble, we’d like you to tell us how your stay at <a style="color: #828282" href="#">Southern sun ikoyi Hotel , Ikoyi, Lagos</a> was. Did you like it there? Would you return again? Please let us know. <br/><br/>Thanks for booking with us.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section>
+    <mj-column width="5%">
+      <mj-text align="center">😊</mj-text>
+      </mj-column>
+      <mj-column width="18%" padding="10px" background-color="#26BD3B">
+       <mj-text color="#ffffff" font-size="12px" align="center">EXTREMELY SATISFIED      </mj-text>
+        
+        </mj-column>
+      <mj-column width="18%" padding="10px" background-color="#83ADE3">
+       <mj-text color="#ffffff" font-size="12px" align="center">MILDLY SATISFIED      </mj-text>
+        
+        </mj-column>
+      <mj-column width="18%" padding="10px" background-color="#7C7C7C">
+       <mj-text color="#ffffff" font-size="12px" align="center">NUETRALLY SATISFIED      </mj-text>
+        
+        </mj-column>
+      <mj-column width="18%" padding="10px" background-color="#E5DD48">
+       <mj-text color="#ffffff" font-size="12px" align="center">MILDLY DISATISFIED     <m  </mj-text>
+        
+        </mj-column>
+      <mj-column width="18%" padding="10px" background-color="#CE2A1A">
+       <mj-text color="#ffffff" font-size="12px" align="center">EXTREMELY DISATISFIED   <br/>   </mj-text>
+        
+        </mj-column>
+      <mj-column width="5%">
+      	<mj-text align="center">🙁</mj-text>
+      </mj-column>
+      
+    </mj-section>
+    
+        <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    
+        
+        <mj-section padding-top="0px">
+      <mj-column>
+        mj-divider border-width="1px" border-style="solid" border-color="#BDBDBD" padding-top="-40px"></mj-divider>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="0">
+      <mj-column width="40%">
+        <mj-text color="#828282" font-size="16px" line-height="24px">Best Regards,<br/><strong>Opeyemi Jegede</strong><br/>Bookings Team</mj-text>
+      </mj-column>
+      <mj-column width="20%">
+
+      </mj-column>
+      <mj-column width="40%">
+        <mj-text color="#828282" font-size="16px" line-height="24px">Email: <span style="color:#00AEFF; font-weight:bold">opeyemi@hotels.ng</span><br/>Phone: <span style="color:#00AEFF; font-weight:bold"> 09024097111</span> </mj-text>
+      </mj-column>
+    </mj-section>
+      
+
+	<mj-section  padding-top="20px" background-color="rgba(0, 174, 255, 0.19)">
+      <mj-column width="70%" >
+        <mj-text font-size="9px" color = "#00AEFF" line-height="12px" font-weight="bold">
+        Sell more rooms and manage your hotel information on multiple OTAs with our Android app
+        </mj-text>
+        </mj-column>
+      <mj-column width="30%">
+        <mj-text font-size="12px" color="#00AEFF" font-weight="bold" line-height="14px">Download now</mj-text>
+       </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FAFAFA" padding-top="20px">
+      <mj-column>
+        <mj-image align="left " height="18px " width="55px " padding="0px 0px 0px 4px " src="https://res.cloudinary.com/mclint-cdn/image/upload/v1523824094/hng-logo.svg " />
+        <mj-text font-size="12px">Hotels.ng is an online booking agency specialised in hotel booking within nigeria. we market hotels online nd book rooms for clients. we proffer hotel accomodation solution to the people looking for hotels witnin an area or particular city . we
+          provide them with appropriate hotels that match their budget and expectations.</mj-text>
+        <mj-text color="#00AEFF" font-size="12px">Learn more</mj-text>
+        <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
+        <mj-text padding="16px 0px 0px 0px" font-size="12px">3, Birrel Avenue, Yaba Lagos. +234 700 880 8800</mj-text>
+        <mj-text font-size="12px">Copyright © 2017 Hotels.ng, All rights reserved. </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
