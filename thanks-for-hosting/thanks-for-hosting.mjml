@@ -1,7 +1,7 @@
 <mjml>
   <mj-head>
     <mj-attributes>
-      <mj-section padding="0px 30px 16px 0px" />
+      <mj-section padding="0px 0px 16px 0px" />
       <mj-text padding="4px" color="#828282" font-size="16px" />
       <mj-all font-family="Lato" />
       <mj-divider padding="0px" />
@@ -15,13 +15,13 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text font-size="20px" font-weight="bold" font-family="Lato" color="#333333">Thanks for hosting our client</mj-text>
+        <mj-text font-size="20px" font-weight="bold" font-family="Lato" color="#333333" padding="0px  0px 0px 30px">Thanks for hosting our client</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text font-size="16px" font-weight="bold" color="#7C888D">Hello Southern Sun Ikoyi Hotel,</mj-text>
-        <mj-text color="#7C888D" line-height="19px" letter-spacing="0.03rem">
+        <mj-text font-size="16px" font-weight="bold" color="#7C888D" padding="0px  30px 0px 30px">Hello Southern Sun Ikoyi Hotel,</mj-text>
+        <mj-text color="#7C888D" line-height="19px" letter-spacing="0.03rem" padding="0px  30px 0px 30px">
           Thanks for hosting our client, Mr. Abayomi Abidakum, with booking ID: <span style="color: #00aeff">1084392023</span>. You can check your hotel's review by clicking the button below. You can also urge the customer to leave a review at check-out
           to boost your ratings</mj-text>
       </mj-column>
@@ -33,41 +33,51 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text>If you have any questions or feedback about this client, please reply this email or call</mj-text>
+        <mj-text padding="0px 30px 0px 30px">If you have any questions or feedback about this client, please reply this email or call</mj-text>
         <mj-spacer height="25px"></mj-spacer>
-        <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
-      </mj-column>
+        <mj-divider border-color="#BDBDBD" border-width="1px" padding="0px 30px "></mj-divider>
+      </mj-column>   
     </mj-section>
-    <mj-section padding-top="0">
+    
+
+      
+    <mj-section padding="0px 25px 30px 25px">
       <mj-column width="40%">
         <mj-text color="#7C888D" font-size="15px" line-height="24px">Best Regards,<br><strong>Opeyemi Jegede</strong><br>Bookings Team</mj-text>
       </mj-column>
       <mj-column width="20%">
 
       </mj-column>
-      <mj-column width="40%">
-        <mj-text color="#7C888D" font-size="15px" line-height="24px">Email: <span style="color:#00AEFF; font-weight:bold">opeyemi@hotels.ng</span></br>Phone: <span style="color:#00AEFF; font-weight:bold">0708808800</span> </mj-text>
+      <mj-column width="40%" >
+        <mj-text color="#7C888D" font-size="15px" line-height="24px">Email: <span style="color:#00AEFF; font-weight:bold"><a href="mailto:opeyemi@hotels.ng" style="text-decoration: none; color:#00AEFF; font-weight:bold">opeyemi@hotels.ng</a></span><br>Phone: <span style="color:#00AEFF; font-weight:bold"><a href="tel:07036507399" style="text-decoration: none; color:#00AEFF; font-weight:bold">0708808800</a></span> </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
-      <mj-column background-color="rgba(252, 130, 51, 0.29)">
-        <mj-table>
-          <tr>
-            <td style="font-size: 9px; font-weight: 500; color: #FC8233;">Sell more rooms and manage your hotel information on multiple OTAs with our Android app</td>
-            <td style="font-size: 12px; font-weight: 800; color: #FC8233;">Download now</td>
-          </tr>
-        </mj-table>
-      </mj-column>
-    </mj-section>
-    <mj-section>
-      <mj-column>
-        <mj-image align="left" height="18px" width="55px" padding="0px 0px 0px 4px" src="https://res.cloudinary.com/mclint-cdn/image/upload/v1523824094/hng-logo.svg" />
-        <mj-text font-size="12px">Hotels.ng is an online booking agency specialised in hotel booking within nigeria. we market hotels online nd book rooms for clients. we proffer hotel accomodation solution to the people looking for hotels witnin an area or particular city . we
+      
+      
+    
+      
+      <mj-section background-color="rgba(252, 130, 51, 0.29)" padding="16px">
+        <mj-column width="80%">
+          <mj-text color="#FC8233" font-size="9px" line-height="normal">
+           <strong> Sell more rooms and manage your hotel information on multiple OTAs with our Android app</strong></mj-text>
+        </mj-column>
+        <mj-column width="20%">
+          <mj-text color="#FC8233" font-weight="800" font-size="12px" line-height="normal" align="left">
+            Download now</mj-text>
+        </mj-column>
+      </mj-section>
+     
+      
+      
+    <mj-section padding-top="21px">
+      <mj-column >
+        <mj-image align="left" height="18px" width="55px" padding="0px  30px 13px 30px" src="https://res.cloudinary.com/mclint-cdn/image/upload/v1523824094/hng-logo.svg" />
+        <mj-text font-size="12px" padding="0px  30px 0px 30px" letter-spacing="3%" line-height="23px">Hotels.ng is an online booking agency specialised in hotel booking within nigeria. we market hotels online nd book rooms for clients. we proffer hotel accomodation solution to the people looking for hotels witnin an area or particular city .<br> we
           provide them with appropriate hotels that match their budget and expectations.</mj-text>
-        <mj-text color="#00AEFF" font-size="12px" padding="8px 0px 16px 0px">Learn more</mj-text>
-        <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
-        <mj-text font-size="12px" padding="16px 0px 0px 0px">3, Birrel Avenue, Yaba Lagos. +234 700 880 8800</mj-text>
-        <mj-text font-size="12px">Copyright © 2017 Hotels.ng, All rights reserved. </mj-text>
+        <mj-text color="#00AEFF" font-size="12px" padding="8px 30px 13px 30px">Learn more</mj-text>
+        <mj-divider border-color="#BDBDBD" border-width="1px" padding="0px 30px 0px 30px"></mj-divider>
+        <mj-text font-size="12px" padding="16px 30px 0px 30px">3, Birrel Avenue, Yaba Lagos. <a href="tel:2347008808800" style="text-decoration: none; color:#828282;">+234 700 880 8800</a></mj-text>
+        <mj-text font-size="12px" padding="16px 30px 16px 30px">Copyright © 2017 Hotels.ng, All rights reserved. </mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
