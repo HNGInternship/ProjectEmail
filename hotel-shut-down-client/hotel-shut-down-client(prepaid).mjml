@@ -1,6 +1,6 @@
 <mjml>
 <mj-head>
- <mj-title>Hotel Has Been Shut Down Client</mj-title>
+ <mj-title>Hotel Has Been Shut Down Client(Prepaid)</mj-title>
  <mj-attributes>
       <mj-all font-family="Lato, Arial" />
 </mj-attributes>
@@ -226,19 +226,20 @@
         </mj-button>
       </mj-column>
       <mj-column width="100%">
-       <mj-text  font-size="16px" color="#828282" font-family="Lato" font-style="bold" font-weight="normal" line-height="19px" letter-spacing= "0.03em">
+       <mj-text  font-size="16px" color="#828282" font-family="Lato" font-style="bold" font-weight="normal" line-height="23px" letter-spacing= "0.03em">
+       Your payment will be transferred to your new booking if you make<br/>one, and the difference will be communicated to you immediately. <br/> However, if you choose to cancel the booking we will process your refund within three days. <br/><br/>
        If you require further assistance call us on 07008808800</mj-text>
      </mj-column>
     </mj-section>
     
      <mj-section>
        <mj-column width="40%">
-         <mj-button width= "220px" height="41px" border="1px solid #FA1212" border-radius= "2.26px" background-color="#ffffff" color="#FA1212">
+         <mj-button width= "220px" padding=0px" height="41px" border="1px solid #FA1212" border-radius= "2.26px" background-color="#ffffff" color="#FA1212">
            <span style ="font-size: 14px; color: #FA121; font-family:Lato; font-style: normal;line-height:17px; font-weight: bold; line-height: normal; text-align:center;">CANCEL RESERVATION </span>
          </mj-button>
        </mj-column >
        <mj-column width="40%">
-         <mj-button width= "220px" height="41px" background-color="#084482" border-radius= "2.26px">
+         <mj-button width= "220px"  padding="0px"height="41px" background-color="#084482" border-radius= "2.26px">
            <span style ="font-size: 14px; color: #FFFFFF; line-height:17px; font-family:Lato; font-style: normal; font-weight: bold; line-height: normal; text-align:center;">VIEW ALTERNATIVE HOTELS </span>
          </mj-button>
        </mj-column>
