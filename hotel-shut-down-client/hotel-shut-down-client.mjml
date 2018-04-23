@@ -10,15 +10,15 @@
     <mj-section>
         <mj-column width="100%">
           <mj-text>
-            <a href="#" style="color:#4F4F4F;font-size:8.28px; text-decoration:none;line-height:10px; text-align:right;">
-              <mj-text style="float:right;border-bottom:1px solid #4f4f4f">View in browser</mj-text>
+            <a href="#" style="color:#4F4F4F;font-size:8.28px ;float:right; text-decoration:underline;line-height:10px; text-align:right;">
+              <mj-text >View in browser</mj-text>
             </a>
           </mj-text>
         </mj-column>
     
         <mj-column width="100%">
           <!--hotels.ng logo with 80% width-->
-          <mj-image src="https://res.cloudinary.com/damilare1957/image/upload/v1523879042/hng-logo.svg" alt="hotels.ng logo" width="116" height="39" />
+          <mj-image src="http://res.cloudinary.com/damilare1957/image/upload/v1523879042/hng-logo.png" alt="hotels.ng logo" width="116" height="39" />
         </mj-column>
         <mj-column width="100%">
             <mj-text font-size="20px" color="#333333" line-height="24px" font-family="Lato,Arial" font-style="bold" font-weight="bold"  text-transform="capitalize">Southern Sun Ikoyi Hotel Is Closed</mj-text>
@@ -59,7 +59,7 @@
     <!--First hotel -->
     <mj-section>
       <mj-column width="100%">
-        <mj-image padding-left="10px" align="left" width="50" height="50" src="https://res.cloudinary.com/damilare1957/image/upload/v1524345605/1.svg" />
+        <mj-image padding-left="10px" align="left" width="50" height="50" src="https://res.cloudinary.com/damilare1957/image/upload/v1524345605/1.png" />
       </mj-column>
         <!--Booking Details-->
 
@@ -97,13 +97,13 @@
           </mj-text>
         </mj-column>
         <mj-column width="30%" >
-        <mj-image width="147px"  padding="3px" alt="hotel.ng" height="87" src="https://res.cloudinary.com/damilare1957/image/upload/v1524345447/hotel-image1.svg"></mj-image>
+        <mj-image width="147px"  padding="3px" alt="hotel.ng" height="87" src="https://res.cloudinary.com/damilare1957/image/upload/v1524345447/hotel-image1.png"></mj-image>
         </mj-column>
       <mj-column width="30%">
-        <mj-image width="147" padding="3px" alt="hotel.ng" height="87" src="https://res.cloudinary.com/damilare1957/image/upload/v1524345677/hotel-image2.svg"></mj-image>
+        <mj-image width="147" padding="3px" alt="hotel.ng" height="87" src="https://res.cloudinary.com/damilare1957/image/upload/v1524345677/hotel-image2.png"></mj-image>
         </mj-column>
       <mj-column width="30%">
-        <mj-image width="147" padding="3px"  alt="hotel.ng" height="87" src="https://res.cloudinary.com/damilare1957/image/upload/v1524345544/hotel-image8.svg"></mj-image>
+        <mj-image width="147" padding="3px"  alt="hotel.ng" height="87" src="https://res.cloudinary.com/damilare1957/image/upload/v1524345544/hotel-image8.png"></mj-image>
         </mj-column>
 
       
@@ -116,7 +116,7 @@
         </mj-button>
         </mj-column>
         <mj-column width="100%">
-        <mj-image padding-left="10px" align="left" width="50" height="50"  src="https://res.cloudinary.com/damilare1957/image/upload/v1524345606/2.svg" width="30px" height="30px" ></mj-image>
+        <mj-image padding-left="10px" align="left" width="50" height="50"  src="https://res.cloudinary.com/damilare1957/image/upload/v1524345606/2.png" width="30px" height="30px" ></mj-image>
         </mj-column>
       <mj-column width="30%">
           <mj-text color="#333333"  font-weight="regular" font-size="16px" line-height="19px">
@@ -153,13 +153,13 @@
         </mj-column>
       
       <mj-column width="30%" >
-        <mj-image width="147px"  padding="3px" alt="hotel.ng" height="87" src="https://res.cloudinary.com/damilare1957/image/upload/v1524412669/hotel-image6.svg"></mj-image>
+        <mj-image width="147px"  padding="3px" alt="hotel.ng" height="87" src="https://res.cloudinary.com/damilare1957/image/upload/v1524412669/hotel-image6.png"></mj-image>
         </mj-column>
       <mj-column width="30%">
-        <mj-image width="147" padding="3px" alt="hotel.ng" height="87" src="https://res.cloudinary.com/damilare1957/image/upload/v1524412025/hotel-image3.svg"></mj-image>
+        <mj-image width="147" padding="3px" alt="hotel.ng" height="87" src="https://res.cloudinary.com/damilare1957/image/upload/v1524412025/hotel-image3.png"></mj-image>
         </mj-column>
       <mj-column width="30%">
-        <mj-image width="147" padding="3px"  alt="hotel.ng" height="87" src="https://res.cloudinary.com/damilare1957/image/upload/v1524412457/hotel-image4.svg"></mj-image>
+        <mj-image width="147" padding="3px"  alt="hotel.ng" height="87" src="https://res.cloudinary.com/damilare1957/image/upload/v1524412457/hotel-image4.png"></mj-image>
         </mj-column>
       
     </mj-section>
@@ -171,7 +171,7 @@
         </mj-button>
         </mj-column>
       <mj-column width="100%">
-        <mj-image padding-left="10px" align="left" width="50" height="50"  src="https://res.cloudinary.com/damilare1957/image/upload/v1524345606/3.svg" width="30px" height="30px" ></mj-image>
+        <mj-image padding-left="10px" align="left" width="50" height="50"  src="https://res.cloudinary.com/damilare1957/image/upload/v1524345606/3.png" width="30px" height="30px" ></mj-image>
         </mj-column>
       <mj-column width="30%">
           <mj-text color="#333333"  font-weight="regular" font-size="16px" line-height="19px">
@@ -208,13 +208,13 @@
         </mj-column>
       
       <mj-column width="30%" >
-        <mj-image width="147px"  padding="3px" alt="hotel.ng" height="87" src="https://res.cloudinary.com/damilare1957/image/upload/v1524412669/hotel-image7.svg"></mj-image>
+        <mj-image width="147px"  padding="3px" alt="hotel.ng" height="87" src="https://res.cloudinary.com/damilare1957/image/upload/v1524412669/hotel-image7.png"></mj-image>
         </mj-column>
       <mj-column width="30%">
-        <mj-image width="147" padding="3px" alt="hotel.ng" height="87" src="https://res.cloudinary.com/damilare1957/image/upload/v1524412025/hotel-image5.svg"></mj-image>
+        <mj-image width="147" padding="3px" alt="hotel.ng" height="87" src="https://res.cloudinary.com/damilare1957/image/upload/v1524412025/hotel-image5.png"></mj-image>
         </mj-column>
       <mj-column width="30%">
-        <mj-image width="147" padding="3px"  alt="hotel.ng" height="87" src="https://res.cloudinary.com/damilare1957/image/upload/v1524412457/hotel-image6.svg"></mj-image>
+        <mj-image width="147" padding="3px"  alt="hotel.ng" height="87" src="https://res.cloudinary.com/damilare1957/image/upload/v1524412457/hotel-image6.png"></mj-image>
         </mj-column>
       
     </mj-section>
@@ -269,7 +269,7 @@
      </mj-section>
      <mj-section>
      <mj-column width="100%">
-       <mj-image  align = "left" width="55px" alt="hotels.ng logo" height="18px" src="https://res.cloudinary.com/damilare1957/image/upload/v1523879042/hng-logo.svg"></mj-image>
+       <mj-image  align = "left" width="55px" alt="hotels.ng logo" height="18px" src="https://res.cloudinary.com/damilare1957/image/upload/v1523879042/hng-logo.png"></mj-image>
     </mj-column>
     <mj-column width="100%">
        <mj-text font-size="12px" color="#828282" font-family="Lato" font-style="normal" font-weight="normal" line-height="23px" letter-spacing="0.03em">Hotels.ng is an online booking agency specialised in hotel booking within nigeria. we market hotels online nd book rooms for clients. we proffer hotel accomodation solution to the people looking for hotels witnin an area or particular city .<br />We provide them with appropriate hotels that match their budget and expectations.<br /> <a href="#" style="text-decoration:none;"><span style="color: #00AEFF;">Learn More</span></a></mj-text>
