@@ -37,40 +37,60 @@
     <mj-column width="5%">
       <mj-text align="center">😊</mj-text>
       </mj-column>
-      <mj-column width="18%" padding="10px" background-color="#26BD3B">
+      <mj-column width="1%">
+        <mj-spacer height="20px" />
+      </mj-column>
+      <mj-column width="16%" padding="10px 0px" background-color="#26BD3B" border-radius="3px">
        <mj-text color="#ffffff" font-size="12px" align="center">EXTREMELY SATISFIED      </mj-text>
         
         </mj-column>
-      <mj-column width="18%" padding="10px" background-color="#83ADE3">
+        <mj-column width="2%">
+          <mj-spacer height="20px" />
+        </mj-column>
+      <mj-column width="16%" padding="10px 0px" background-color="#83ADE3" border-radius="3px">
        <mj-text color="#ffffff" font-size="12px" align="center">MILDLY SATISFIED      </mj-text>
         
         </mj-column>
-      <mj-column width="18%" padding="10px" background-color="#7C7C7C">
+        <mj-column width="2%">
+          <mj-spacer height="20px"/>
+        </mj-column>
+      <mj-column width="16%" padding="10px 0px" background-color="#7C7C7C" border-radius="3px">
        <mj-text color="#ffffff" font-size="12px" align="center">NUETRALLY SATISFIED      </mj-text>
         
         </mj-column>
-      <mj-column width="18%" padding="10px" background-color="#E5DD48">
+        
+        <mj-column width="2%">
+          <mj-spacer height="20px" />
+        </mj-column>
+      <mj-column width="16%" padding="10px 0px" background-color="#E5DD48" border-radius="3px">
        <mj-text color="#ffffff" font-size="12px" align="center">MILDLY DISATISFIED     <m  </mj-text>
         
         </mj-column>
-      <mj-column width="18%" padding="10px" background-color="#CE2A1A">
+        <mj-column width="2%">
+          <mj-spacer height="20px" />
+        </mj-column>
+      <mj-column width="16%" padding="10px 0px" background-color="#CE2A1A" border-radius="3px">
        <mj-text color="#ffffff" font-size="12px" align="center">EXTREMELY DISATISFIED   <br/>   </mj-text>
         
         </mj-column>
-      <mj-column width="5%">
+        <mj-column width="2%">
+          <mj-spacer height="20px" />
+        </mj-column>
+      <mj-column width="4%">
       	<mj-text align="center">🙁</mj-text>
       </mj-column>
       
     </mj-section>
-    
+    <mj-section padding="10px 0px 0px 0px">
+      
         <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
-      </mj-column>
+      
     </mj-section>
     
         
         <mj-section padding-top="0px">
       <mj-column>
-        mj-divider border-width="1px" border-style="solid" border-color="#BDBDBD" padding-top="-40px"></mj-divider>
+        <mj-divider border-width="1px" border-style="solid" border-color="#BDBDBD" padding-top="-40px"></mj-divider>
       </mj-column>
     </mj-section>
 
@@ -82,19 +102,19 @@
 
       </mj-column>
       <mj-column width="40%">
-        <mj-text color="#828282" font-size="16px" line-height="24px">Email: <span style="color:#00AEFF; font-weight:bold">opeyemi@hotels.ng</span><br/>Phone: <span style="color:#00AEFF; font-weight:bold"> 09024097111</span> </mj-text>
+        <mj-text color="#828282" font-size="16px" line-height="24px" align="right">Email: <span style="color:#00AEFF; font-weight:bold">opeyemi@hotels.ng</span><br/>Phone: <span style="color:#00AEFF; font-weight:bold"> 09024097111</span> </mj-text>
       </mj-column>
     </mj-section>
       
 
-	<mj-section  padding-top="20px" background-color="rgba(0, 174, 255, 0.19)">
+	<mj-section  padding="20px" background-color="rgba(0, 174, 255, 0.19)">
       <mj-column width="70%" >
         <mj-text font-size="9px" color = "#00AEFF" line-height="12px" font-weight="bold">
-        Sell more rooms and manage your hotel information on multiple OTAs with our Android app
+        Get the Hotels.ng app, book your hotels instantly with our Android app
         </mj-text>
         </mj-column>
       <mj-column width="30%">
-        <mj-text font-size="12px" color="#00AEFF" font-weight="bold" line-height="14px">Download now</mj-text>
+        <mj-text font-size="12px" color="#00AEFF" font-weight="bold" align="right"line-height="14px">Download now</mj-text>
        </mj-column>
     </mj-section>
 
