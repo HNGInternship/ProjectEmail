@@ -171,14 +171,14 @@ by replying this email with your correct contact details.</mj-text>
     	
     </mj-section>
 
-	<mj-section background-color="rgba(252, 130, 51, 0.19)" padding="" >
+	<mj-section background-color="rgba(252, 130, 51, 0.19)" padding="10px 0px" >
 	<mj-column width="70%">
-    <mj-text font-size="9px" font-weight="bold" color="#FC8233">
+    <mj-text font-size="9px" font-weight="bold" color="#FC8233" line-height="14px">
     	Sell more rooms and manage your hotel information on multiple OTAs with our Android app
     </mj-text>
     </mj-column>
     <mj-column width="30%">
-    	<mj-text font-size="12px" font-weight="bold" color="#FC8233" align="right">
+    	<mj-text font-size="12px" font-weight="bold" color="#FC8233" align="right" line-height="14px">
       Download now
       </mj-text>
     </mj-column>
