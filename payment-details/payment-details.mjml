@@ -194,24 +194,25 @@
       </mj-column>
     </mj-section>
     <mj-section padding-top="0">
+      
       <mj-column width="40%">
         <mj-text color="#828282" font-size="16px" line-height="24px">Best Regards,<br><strong>Opeyemi Jegede</strong><br>Bookings Team</mj-text>
       </mj-column>
       <mj-column width="20%">
 
       </mj-column>
-      <mj-column width="40%">
-        <mj-text color="#828282" font-size="16px" line-height="24px">Email: <span style="color:#00AEFF; font-weight:bold">opeyemi@hotels.ng</span><br/>Phone: <span style="color:#00AEFF; font-weight:bold">09024097111</span> </mj-text>
+      <mj-column width="40%" >
+        <mj-text color="#828282" font-size="16px" line-height="24px" align="right">Email: <span style="color:#00AEFF; font-weight:bold">opeyemi@hotels.ng</span><br/>Phone: <span style="color:#00AEFF; font-weight:bold">09024097111</span> </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding="10px 0px 10px 30px" background-color="rgba(0, 174, 255, 0.19)">
+    <mj-section padding="10px 30px 10px 30px" background-color="rgba(0, 174, 255, 0.19)">
       <mj-column width="70%">
         <mj-text color="#00AEFF" font-size="9px" line-height="12px">
         Sell more rooms and manage your hotel information on multiple OTAs with our Android app
         </mj-text>
         </mj-column>
       <mj-column width="30%">
-        <mj-text color="#00AEFF" font-size="12px" line-height="14px" font-weight="bold"> Download now</mj-text>
+        <mj-text color="#00AEFF" font-size="12px" line-height="14px" font-weight="bold" align="right"> Download now</mj-text>
         </mj-column>
         </mj-section>
     <mj-section padding-top="10px" background-color="#FAFAFA">
