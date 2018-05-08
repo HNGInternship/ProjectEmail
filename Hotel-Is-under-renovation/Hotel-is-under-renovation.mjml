@@ -12,13 +12,13 @@
     </mj-style>
   </mj-head>
   <mj-body background-color="white">
-    <mj-section>
+    <mj-section padding="0px 30px 0px 0px">
       <mj-group>
-      <mj-column width="70%" padding="30px 0px 0 0">
-        <mj-image height="39px" width="116px" alt="hotels.ng logo" src="http://res.cloudinary.com/dv3ymesru/image/upload/v1524078850/hng-logo.png" align="center" />
+      <mj-column width="65%" padding="20px 0px 0 0">
+        <mj-image height="39px" width="116px" alt="hotels.ng logo" src="http://res.cloudinary.com/dv3ymesru/image/upload/v1524078850/hng-logo.png" align="right" />
       </mj-column>
-      <mj-column width="30%">
-       <mj-text font-size="8.29px" color="#4F4F4F" line-height="10px" text-decoration="underline">view in browser</mj-text>
+      <mj-column width="35%">
+       <mj-text font-size="8.29px" color="#4F4F4F" line-height="10px" text-decoration="underline" align="right">view in browser</mj-text>
       </mj-column>
       </mj-group>
     </mj-section>
@@ -30,8 +30,8 @@
     <mj-section>
       <mj-column>
         <mj-text font-size="16px" font-weight="bold" color="#828282" line-height="19px">Hello Mr. Abayomi Abidakum,</mj-text>
-        <mj-text color="#828282" font-size="16px" line-height="23px" letter-spacing="0.03rem">
-          Unfortunately, <a style="color: #828282" href="#">Southern sun ikoyi Hotel, Ikoyi, Lagos</a> is temporarily closed for business till further noticed. <br/> <br/> <br/> Please consider some of our best alternative recommendations listed
+        <mj-text color="#828282" font-size="16px" line-height="21px" letter-spacing="0.03rem">
+          Unfortunately, <a style="color: #828282" href="#">Southern sun ikoyi Hotel, Ikoyi, Lagos</a> is temporarily closed for business till further noticed. <br/> <br/>  Please consider some of our best alternative recommendations listed
           below.
         </mj-text>
       </mj-column>
@@ -115,7 +115,7 @@
         <mj-image width="147px" src="http://res.cloudinary.com/dv3ymesru/image/upload/v1524078851/hotel-image8.png" align="center" alt="hotel image 8" padding="0">
       </mj-column>
       <mj-column width="100%" >
-        <mj-button padding-top="30px" width="220px" background-color="white" border="1px solid #00AEFF" color="#00AEFF" font-size="14px" font-weight="bold">
+        <mj-button padding-top="30px" width="220px" background-color="white" border="1px solid #00AEFF" color="#00AEFF" border-radius="3px" font-size="14px" font-weight="bold" line-height="19px">
           VIEW HOTEL
         </mj-button>
       </mj-column>
@@ -166,7 +166,7 @@
         <mj-image width="147px" alt="hotel 4 image" src="http://res.cloudinary.com/dv3ymesru/image/upload/v1524078851/hotel-image4.png" align="center" padding="0">
       </mj-column>
       <mj-column width="100%" >
-        <mj-button padding-top="30px" width="220px" background-color="white" border="1px solid #00AEFF" color="#00AEFF" font-size="14px" font-weight="bold">
+        <mj-button padding-top="30px" width="220px" background-color="white" border="1px solid #00AEFF" color="#00AEFF"  border-radius="3px" font-size="14px" font-weight="bold" line-height="19px">
           VIEW HOTEL
         </mj-button>
       </mj-column>
@@ -216,7 +216,7 @@
         <mj-image width="147px" alt="hotel 4 image" src="http://res.cloudinary.com/maaj/image/upload/v1523994246/hotel-image6.png" align="center" padding="0">
       </mj-column>
       <mj-column width="100%" >
-        <mj-button padding-top="30px" width="220px" background-color="white" border="1px solid #00AEFF" color="#00AEFF" font-size="14px" font-weight="bold">
+        <mj-button padding-top="30px" width="220px" background-color="white" border="1px solid #00AEFF" color="#00AEFF" font-size="14px" font-weight="bold" border-radius="3px" border-radius="3px">
           VIEW HOTEL
         </mj-button>
       </mj-column>
@@ -234,12 +234,12 @@
         </mj-text>
     </mj-section>
 
-    <mj-section>
+    <mj-section padding="">
       <mj-column>
-        <mj-button width="220px" background-color="white" border="1px solid #FA1212" color="#FA1212" font-size="14px" line-height="17px" align="center">CANCEL RESERVATION</mj-button>
+        <mj-button width="220px" background-color="white" border="1px solid #FA1212" color="#FA1212" font-size="12.7px" font-weight="bold" line-height="19px" align="center" border-radius="3px">CANCEL RESERVATION</mj-button>
       </mj-column>
       <mj-column>
-        <mj-button width="240px" background-color="#084482" align="center" color="white" font-size="14px" line-height="17px">VIEW ALTERNATIVE HOTELS</mj-button>
+        <mj-button width="220px" background-color="#084482" font-weight="bold" align="center" color="white" font-size="12.7px" line-height="19px" border-radius="3px">VIEW ALTERNATIVE HOTELS</mj-button>
       </mj-column>
     </mj-section>
 
@@ -258,7 +258,7 @@
 
       </mj-column>
       <mj-column width="40%">
-        <mj-text color="#828282" font-size="16px" line-height="24px">Email: <span style="color:#00AEFF; font-weight:bold">opeyemi@hotels.ng</span><br/>Phone: <span style="color:#00AEFF; font-weight:bold"> 09024097111</span> </mj-text>
+        <mj-text color="#828282" font-size="16px" line-height="24px" align="right">Email: <span style="color:#00AEFF; font-weight:bold">opeyemi@hotels.ng</span><br/>Phone: <span style="color:#00AEFF; font-weight:bold"> 09024097111</span> </mj-text>
       </mj-column>
     </mj-section>
 
@@ -272,7 +272,7 @@
         </mj-text>
         </mj-column>
       <mj-column width="30%">
-        <mj-text font-size="12px" color="#00AEFF" font-weight="bold" line-height="14px">Download now</mj-text>
+        <mj-text font-size="12px" color="#00AEFF" font-weight="bold" line-height="14px" align="right">Download now</mj-text>
        </mj-column>
     </mj-section>
 
