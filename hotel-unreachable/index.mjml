@@ -4,29 +4,28 @@
 		<mj-title>HOTEL UNREACHABLE</mj-title>
     <mj-attributes>
       <mj-image padding='0'/>
-      <mj-text align="left" color="#333333" font-family="lato, arial" line-height="19px"/>
+      <mj-text align="left" color="#333333" font-family="lato, arial" line-height="21px"/>
       <mj-section background-color="#fff" />
      
     </mj-attributes>
 
   </mj-head>
 	<mj-body background-color="#ffffff">
- 		<mj-section>
+ 		<mj-section padding="">
       <mj-group>
-			<mj-column width="70%">
-        <mj-image  width="116px" alt="hotels.ng logo" height="39px" src="http://res.cloudinary.com/dv3ymesru/image/upload/v1524078850/hng-logo.png"></mj-image>
+			<mj-column width="60%" padding="20px 0px 0px 0px">
+        <mj-image  width="116px" alt="hotels.ng logo" height="39px" src="http://res.cloudinary.com/dv3ymesru/image/upload/v1524078850/hng-logo.png" align="right"></mj-image>
         
        </mj-column>
-      <mj-column width="30%">
-      	<mj-navbar>
-        	<mj-navbar-link font-family="lato" text-decoration="underline" text-transform="lowercase" font-size="8.29px" >view in browser</mj-navbar-link>
-        </mj-navbar>
+      <mj-column width="40%">
+      	<mj-text font-family="lato" text-decoration="underline" line-height="14px" font-size="9px" align="right">View in browser</mj-text>
+        
       </mj-column>
         </mj-group>
      </mj-section>
     <mj-section>
     	<mj-column>
-      	<mj-text align="left" font-family="lato" font-size="20px"font-weight="bold" color="#333333" text-transform="capitalize"> booking (#12343234) has been cancelled</mj-text>
+      	<mj-text align="left" font-family="lato" font-size="20px" font-weight="bold" color="#333333" text-transform="capitalize"> booking (#12343234) has been cancelled</mj-text>
         <mj-text font-size="16px" color="#7C888D" font-weight="bold">Hello, Southern Sun Ikoyi Hotel,</mj-text>
         
         <mj-text font-size="16px" color="#7C888D" padding="0 25px 0 25px">Efforts to reach your phone lines have proved futile, and currently, we do not know the status of the reservation request we made. Hence, the client has chosen to cancel the reservation. </mj-text>
@@ -143,7 +142,7 @@ by replying this email with your correct contact details.</mj-text>
     </mj-section>
   <mj-section>
   	<mj-column>
-    	<mj-button background-color="#084482" width="180px" height="41px" font-family="lato" font-size="11.29px" font-weight="bold">UPDATE INFORMATION</mj-button>
+    	<mj-button background-color="#084482" width="180px" line-height="19px" border-radius="3px" font-family="lato" font-size="11.29px" font-weight="bold">UPDATE INFORMATION</mj-button>
       <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
     </mj-column>
   </mj-section>
@@ -161,7 +160,7 @@ by replying this email with your correct contact details.</mj-text>
       </mj-column>
     
     	<mj-column >
-        <mj-text font-family="lato" font-size="16px" color="828282">
+        <mj-text font-family="lato" font-size="16px" color="828282" align="right">
           Email: <span style="color: #00AEFF">opeyemi@hotels.ng </span><br/>
         Phone: <span style="color: #00AEFF">09024097111</span>
           </mj-text>
@@ -172,14 +171,14 @@ by replying this email with your correct contact details.</mj-text>
     	
     </mj-section>
 
-	<mj-section background-color="rgba(252, 130, 51, 0.29)" >
+	<mj-section background-color="rgba(252, 130, 51, 0.19)" padding="" >
 	<mj-column width="70%">
     <mj-text font-size="9px" font-weight="bold" color="#FC8233">
     	Sell more rooms and manage your hotel information on multiple OTAs with our Android app
     </mj-text>
     </mj-column>
     <mj-column width="30%">
-    	<mj-text font-size="12px" font-weight="bold" color="#FC8233">
+    	<mj-text font-size="12px" font-weight="bold" color="#FC8233" align="right">
       Download now
       </mj-text>
     </mj-column>
