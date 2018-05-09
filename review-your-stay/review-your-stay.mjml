@@ -81,11 +81,7 @@
       </mj-column>
       
     </mj-section>
-    <mj-section padding="10px 0px 0px 0px">
-      
-        <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
-      
-    </mj-section>
+    
     
         
         <mj-section padding-top="0px">
