@@ -108,7 +108,7 @@
       </mj-section>
     <mj-section padding="">
     	<mj-column>
-      	<mj-button background-color="#ffffff" border="1px solid #00AEFF" width="220px" height="41px" color="#00AEFF" font-family="lato" font-size="14px" font-weight="bold" line-height="17px"> VIEW HOTEL
+      	<mj-button background-color="#ffffff" border="1px solid #00AEFF" width="220px" height="41px" color="#00AEFF" font-family="lato" font-size="14px" font-weight="bold" line-height="17px"> <a href="#" style="text-decoration:none;color:#00aeff">VIEW HOTEL</a>
        </mj-button>
       </mj-column>
     </mj-section>
@@ -177,7 +177,7 @@
       </mj-section>
     <mj-section padding="">
     	<mj-column>
-      	<mj-button background-color="#ffffff" border="1px solid #00AEFF" width="220px" height="41px" color="#00AEFF" font-family="lato" font-size="14px" font-weight="bold" line-height="17px"> VIEW HOTEL
+        <mj-button background-color="#ffffff" border="1px solid #00AEFF" width="220px" height="41px" color="#00AEFF" font-family="lato" font-size="14px" font-weight="bold" line-height="17px"> <a href="#" style="text-decoration:none;color:#00aeff">VIEW HOTEL</a>
        </mj-button>
       </mj-column>
     </mj-section>
@@ -245,7 +245,7 @@
       </mj-section>
       <mj-section padding="">
     	<mj-column>
-      	<mj-button background-color="#ffffff" border="1px solid #00AEFF" width="220px" height="41px" color="#00AEFF" font-family="lato" font-size="14px" font-weight="bold" line-height="17px"> VIEW HOTEL
+        <mj-button background-color="#ffffff" border="1px solid #00AEFF" width="220px" height="41px" color="#00AEFF" font-family="lato" font-size="14px" font-weight="bold" line-height="17px"> <a href="#" style="text-decoration:none;color:#00aeff">VIEW HOTEL</a>
        </mj-button>
       </mj-column>
     </mj-section>
@@ -257,17 +257,17 @@
     <mj-section padding="">
     	<mj-column>
       	 <mj-button width="220px" height="41px" background-color="#00AEFF" font-family="lato" font-size="14px" font-weight="bold" color="#fff" line-height="17px">
-        	CHANGE DATES
+           <a href="#" style="text-decoration:none;color:#fff">CHANGE DATES</a>
         </mj-button>
       </mj-column>
     </mj-section>
     <mj-section padding="">
     	<mj-column width="50%">
-      	<mj-button background-color="#fff" border="1px solid #FA1212" width="220px" height="41px" font-family="lato" font-size="14px" font-weight="bold" color="#FA1212" line-height="17px"> CANCEL RESERVATION
+        <mj-button background-color="#fff" border="1px solid #FA1212" width="220px" height="41px" font-family="lato" font-size="14px" font-weight="bold" color="#FA1212" line-height="17px"> <a href="#" style="text-decoration:none;color:#fa1212">CANCEL RESERVATION</a>
         </mj-button>
       </mj-column>
       <mj-column width="50%">
-      <mj-button background-color="#084482"  width="220px" height="41px" font-family="lato" font-size="14px" font-weight="bold" color="#fff" line-height="17px"> VIEW ALTERNATE HOTELS
+        <mj-button background-color="#084482"  width="220px" height="41px" font-family="lato" font-size="14px" font-weight="bold" color="#fff" line-height="17px"> <a href="#" style="text-decoration:none;color:#fff">VIEW ALTERNATE HOTELS</a>
         </mj-button>
       </mj-column>
     </mj-section>
@@ -293,8 +293,8 @@
       </mj-column>
     	<mj-column width="50%"  >
         <mj-text font-family="lato" font-size="16px" color="#828282" line-height="23px">
-         Email: <span style="color:#00AEFF;"> opeyemi@hotels.ng <br/></span>
-Phone: <span style="color:#00AEFF;">09024097111 </span>
+          Email: <span style="color:#00AEFF;"> <a href="mailto:opeyemi@hotels.ng" style="text-decoration:none;color:#00aeff">opeyemi@hotels.ng</a> <br/></span>
+          Phone: <span style="color:#00AEFF;"><a href="tel:09024097111" style="text-decoration:none;color:#00aeff">09024097111</a> </span>
           </mj-text>
       	
       </mj-column>
@@ -329,7 +329,7 @@ Learn more
     </mj-text>
     <mj-text font-family="lato" color="#828282" font-size="12px" line-height="17px">
     When paying via bank transfer, please include your booking id or name in the reference.
-If you don't get a payment confirmation message at least 5 hours after payment, please call our support line (+2347008808800) or email us at reservations@hotels.ng
+      If you don't get a payment confirmation message at least 5 hours after payment, please call our support line <a href="el:+2347008808800" style="text-decoration:none;color:#828282">(+2347008808800)</a> or email us at <a href="maito:reservation@hotels.ng" style="text-decoration:none;color:#828282">reservations@hotels.ng</a>
 
 
     </mj-text>
@@ -367,7 +367,7 @@ Once you place a booking, your reservation is secured, and we'll send you a fina
     </mj-text>
     <mj-divider border-width="1px" border-color="#BDBDBD"></mj-divider>
     <mj-text font-family="lato" color="#828282" font-size="12px" line-height="17th">
-    3, Birrel Avenue, Yaba Lagos. +234 700 880 8800
+      3, Birrel Avenue, Yaba Lagos. <a href="tel:+2347008808800" style="text-decoration:none;color:#828282">+234 700 880 8800</a>
 
     </mj-text>
     <mj-text font-family="lato" color="#828282" font-size="12px" line-height="17px">
