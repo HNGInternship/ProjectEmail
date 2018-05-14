@@ -1,6 +1,16 @@
 <mjml>
   <mj-head>
     <mj-title>FULLY BOOKED CLIENT</mj-title>
+    <mj-style>
+        @media only screen and (max-width: 480px){
+          .body-fix div{
+            float : left !important;
+          }
+      .logo-fix img{
+            float : left !important;
+          }
+        }
+    </mj-style>
     <mj-attributes>
       <mj-image padding='0'/>
       <mj-text align="left" color="#333333" font-family="lato, arial" font-size="16px" line-height= "19px"/>
@@ -21,7 +31,7 @@
     </mj-section>
     <mj-section padding="10">
 			<mj-column padding-top="0px">
-        <mj-image width="116px" height="39px" alt="hotels.ng logo" src="http://res.cloudinary.com/dv3ymesru/image/upload/v1524078850/hng-logo.png"></mj-image>
+        <mj-image css-class="logo-fix" width="116px" height="39px" alt="hotels.ng logo" src="http://res.cloudinary.com/dv3ymesru/image/upload/v1524078850/hng-logo.png"></mj-image>
         
       </mj-column>
      </mj-section>
@@ -291,11 +301,14 @@
         	Booking Team
         </mj-text>
       </mj-column>
-    	<mj-column width="50%"  >
-        <mj-text font-family="lato" font-size="16px" color="#828282" line-height="23px">
+    	<mj-column width="50%">
+        <mj-text font-family="lato" font-size="16px" color="#828282" line-height="23px" align="right" css-class="body-fix" padding-bottom="0px">
           Email: <span style="color:#00AEFF;"> <a href="mailto:opeyemi@hotels.ng" style="text-decoration:none;color:#00aeff">opeyemi@hotels.ng</a> <br/></span>
-          Phone: <span style="color:#00AEFF;"><a href="tel:09024097111" style="text-decoration:none;color:#00aeff">09024097111</a> </span>
+         
           </mj-text>
+        <mj-text font-family="lato" font-size="16px" color="#828282" line-height="23px" align="right" padding-bottom="10pxpx" padding-top="0px" css-class="body-fix">
+     Phone: <span style="color:#00AEFF;"><a href="tel:09024097111" style="text-decoration:none;color:#00aeff">09024097111</a> </span>
+        </mj-text>
       	
       </mj-column>
     </mj-section>
@@ -303,12 +316,12 @@
     <mj-section background-color="rgba(0, 174, 255, 0.29)" padding="0px 0px 0px 0px">
     
     <mj-column width="70%" >
-    	<mj-text font-family="lato" font-size="12px" color="#00AEFF">
+    	<mj-text font-family="lato" font-size="12px" color="#00AEFF" padding-bottom="0px">
       	Get the hotels.ng app book your hotels instantly with our andriod app
       </mj-text>
     </mj-column>
       <mj-column width="30%">
-        <mj-text font-family="lato" font-style="Extra Bold" font-weight="bold"font-size="14px" color="#00AEFF">
+        <mj-text font-family="lato" font-style="Extra Bold" font-weight="bold"font-size="14px" color="#00AEFF" align="right" css-class="body-fix" >
          Download now
         </mj-text>
       </mj-column>
