@@ -143,7 +143,7 @@
       <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
     </mj-column>
   </mj-section>
-  <mj-section padding="0px 0px 0px 0px">
+  <mj-section padding="0px 0px 10px 0px">
       <mj-column>
       	<mj-text  font-size="16px" color="#828282" line-height="23px" padding="10px 25px 0 25px">
         	Best Regards, 
