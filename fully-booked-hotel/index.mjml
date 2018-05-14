@@ -12,7 +12,7 @@
       <mj-text align="left" color="#333333" font-family="Lato, Arial" />
       <mj-section background-color="#fffff" />
       <mj-all font-family="Lato" />
-      <mj-button padding="0px" />
+      <mj-button padding="0px" inner-padding="0px"/>
 
     </mj-attributes>
 
@@ -23,9 +23,9 @@
         <mj-text font-family="lato, arial" text-decoration="underline" text-transform="lowercase" font-size="8.29px" align="right" padding="0px"><a href="#" style="text-decoration:none; color:#828282;">view in browser</a></mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding-top="0px">
+    <mj-section padding-top="0px"  padding-bottom="0px">
       <mj-column width="70%" padding="0px 0px 0px 0px">
-        <mj-image width="116px" height="39px" alt="hotels.ng logo" src="http://res.cloudinary.com/dv3ymesru/image/upload/v1524078850/hng-logo.png" align="center"></mj-image>
+        <mj-image css-class="logo-fix" width="116px" height="39px" alt="hotels.ng logo" src="http://res.cloudinary.com/dv3ymesru/image/upload/v1524078850/hng-logo.png" align="center"></mj-image>
 
       </mj-column>
     </mj-section>
