@@ -1,20 +1,27 @@
 <mjml>
   <mj-head>
+     <mj-style>
+        @media only screen and (max-width: 480px){
+          .body-fix div {
+            float: left !important;
+          }
+        }
+    </mj-style>
     <mj-title>Payment Recieved Hotel</mj-title>
     <mj-attributes>
       <mj-all font-family="Lato, Arial" />
     </mj-attributes>
   </mj-head>
   <mj-body background-color="#ffffff">
-    <mj-wrapper background-color="#ffffff">
-      <mj-section>
+      <mj-section padding-top="0px" padding-bottom="0px">
         <mj-column width="100%">
           <mj-text padding-top="0px">
             <a href="#" style="color:#4F4F4F;font-size:8.28px; text-decoration:none;line-height:10px; text-align:right;">
               <mj-text style="float:right;border-bottom:1px solid #828282">View in browser</mj-text>
             </a>
           </mj-text>
-        </mj-column>
+        </mj-column></mj-section>
+    <mj-section padding-top="0px" padding-bottom="0px">
         <mj-column width="100%">
           <!--hotels.ng logo with 80% width-->
           <mj-image src="http://res.cloudinary.com/justiceotuya/image/upload/v1523683447/hotelslogo.png" alt="hotels.ng logo" width="116" height="39" padding-bottom="0px" padding-top="0px"/>
@@ -23,13 +30,13 @@
 
       <mj-section padding-bottom="0">
         <mj-column width="100%">
-          <mj-text color="#333333" font-weight="bold" font-size="20px" line-height="24px" align="left" letter-spacing="30%" padding-top="0px">
+          <mj-text color="#333333" font-weight="bold" font-size="20px" line-height="24px" align="left" letter-spacing="30%" padding-bottom="0px" padding-top="0px">
             This Is A Prepaid Booking We Are Responsible For Payment
           </mj-text>
         </mj-column>
       </mj-section>
 
-      <mj-section padding-bottom="10px">
+      <mj-section padding-bottom="0px" padding-top="10px">
         <mj-column width="100%">
           <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="24px" align="left">
             <span style="color:#828282; font-size:16px; font-weight: bold; line-height:24px; align:left;">Hello, Southern Sun Ikoyi Hotel,</span>
@@ -38,7 +45,7 @@
         </mj-column>
       </mj-section>
 
-      <mj-section padding-top="0">
+      <mj-section padding-top="0" padding-bottom="0px">
         <mj-column width="40%">
           <mj-text color="#333333" font-weight="regular" font-size="16px" line-height="19px" align="left">
             Client Name <br/><br/>
@@ -54,7 +61,7 @@
       </mj-section>
 
       <!---Schedule Details-->
-      <mj-section padding-top="0">
+      <mj-section padding-top="0" padding-bottom="0px">
         <mj-column width="100%">
           <mj-text color="#333333" font-weight="regular" font-size="16px" line-height="19px" align="left">
             Schedule Details
@@ -82,9 +89,9 @@
 
 
       <!--payment Section-->
-      <mj-section padding="0px">
+      <mj-section padding="20px 0px">
         <mj-column width="100%">
-          <mj-text color="#333333" font-weight="regular" font-size="16px" line-height="19px" align="left">
+          <mj-text padding-top="0px" color="#333333" font-weight="regular" font-size="16px" line-height="19px" align="left">
             Payment
           </mj-text>
           <mj-divider border-width="1px" border-style="dashed" border-color="#bdbdbd" />
@@ -150,9 +157,9 @@
           <mj-text color="#828282" font-size="16px" line-height="24px">Best Regards,<br/><strong>Opeyemi Jegede</strong><br/> <span style="font-size:14px">Bookings Team</span></mj-text>
         </mj-column>
         <mj-column>
-          <mj-text color="#828282" font-size="16px" line-height="24px" align="left" padding-bottom="0px">Email: <span style="color:#00AEFF; font-weight:bold"><a href="mailto:opeyemi@hotels.ng" style="text-decoration:none;color:#00aeff;">opeyemi@hotels.ng</a></span>
+          <mj-text css-class="body-fix" color="#828282" font-size="16px" line-height="24px" align="right" padding-bottom="0px">Email: <span style="color:#00AEFF; font-weight:bold"><a href="mailto:opeyemi@hotels.ng" style="text-decoration:none;color:#00aeff;">opeyemi@hotels.ng</a></span>
           </mj-text>
-          <mj-text color="#828282" font-size="16px" line-height="24px" align="left" padding-top="0px">Phone: <span style="color:#00AEFF; font-weight:bold; "><a href="tel:07008808800" style="text-decoration:none;color:#00aeff;">07008808800</a></span> </mj-text>
+          <mj-text css-class="body-fix" color="#828282" font-size="16px" line-height="24px" align="right" padding-top="0px">Phone: <span style="color:#00AEFF; font-weight:bold; "><a href="tel:07008808800" style="text-decoration:none;color:#00aeff;">07008808800</a></span> </mj-text>
         </mj-column>
       </mj-section>
 
@@ -163,7 +170,7 @@
             Sell more rooms and manage your hotel information on multiple OTAs with our Android app</mj-text>
         </mj-column>
         <mj-column width="30%">
-          <mj-text color="#FC8233" font-weight="800" font-size="12px" line-height="normal"><a href="#" style="text-decoration:none;color:#fc8233">Download now</a></mj-text>
+          <mj-text css-class="body-fix" color="#FC8233" font-weight="800" font-size="12px" line-height="normal" align="right"><a href="#" style="text-decoration:none;color:#fc8233">Download now</a></mj-text>
         </mj-column>
       </mj-section>
 
@@ -250,7 +257,5 @@
           </mj-text>
         </mj-column>
       </mj-section>
-
-    </mj-wrapper>
   </mj-body>
 </mjml>
