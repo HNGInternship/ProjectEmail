@@ -14,15 +14,15 @@
   </mj-head>
   <mj-body background-color="#ffffff">
       <mj-section padding-top="0px" padding-bottom="0px">
-        <mj-column width="100%">
+        <mj-column>
           <mj-text padding-top="0px">
-            <a href="#" style="color:#4F4F4F;font-size:8.28px; text-decoration:none;line-height:10px; text-align:right;">
-              <mj-text style="float:right;border-bottom:1px solid #828282">View in browser</mj-text>
+            <a href="#" style="color:#4F4F4F;font-size:8.28px; text-decoration:none;line-height:10px; text-align:right;float:right;border-bottom:1px solid #828282">
+              View in browser
             </a>
           </mj-text>
         </mj-column></mj-section>
     <mj-section padding-top="0px" padding-bottom="0px">
-        <mj-column width="100%">
+        <mj-column>
           <!--hotels.ng logo with 80% width-->
           <mj-image src="http://res.cloudinary.com/justiceotuya/image/upload/v1523683447/hotelslogo.png" alt="hotels.ng logo" width="116" height="39" padding-bottom="0px" padding-top="0px"/>
         </mj-column>
