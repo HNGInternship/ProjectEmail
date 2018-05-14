@@ -4,12 +4,18 @@
     <mj-attributes>
       <mj-all font-family="Lato, Arial" />
     </mj-attributes>
+    <mj-style>
+        @media only screen and (max-width: 480px){
+          .body-fix div {
+            float: left !important;
+          }
+        }
+    </mj-style>
   </mj-head>
   <mj-body background-color="#ffffff">
-    <mj-wrapper background-color="#ffffff">
-      <mj-section>
+      <mj-section padding="0px">
         <mj-column width="100%">
-          <mj-text>
+          <mj-text padding="0px 25px">
             <a href="#" style="color:#4F4F4F;font-size:8.28px; text-decoration:none;line-height:10px; text-align:right;">
               <mj-text style="float:right;border-bottom:1px solid #4f4f4f">View in browser</mj-text>
             </a>
@@ -17,7 +23,7 @@
         </mj-column>
         <mj-column width="100%">
           <!--hotels.ng logo with 80% width-->
-          <mj-image src="http://res.cloudinary.com/justiceotuya/image/upload/v1523683447/hotelslogo.png" alt="hotels.ng logo" width="116" height="39" />
+          <mj-image src="http://res.cloudinary.com/justiceotuya/image/upload/v1523683447/hotelslogo.png" alt="hotels.ng logo" width="116" height="39" padding="0px 0px"/>
         </mj-column>
       </mj-section>
 
@@ -82,7 +88,7 @@
 
 
       <!--payment Section-->
-      <mj-section padding="0px">
+      <mj-section padding="0px" padding-bottom="20px">
         <mj-column width="100%">
           <mj-text color="#333333" font-weight="regular" font-size="16px" line-height="19px" align="left">
             Payment
@@ -159,9 +165,9 @@
 
         </mj-column>
         <mj-column width="40%" >
-          <mj-text color="#828282" font-size="16px" line-height="24px" align="justify">Email: <span style="color:#00AEFF; font-weight:bold"><a href="mailto:opeyemi@hotel.ng" style="text-decoration:none;color:#00aeff">opeyemi@hotels.ng</a></span>
+          <mj-text padding-bottom="0px" color="#828282" font-size="16px" line-height="24px" align="right" css-class="body-fix">Email: <span style="color:#00AEFF; font-weight:bold"><a href="mailto:opeyemi@hotel.ng" style="text-decoration:none;color:#00aeff">opeyemi@hotels.ng</a></span>
           </mj-text>
-          <mj-text color="#828282" font-size="16px" line-height="24px" align="justify">Phone: <span style="color:#00AEFF; font-weight:bold"><a href="tel:0708808800" style="text-decoration:none;color:#00aeff">0708808800</a></span> </mj-text>
+          <mj-text padding-top="0px" color="#828282" font-size="16px" line-height="24px" align="right" css-class="body-fix">Phone: <span style="color:#00AEFF; font-weight:bold"><a href="tel:0708808800" style="text-decoration:none;color:#00aeff">0708808800</a></span> </mj-text>
         </mj-column>
       </mj-section>
 
@@ -172,7 +178,7 @@
             Get the hotels.ng app book your hotels instantly with our andriod app</mj-text>
         </mj-column>
         <mj-column width="30%">
-          <mj-text color="#00AEFF" font-weight="800" font-size="12px" line-height="normal" >
+          <mj-text color="#00AEFF" font-weight="800" font-size="12px" line-height="normal" align="right" css-class="body-fix">
             <a href="#" style="text-decoration:none;color:#00aeff">Download now</a></mj-text>
         </mj-column>
       </mj-section>
@@ -254,6 +260,5 @@
           </mj-text>
         </mj-column>
       </mj-section>
-    </mj-wrapper>
   </mj-body>
 </mjml>
