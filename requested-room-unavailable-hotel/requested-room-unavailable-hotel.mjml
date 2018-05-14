@@ -3,6 +3,10 @@
   <mj-head>
 		<mj-title>REQUESTED ROOM UNAVAILABLE HOTEL</mj-title>
     <mj-attributes>
+      <mj-style>
+      @media only screen and (max-width: 480px){ .logo-fix div { float: left !important;
+      padding:0px !important; } }
+    </mj-style>
       <mj-image padding='0'/>
       <mj-text align="left" color="#333333" font-family="lato, arial"/>
       <mj-section background-color="#fffff" />
@@ -14,9 +18,9 @@
 	<mj-body background-color="#ffffff">
     <mj-section padding="18px 25px 0px 0px">
       <mj-column padding="0px 0px 0px 0px">
-      	<mj-navbar align="right">
-        	<mj-navbar-link font-family="lato, arial" text-decoration="underline" text-transform="lowercase" font-size="8.29px" line-height="10px" padding="0px 0px 0px 0px">view in browser</mj-navbar-link>
-        </mj-navbar>
+      	<mj-text css-class="logo-fix" font-family="lato, arial" text-decoration="underline" text-transform="lowercase" font-size="8.29px" line-height="10px" padding="0px 0px 0px 0px" align="right">
+        	view in browser
+        </mj-text>
       </mj-column>
     </mj-section>
  		<mj-section padding="0px 0px 0px 0px">
@@ -153,7 +157,7 @@
       </mj-column>
     
     	<mj-column>
-        <mj-text font-size="16px" color="828282" line-height="23px" align="left">
+        <mj-text font-size="16px" color="828282" line-height="23px" align="right" css-class="logo-fix">
           Email: <span style="color: #00AEFF"><a href="mailto:opeyemi@hotels.ng" style="text-decoration:none;color:#00aeff">opeyemi@hotels.ng</a></span><br/>
         Phone: <span style="color: #00AEFF"><a href="tel:07008808800" style="text-decoration:none;color:#00aeff">09024097111</a></span>
           </mj-text>
@@ -171,7 +175,7 @@
     </mj-text>
     </mj-column>
     <mj-column width="30%">
-    	<mj-text font-size="12px" font-weight="bold" color="#FC8233" line-height="19px" align="left" padding-bottom="5px">
+    	<mj-text css-class="logo-fix" font-size="12px" font-weight="bold" color="#FC8233" line-height="19px" align="right" padding-bottom="5px">
       Download now
       </mj-text>
     </mj-column>
