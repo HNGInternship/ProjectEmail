@@ -12,6 +12,7 @@
       <mj-text align="left" color="#333333" font-family="Lato, Arial" />
       <mj-section background-color="#fffff" />
       <mj-all font-family="Lato" />
+      <mj-button padding="0px" />
 
     </mj-attributes>
 
@@ -148,7 +149,7 @@
     </mj-section>
     <mj-section>
       <mj-column padding="0px">
-        <mj-button background-color="#084482" width="180px" height="41px" font-family="lato" font-size="11.29px" font-weight="bold" padding="0px"><a href="#" style="text-decoration:none;color:#fff;">UPDATE INFORMATION</a></mj-button>
+        <mj-button background-color="#084482" width="180px" height="41px" font-family="lato" font-size="11.29px" font-weight="bold" padding-top="0px" padding-bottom="0px"><a href="#" style="text-decoration:none;color:#fff;">UPDATE INFORMATION</a></mj-button>
         <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
       </mj-column>
     </mj-section>
