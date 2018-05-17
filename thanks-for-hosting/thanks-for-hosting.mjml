@@ -7,14 +7,17 @@
     </mj-attributes>
   </mj-head>
   <mj-body background-color="white">
-    <mj-section>
-      <mj-group>
-      <mj-column width="65%">
-        <mj-image height="39px" width="116px" src="https://res.cloudinary.com/mclint-cdn/image/upload/v1523824094/hng-logo.svg" align="right"/>
-      </mj-column>
-      <mj-column width="35%">
+    <mj-section padding="10px 0px">
+       <mj-column>
       	<mj-text color="#4F4F4F" font-size="8.26" text-decoration="underline" align="right" padding="0px 20px">view in browser</mj-text>
       </mj-column>
+    </mj-section>
+    <mj-section padding="0 0 10px 0">
+      <mj-group>
+      <mj-column>
+        <mj-image height="39px" width="116px" src="https://res.cloudinary.com/mclint-cdn/image/upload/v1523824094/hng-logo.svg" align="center"/>
+      </mj-column>
+     
         </mj-group>
     </mj-section>
     <mj-section padding="">
