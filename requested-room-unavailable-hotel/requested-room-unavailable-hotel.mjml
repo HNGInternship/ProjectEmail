@@ -139,7 +139,7 @@
     </mj-section>
   <mj-section>
   	<mj-column>
-      <mj-button background-color="#084482" width="185px" height="30px" font-family="lato" font-size="11.29px" font-weight="bold"><a href="#" style="text-decoration:none;color:#fff">UPDATE INFORMATION</a></mj-button>
+      <mj-button background-color="#084482" width="185px" height="41px" font-family="lato" font-size="11.29px" font-weight="bold"><a href="#" style="text-decoration:none;color:#fff">UPDATE INFORMATION</a></mj-button>
       <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
     </mj-column>
   </mj-section>
