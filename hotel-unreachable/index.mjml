@@ -11,16 +11,19 @@
 
   </mj-head>
 	<mj-body background-color="#ffffff">
- 		<mj-section padding="">
-      <mj-group>
-			<mj-column width="60%" padding="20px 0px 0px 0px">
-        <mj-image  width="116px" alt="hotels.ng logo" height="39px" src="http://res.cloudinary.com/dv3ymesru/image/upload/v1524078850/hng-logo.png" align="right"></mj-image>
-        
-       </mj-column>
-      <mj-column width="40%">
+    <mj-section padding="10px 20px 0px 0px">
+    <mj-column >
       	<mj-text font-family="lato" text-decoration="underline" line-height="14px" font-size="9px" align="right">View in browser</mj-text>
         
       </mj-column>
+    </mj-section>
+ 		<mj-section padding="">
+      <mj-group>
+			<mj-column  padding="20px 0px 0px 0px">
+        <mj-image  width="116px" alt="hotels.ng logo" height="39px" src="http://res.cloudinary.com/dv3ymesru/image/upload/v1524078850/hng-logo.png" align="center"></mj-image>
+        
+       </mj-column>
+      
         </mj-group>
      </mj-section>
     <mj-section>
@@ -160,7 +163,7 @@ by replying this email with your correct contact details.</mj-text>
       </mj-column>
     
     	<mj-column >
-        <mj-text font-family="lato" font-size="16px" color="828282" align="right">
+        <mj-text font-family="lato" font-size="16px" color="828282">
           Email: <span style="color: #00AEFF">opeyemi@hotels.ng </span><br/>
         Phone: <span style="color: #00AEFF">09024097111</span>
           </mj-text>
@@ -178,7 +181,7 @@ by replying this email with your correct contact details.</mj-text>
     </mj-text>
     </mj-column>
     <mj-column width="30%">
-    	<mj-text font-size="12px" font-weight="bold" color="#FC8233" align="right" line-height="14px">
+    	<mj-text font-size="12px" font-weight="bold" color="#FC8233" line-height="14px">
       Download now
       </mj-text>
     </mj-column>
