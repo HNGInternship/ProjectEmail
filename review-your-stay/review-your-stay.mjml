@@ -9,14 +9,17 @@
     </mj-attributes>
   </mj-head>
   <mj-body background-color="#ffffff">
-    <mj-section>
-        <mj-group>
-      <mj-column width="70%" padding="30px 0px 0 0">
-        <mj-image height="39px" width="116px" alt="hotels.ng logo" src="http://res.cloudinary.com/dv3ymesru/image/upload/v1524078850/hng-logo.png" align="right" />
-      </mj-column>
-      <mj-column width="30%">
+    <mj-section padding="10px 20px 0px 0px">
+      <mj-column>
        <mj-text font-size="8.29px" color="#4F4F4F" line-height="10px" text-decoration="underline" align="right">view in browser</mj-text>
       </mj-column>
+    </mj-section>
+    <mj-section>
+        <mj-group>
+      <mj-column padding="0px 0px 0px 0px">
+        <mj-image height="39px" width="116px" alt="hotels.ng logo" src="http://res.cloudinary.com/dv3ymesru/image/upload/v1524078850/hng-logo.png" align="center" />
+      </mj-column>
+    
       </mj-group>
     </mj-section>
     <mj-section>
@@ -98,7 +101,7 @@
 
       </mj-column>
       <mj-column width="40%">
-        <mj-text color="#828282" font-size="16px" line-height="24px" align="right">Email: <span style="color:#00AEFF; font-weight:bold">opeyemi@hotels.ng</span><br/>Phone: <span style="color:#00AEFF; font-weight:bold"> 09024097111</span> </mj-text>
+        <mj-text color="#828282" font-size="16px" line-height="24px">Email: <span style="color:#00AEFF; font-weight:bold">opeyemi@hotels.ng</span><br/>Phone: <span style="color:#00AEFF; font-weight:bold"> 09024097111</span> </mj-text>
       </mj-column>
     </mj-section>
       
@@ -110,13 +113,13 @@
         </mj-text>
         </mj-column>
       <mj-column width="30%">
-        <mj-text font-size="12px" color="#00AEFF" font-weight="bold" align="right"line-height="14px">Download now</mj-text>
+        <mj-text font-size="12px" color="#00AEFF" font-weight="bold" line-height="14px">Download now</mj-text>
        </mj-column>
     </mj-section>
 
     <mj-section background-color="#FAFAFA" padding-top="20px">
       <mj-column>
-        <mj-image align="left " height="18px " width="55px " padding="0px 0px 0px 4px " src="https://res.cloudinary.com/mclint-cdn/image/upload/v1523824094/hng-logo.svg " />
+        <mj-image align="left " height="18px " width="55px " padding="0px 0px 0px 4px " src="http://res.cloudinary.com/dv3ymesru/image/upload/v1524078850/hng-logo.png" />
         <mj-text font-size="12px">Hotels.ng is an online booking agency specialised in hotel booking within nigeria. we market hotels online nd book rooms for clients. we proffer hotel accomodation solution to the people looking for hotels witnin an area or particular city . we
           provide them with appropriate hotels that match their budget and expectations.</mj-text>
         <mj-text color="#00AEFF" font-size="12px">Learn more</mj-text>
