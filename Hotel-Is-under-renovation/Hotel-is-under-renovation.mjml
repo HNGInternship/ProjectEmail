@@ -12,14 +12,17 @@
     </mj-style>
   </mj-head>
   <mj-body background-color="white">
-    <mj-section padding="0px 30px 0px 0px">
-      <mj-group>
-      <mj-column width="65%" padding="20px 0px 0 0">
-        <mj-image height="39px" width="116px" alt="hotels.ng logo" src="http://res.cloudinary.com/dv3ymesru/image/upload/v1524078850/hng-logo.png" align="right" />
-      </mj-column>
-      <mj-column width="35%">
+    <mj-section padding="10px 20px 0px 0px">
+    <mj-column padding="0px">
        <mj-text font-size="8.29px" color="#4F4F4F" line-height="10px" text-decoration="underline" align="right">view in browser</mj-text>
       </mj-column>
+    </mj-section>
+    <mj-section padding="0px 30px 0px 0px">
+      <mj-group>
+      <mj-column padding="20px 0px 0 0">
+        <mj-image height="39px" width="116px" alt="hotels.ng logo" src="http://res.cloudinary.com/dv3ymesru/image/upload/v1524078850/hng-logo.png" align="center" />
+      </mj-column>
+      
       </mj-group>
     </mj-section>
     <mj-section>
@@ -258,7 +261,7 @@
 
       </mj-column>
       <mj-column width="40%">
-        <mj-text color="#828282" font-size="16px" line-height="24px" align="right">Email: <span style="color:#00AEFF; font-weight:bold">opeyemi@hotels.ng</span><br/>Phone: <span style="color:#00AEFF; font-weight:bold"> 09024097111</span> </mj-text>
+        <mj-text color="#828282" font-size="16px" line-height="24px">Email: <span style="color:#00AEFF; font-weight:bold">opeyemi@hotels.ng</span><br/>Phone: <span style="color:#00AEFF; font-weight:bold"> 09024097111</span> </mj-text>
       </mj-column>
     </mj-section>
 
@@ -272,7 +275,7 @@
         </mj-text>
         </mj-column>
       <mj-column width="30%">
-        <mj-text font-size="12px" color="#00AEFF" font-weight="bold" line-height="14px" align="right">Download now</mj-text>
+        <mj-text font-size="12px" color="#00AEFF" font-weight="bold" line-height="14px" >Download now</mj-text>
        </mj-column>
     </mj-section>
 
