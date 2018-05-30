@@ -10,6 +10,7 @@
             float : left !important;
           }
         }
+        .shape { height: 30px; width: 40px; border-radius: 50%; text-align: center;font-size: 18px; display: block; background-color:#00aeff; color:white; padding: 10px 0px 0px 0px}
     </mj-style>
     <mj-attributes>
       <mj-image padding='0'/>
@@ -56,13 +57,13 @@
       </mj-column>
       </mj-section>
       //container
-      <mj-section padding-top="0px" padding-bottom="0">
-        <mj-column>
-          <mj-raw>
-      	<div style="margin:0 0 0 25px; padding:0 0 0 0;font-family:lato;  width:25px; height: 25px; background-color:#00AEFF; border-radius:50%; color:#ffffff" align="center" >1</div>
-      </mj-raw>
-        </mj-column>
-      </mj-section>
+      <mj-section padding-top="20px">
+    <mj-column>
+    <mj-text><span class="shape" style="float:left">1</span></mj-text>
+    
+    </mj-column>
+    
+    </mj-section>
     
     <mj-wrapper padding="0 0 0 20px">
     <mj-section padding="">
@@ -124,13 +125,13 @@
     </mj-section>
     
     //container
-    <mj-section padding-top="0px" padding-bottom="0">
-        <mj-column>
-          <mj-raw>
-      	<div style="margin:0 0 0 25px; padding:0 0 0 0;font-family:lato;  width:25px; height: 25px; background-color:#00AEFF; border-radius:50%; color:#ffffff" align="center" >2</div>
-      </mj-raw>
-        </mj-column>
-      </mj-section>
+     <mj-section padding-top="20px">
+    <mj-column>
+    <mj-text><span class="shape" style="float:left">2</span></mj-text>
+    
+    </mj-column>
+    
+    </mj-section>
     
     <mj-wrapper padding="0 0 0 20px">
     <mj-section padding="">
@@ -192,13 +193,13 @@
     </mj-section>
     
     //container
-    <mj-section padding-top="0px" padding-bottom="0">
-        <mj-column>
-          <mj-raw>
-      	<div style="margin:0 0 0 25px; padding:0 0 0 0; width:25px; height: 25px; background-color:#00AEFF; border-radius:50%; font-family:lato; color:#ffffff" align="center" >3</div>
-      </mj-raw>
-        </mj-column>
-      </mj-section>
+     <mj-section padding-top="20px">
+    <mj-column>
+    <mj-text><span class="shape" style="float:left">3</span></mj-text>
+    
+    </mj-column>
+    
+    </mj-section>
     
     <mj-wrapper padding="0 0 0 20px">
     <mj-section padding="">
