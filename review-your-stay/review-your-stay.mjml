@@ -37,28 +37,28 @@
     </mj-section>
     
     <mj-section>
-    <mj-column width="5%">
+    <mj-column width="5%" padding="15px 0px">
       <mj-text align="center">😊</mj-text>
       </mj-column>
       <mj-column width="1%">
         <mj-spacer height="20px" />
       </mj-column>
       <mj-column width="16%" padding="10px 0px" background-color="#26BD3B" border-radius="3px">
-       <mj-text color="#ffffff" font-size="12px" align="center">EXTREMELY SATISFIED      </mj-text>
+       <mj-text color="#ffffff" font-size="12px" align="center" letter-spacing="0.05em" line-height="16px">EXTREMELY SATISFIED      </mj-text>
         
         </mj-column>
         <mj-column width="2%">
           <mj-spacer height="20px" />
         </mj-column>
       <mj-column width="16%" padding="10px 0px" background-color="#83ADE3" border-radius="3px">
-       <mj-text color="#ffffff" font-size="12px" align="center">MILDLY SATISFIED      </mj-text>
+       <mj-text color="#ffffff" font-size="12px" letter-spacing="0.05em" line-height="16px" align="center">MILDLY SATISFIED      </mj-text>
         
         </mj-column>
         <mj-column width="2%">
           <mj-spacer height="20px"/>
         </mj-column>
       <mj-column width="16%" padding="10px 0px" background-color="#7C7C7C" border-radius="3px">
-       <mj-text color="#ffffff" font-size="12px" align="center">NUETRALLY SATISFIED      </mj-text>
+       <mj-text color="#ffffff" font-size="12px"  letter-spacing="0.05em" align="center"line-height="16px">NUETRALLY SATISFIED      </mj-text>
         
         </mj-column>
         
@@ -66,21 +66,21 @@
           <mj-spacer height="20px" />
         </mj-column>
       <mj-column width="16%" padding="10px 0px" background-color="#E5DD48" border-radius="3px">
-       <mj-text color="#ffffff" font-size="12px" align="center">MILDLY DISATISFIED     <m  </mj-text>
+       <mj-text color="#ffffff" font-size="12px" letter-spacing="0.05em" align="center" line-height="16px">MILDLY DISATISFIED     <m  </mj-text>
         
         </mj-column>
         <mj-column width="2%">
           <mj-spacer height="20px" />
         </mj-column>
       <mj-column width="16%" padding="10px 0px" background-color="#CE2A1A" border-radius="3px">
-       <mj-text color="#ffffff" font-size="12px" align="center">EXTREMELY DISATISFIED   <br/>   </mj-text>
+       <mj-text color="#ffffff" font-size="12px" letter-spacing="0.05em" align="center"line-height="16px">EXTREMELY DISATISFIED   <br/>   </mj-text>
         
         </mj-column>
         <mj-column width="1%">
           <mj-spacer height="20px" />
         </mj-column>
-      <mj-column width="1%">
-      	<mj-text align="left">🙁</mj-text>
+      <mj-column width="1%" padding="15px 0px">
+      	<mj-text align="center">🙁</mj-text>
       </mj-column>
       <mj-column width="2%">
         
