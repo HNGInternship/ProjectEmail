@@ -76,11 +76,14 @@
        <mj-text color="#ffffff" font-size="12px" align="center">EXTREMELY DISATISFIED   <br/>   </mj-text>
         
         </mj-column>
-        <mj-column width="2%">
+        <mj-column width="1%">
           <mj-spacer height="20px" />
         </mj-column>
-      <mj-column width="4%">
-      	<mj-text align="center">🙁</mj-text>
+      <mj-column width="1%">
+      	<mj-text align="left">🙁</mj-text>
+      </mj-column>
+      <mj-column width="2%">
+        
       </mj-column>
       
     </mj-section>
