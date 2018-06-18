@@ -231,10 +231,9 @@
     <mj-section>
       <mj-column width="100%">
         <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="23px" letter-spacing="3%">
-          Your payment will be transferred to your new booking if you make one, and the difference will be communicated to you immediately. However, if you choose to cancel the booking we will process your refund within 3 working days.<br/> <br/>
-
-          If you require further assistance call us on <b>07008808800</b>
+             If you require further assistance call us on <b>07008808800</b>
         </mj-text>
+        </mj-column>
     </mj-section>
 
     <mj-section padding="">
