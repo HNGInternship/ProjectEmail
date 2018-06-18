@@ -1,0 +1,136 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-class name="underline" text-decoration='underline' \>
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#fbf9f9">
+
+    <mj-section border-radius="10px" background-color="#00AEFF">
+      <mj-column>
+        <mj-text align="center" color="#ffffff" font-size="50px" font-weight="bold">hotels.ng</mj-text>
+        <mj-text align="center" color="#ffffff" font-weight="bold">The Biggest Hotel Reservation Agency in Nigeria</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" font-weight="bold" color="#828282" font-size="20px">Request for reservation at your hotel</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-wrapper background-color="white">
+
+      <mj-section>
+        <mj-column>
+          <mj-text align="center" font-weight="bold" color="#828282" font-size="20px">Hello at Southern Sun Ikoyi Hotel,</mj-text>
+          <mj-text align="left" color="#828282" font-size="15px" line-height="24px">As discussed on phone, kindly make reservations for our client. the details are stated below</mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="2px 2px 0 0">
+        <mj-column>
+          <mj-table width="100%">
+            <tr style="border-bottom:1px solid #ecedee;text-align:left;padding:30px 0; background-color:#c4c4c4; color:white; ">
+              <th style="padding: 10px 0 10px 1px; text-align:center; font-size: 18px">Client Name</th>
+            </tr>
+
+            <tr>
+              <td style=" font-size:27px; text-align: center; line-height: 40px; background-color:#f2f2f2">Mr. Abayomi Abidakun on behalf of Mr. Abayomi Abidakun</td>
+            </tr>
+
+          </mj-table>
+        </mj-column>
+        <mj-column>
+
+          <mj-table width="100%">
+            <tr style="border-bottom:1px solid #ecedee;text-align:left;padding:30px 0 0 0; background-color:#c4c4c4; color:white; ">
+              <th style="padding: 10px 0 10px 10px; text-align:left; font-size: 18px">Schedule Details</th>
+            </tr>
+
+            <mj-table>
+              <tr style="background-color:#f2f2f2">
+                <td style="padding:0 0 10px 5px; font-size:15px; color:#828282; ">Arrival Date: &emsp; 17th December</td>
+              </tr>
+              <tr style="background-color:#f2f2f2">
+                <td style="padding:0 0 10px 5px; font-size:15px;color:#828282">Depature Date: 18th December</td>
+              </tr>
+            </mj-table>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+
+
+      <mj-section>
+
+        <mj-column>
+          <mj-table padding=" 0px 25px 0px 25px " cellspacing="0" cellpadding="0" line-height="15px">
+            <tr style="background-color:#c4c4c4; color:white">
+
+              <th width="60%" style="border-right:2px solid white; padding-left: 10px" align="left" p>Room Type</th>
+
+              <th width="10%" style="border-right:2px solid white">No of Rooms</th>
+
+              <th width="10%" style="border-right:2px solid white">Rate per Rooms</th>
+
+              <th width="10%" style="border-right:2px solid white">No of Nights</th>
+              <th style="padding: 2px 0 20px  5px; text-align:center; font-size: 14px" width="10%">Sub-total</th>
+
+            </tr>
+
+            <tr style="padding:5px 10px 0 25px; font-size:17px;color:#828282; border:2px solid white; background-color:#f2f2f2">
+              <td>Standard Promo (Dec 12 -Jan 9. Free Buffet, Breakfast for 2, complementary Shirt ironed)</td>
+              <td align='center'>1</td>
+              <td align='center'>&#x20A6 0</td>
+              <td align='center'>1</td>
+              <td align='center'>&#x20A6 0</td>
+          </mj-table>
+          <mj-table width="100%" padding="0px 25px 0 25px">
+            <th style="border:2px solid white;color:#0cc55a;font-size:17px; background-color:#f2f2f2; text-align:right">
+              Grand Total (Rack Rate): <span style="border-top:1px solid #828282;
+    border-bottom:1px solid #828282;
+    padding:2px 4px;">&#x20A6 35,000</span>
+            </th>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-text align="left" color="#828282" font-size="15px" line-height="24px">Kindly confirm this reservation as soon as possible and send me feedback. if you require any futher information, do not hesitate to call me on this phone number <strong>07008808800</strong> or reply this email </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top="0px">
+        <mj-column>
+          <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding-top="-40px" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="0">
+        <mj-column width="40%">
+          <mj-text color="#828282" font-size="15px" line-height="24px">Best Regards,<br><strong>Opeyemi Jegede</strong><br>Bookings Team</mj-text>
+        </mj-column>
+        <mj-column width="20%">
+
+        </mj-column>
+        <mj-column width="40%">
+          <mj-text color="#828282" font-size="15px" line-height="24px">Email: <span style="color:#00AEFF; font-weight:bold">opeyemi@hotels.ng</span></br>Phone: <span style="color:#00AEFF; font-weight:bold">0708808800</span> </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding-top="50px">
+        <mj-column width="100%">
+          <mj-text align="center" color="#828282" font-size="11px" line-height="20px">This email was sent to <span style="color: blue">ifekt4god@gmail.com</span> for hotel reservation purposes.</br>Were you satisfied with our service? if No, e-mail your complaints to our Managing Director md@hotels.ng</mj-text>
+        </mj-column>
+      </mj-section>
+
+    </mj-wrapper>
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text align="center" color="#828282" font-size="11px" line-height="20px">Hotels.ng is an online booking agency specialised in hotel booking within Nigeria. We Market hotels online and book rooms for clients. We proffer hotel accomodation solution to people looking for hotels within an area or particular city. we provide
+      </mj-column>
+      them with appropriate hotels that match their budget and expectations</mj-text>
+    </mj-section>
+
+  </mj-body>
+</mjml>
