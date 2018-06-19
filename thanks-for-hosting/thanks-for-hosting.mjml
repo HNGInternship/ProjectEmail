@@ -64,13 +64,13 @@
       
     
       
-      <mj-section background-color="rgba(252, 130, 51, 0.09)" padding="16px 25px">
+      <mj-section background-color="rgba(252, 130, 51, 0.09)" padding="10px 25px">
         <mj-column width="80%">
-          <mj-text color="#FC8233"  font-size="9px" line-height="normal">
+          <mj-text color="#FC8233"  font-size="9px">
            <strong> Sell more rooms and manage your hotel information on multiple OTAs with our Android app</strong></mj-text>
         </mj-column>
         <mj-column width="20%">
-          <mj-text color="#FC8233" font-family="lato" font-weight="800" font-size="12px" line-height="normal">
+          <mj-text color="#FC8233" font-family="lato" font-weight="800" font-size="12px" >
             Download now</mj-text>
         </mj-column>
       </mj-section>
