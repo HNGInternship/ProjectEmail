@@ -28,13 +28,13 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text font-size="16px"  font-weight="bold" color="#7C888D" padding="0px  30px 0px 30px" line-height="24px">Hello Southern Sun Ikoyi Hotel,</mj-text>
+        <mj-text font-size="16px"  font-weight="bold" color="#7C888D" padding="0px  30px 0px 30px" line-height="24px">Hello Southern sun Ikoyi Hotel,</mj-text>
         <mj-text color="#7C888D" line-height="20px"   letter-spacing="0.03rem" padding="0px  30px 0px 30px">
-          Thanks for hosting our client, Mr. Abayomi Abidakum, with booking ID: <span style="color: #00aeff">1084392023</span>. You can check your hotel's review by clicking the button below. You can also urge the customer to leave a review at check-out
+          Thanks for hosting our client, <b>Mr. Abayomi Abidakum,</b> with booking ID: <span style="color: #00aeff">1084392023</span>. You can check your hotel's review by clicking the button below. You can also urge the customer to leave a review at check-out
           to boost your ratings</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section padding="0px">
       <mj-column>
         <mj-button width="220px" background-color="#00AEFF" color="white" font-size="14px" line-height="17px"  font-weight="bold" border-radius="3px">VIEW REVIEW</mj-button>
       </mj-column>
@@ -64,7 +64,7 @@
       
     
       
-      <mj-section background-color="rgba(252, 130, 51, 0.29)" padding="16px 25px">
+      <mj-section background-color="rgba(252, 130, 51, 0.09)" padding="16px 25px">
         <mj-column width="80%">
           <mj-text color="#FC8233"  font-size="9px" line-height="normal">
            <strong> Sell more rooms and manage your hotel information on multiple OTAs with our Android app</strong></mj-text>
