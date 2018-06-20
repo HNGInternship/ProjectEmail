@@ -37,49 +37,49 @@
     </mj-section>
     
     <mj-section>
-    <mj-column width="5%" padding="15px 0px">
+    <mj-column width="5%" padding="5px 0px">
       <mj-text align="center">😊</mj-text>
       </mj-column>
       <mj-column width="1%">
-        <mj-spacer height="20px" />
+        <mj-spacer height="10px" />
       </mj-column>
-      <mj-column width="16%" padding="10px 0px" background-color="#26BD3B" border-radius="3px">
-       <mj-text color="#ffffff" font-size="12px" align="center" letter-spacing="0.05em" line-height="16px">EXTREMELY SATISFIED      </mj-text>
+      <mj-column width="16%" padding="0px 0px" background-color="#26BD3B" border-radius="3px">
+       <mj-text color="#ffffff" font-size="12px" align="center" letter-spacing="0.03em" line-height="16px">EXTREMELY SATISFIED      </mj-text>
         
         </mj-column>
         <mj-column width="2%">
-          <mj-spacer height="20px" />
+          <mj-spacer height="10px" />
         </mj-column>
-      <mj-column width="16%" padding="10px 0px" background-color="#83ADE3" border-radius="3px">
-       <mj-text color="#ffffff" font-size="12px" letter-spacing="0.05em" line-height="16px" align="center">MILDLY SATISFIED      </mj-text>
+      <mj-column width="16%" padding="0px 0px" background-color="#83ADE3" border-radius="3px">
+       <mj-text color="#ffffff" font-size="12px" letter-spacing="0.03em" line-height="16px" align="center">MILDLY SATISFIED      </mj-text>
         
         </mj-column>
         <mj-column width="2%">
-          <mj-spacer height="20px"/>
+          <mj-spacer height="10px"/>
         </mj-column>
-      <mj-column width="16%" padding="10px 0px" background-color="#7C7C7C" border-radius="3px">
+      <mj-column width="16%" padding="0px 0px" background-color="#7C7C7C" border-radius="3px">
        <mj-text color="#ffffff" font-size="12px"  letter-spacing="0.05em" align="center"line-height="16px">NUETRALLY SATISFIED      </mj-text>
         
         </mj-column>
         
         <mj-column width="2%">
-          <mj-spacer height="20px" />
+          <mj-spacer height="10px" />
         </mj-column>
-      <mj-column width="16%" padding="10px 0px" background-color="#E5DD48" border-radius="3px">
-       <mj-text color="#ffffff" font-size="12px" letter-spacing="0.05em" align="center" line-height="16px">MILDLY DISATISFIED     <m  </mj-text>
+      <mj-column width="16%" padding="0px 0px" background-color="#E5DD48" border-radius="3px">
+       <mj-text color="#ffffff" font-size="12px" letter-spacing="0.03em" align="center" line-height="16px">MILDLY DISATISFIED     <m  </mj-text>
         
         </mj-column>
         <mj-column width="2%">
-          <mj-spacer height="20px" />
+          <mj-spacer height="10px" />
         </mj-column>
-      <mj-column width="16%" padding="10px 0px" background-color="#CE2A1A" border-radius="3px">
-       <mj-text color="#ffffff" font-size="12px" letter-spacing="0.05em" align="center"line-height="16px">EXTREMELY DISATISFIED   <br/>   </mj-text>
+      <mj-column width="16%" padding="0px 0px" background-color="#CE2A1A" border-radius="3px">
+       <mj-text color="#ffffff" font-size="12px" letter-spacing="0.03em" align="center"line-height="16px">EXTREMELY DISATISFIED   <br/>   </mj-text>
         
         </mj-column>
         <mj-column width="1%">
-          <mj-spacer height="20px" />
+          <mj-spacer height="10px" />
         </mj-column>
-      <mj-column width="1%" padding="15px 0px">
+      <mj-column width="1%" padding="5px 0px">
       	<mj-text align="center">🙁</mj-text>
       </mj-column>
       <mj-column width="2%">
@@ -96,7 +96,7 @@
       </mj-column>
     </mj-section>
 
-    <mj-section padding-top="0">
+    <mj-section padding-top="0px">
       <mj-column width="40%">
         <mj-text color="#828282" font-size="16px" line-height="24px">Best Regards,<br/><strong>Opeyemi Jegede</strong><br/>Bookings Team</mj-text>
       </mj-column>
@@ -109,13 +109,13 @@
     </mj-section>
       
 
-	<mj-section  padding="20px" background-color="rgba(0, 174, 255, 0.19)">
-      <mj-column width="70%" >
+	<mj-section  padding="10px 10px" background-color="rgba(0, 174, 255, 0.09)">
+      <mj-column width="80%" >
         <mj-text font-size="9px" color = "#00AEFF" line-height="12px" font-weight="bold">
         Get the Hotels.ng app, book your hotels instantly with our Android app
         </mj-text>
         </mj-column>
-      <mj-column width="30%">
+      <mj-column width="20%">
         <mj-text font-size="12px" color="#00AEFF" font-weight="bold" line-height="14px">Download now</mj-text>
        </mj-column>
     </mj-section>
