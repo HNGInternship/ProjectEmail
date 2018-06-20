@@ -237,10 +237,10 @@
 
     <mj-section padding="">
       <mj-column>
-        <mj-button width="220px" background-color="white" border="1px solid #FA1212" color="#FA1212" font-size="12.7px" font-weight="bold" line-height="24px" align="center">CANCEL RESERVATION</mj-button>
+        <mj-button width="220px" background-color="white" border="1px solid #FA1212" color="#FA1212" font-size="12.3px" font-weight="bold" line-height="24px" align="center">CANCEL RESERVATION</mj-button>
       </mj-column>
       <mj-column>
-        <mj-button width="220px" background-color="#084482" color="white" font-size="12.7px" line-height="24px" align="center" font-weight="bold">VIEW ALTERNATIVE HOTELS</mj-button>
+        <mj-button width="220px" background-color="#084482"  border="1px solid #084482" color="white" font-size="12.3px" line-height="24px" align="center" font-weight="bold">VIEW ALTERNATIVE HOTELS</mj-button>
       </mj-column>
     </mj-section>
 
@@ -266,7 +266,7 @@
 
 
     <!---Download App ribbon -->
-    <mj-section  padding-top="20px" background-color="rgba(0, 174, 255, 0.19)">
+    <mj-section  padding="10px 30px" background-color="rgba(0, 174, 255, 0.09)">
       <mj-column width="80%" >
         <mj-text font-size="9px" color = "#00AEFF" line-height="12px" font-weight="bold">
         Sell more rooms and manage your hotel information on multiple OTAs with our Android app
