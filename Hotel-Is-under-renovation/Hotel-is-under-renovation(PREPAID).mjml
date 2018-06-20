@@ -237,22 +237,24 @@
         </mj-text>
     </mj-section>
 
-    <mj-section padding="">
-      <mj-column>
-        <mj-button width="220px" background-color="white" border="1px solid #FA1212" color="#FA1212" font-size="12.7px" font-weight="bold" line-height="24px" align="center">CANCEL RESERVATION</mj-button>
+    <mj-section padding="0px">
+      <mj-column width="5%"></mj-column>
+      <mj-column width="40%">
+        <mj-button width="220px" background-color="white" border="0.5px solid #FA1212" color="#FA1212" font-size="12.5px" font-weight="bold" line-height="24px" align="center">CANCEL RESERVATION</mj-button>
       </mj-column>
-      <mj-column>
-        <mj-button width="220px" background-color="#084482" color="white" font-size="12.7px" line-height="24px" align="center" font-weight="bold">VIEW ALTERNATIVE HOTELS</mj-button>
+      <mj-column width="40%">
+        <mj-button width="220px" background-color="#084482" border="1px solid #084482" color="white" font-size="12.5px" line-height="24px" align="center" font-weight="bold">VIEW ALTERNATIVE HOTELS</mj-button>
       </mj-column>
+      <mj-column width="10%"></mj-column>
     </mj-section>
 
     <!--horizontal line and opeyemi's contact-->
     <mj-section padding-top="0px">
-      <mj-column>
+      <mj-column >
         <mj-divider border-width="1px" border-style="solid" border-color="#BDBDBD" padding-top="-40px"></mj-divider>
       </mj-column>
     </mj-section>
-
+  
     <mj-section padding-top="0">
       <mj-column width="40%">
         <mj-text color="#828282" font-size="16px" line-height="24px">Best Regards,<br/><strong>Opeyemi Jegede</strong><br/>Bookings Team</mj-text>
@@ -268,13 +270,13 @@
 
 
     <!---Download App ribbon -->
-    <mj-section  padding-top="20px" background-color="rgba(0, 174, 255, 0.19)">
-      <mj-column width="70%" >
+    <mj-section  padding="10px 30px" background-color="rgba(0, 174, 255, 0.09)">
+      <mj-column width="80%" >
         <mj-text font-size="9px" color = "#00AEFF" line-height="12px" font-weight="bold">
         Sell more rooms and manage your hotel information on multiple OTAs with our Android app
         </mj-text>
         </mj-column>
-      <mj-column width="30%">
+      <mj-column width="20%">
         <mj-text font-size="12px" color="#00AEFF" font-weight="bold" line-height="14px" >Download now</mj-text>
        </mj-column>
     </mj-section>
