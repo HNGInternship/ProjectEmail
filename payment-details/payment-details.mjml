@@ -12,7 +12,7 @@
     <mj-section>
       <mj-column>
         <mj-text line-height="10px" color="#4F4F4F" padding="10px 30px" align="right" font-size="8.28px" text-decoration="underline">view in browser</mj-text>
-        <mj-image height="39px" width="116px" alt="Hotels.ng logo"src="http://res.cloudinary.com/dv3ymesru/image/upload/v1524078850/hng-logo.png" />
+        <mj-image height="39px" width="116px" alt="Hotels.ng logo"src="http://res.cloudinary.com/dv3ymesru/image/upload/v1524078850/hng-logo.png" align="center" />
       </mj-column>
     </mj-section>
     <mj-section>
@@ -22,7 +22,7 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text font-size="16px" font-weight="bold" color="#828282" line-height="19px">Hello Mr Abayomi Abidakum,</mj-text>
+        <mj-text font-size="16px" font-weight="bold" color="#828282" line-height="19px">Hello Mr. Abayomi Abidakum,</mj-text>
         <mj-text color="#828282" line-height="19px" letter-spacing="0.03rem">Thanks for booking <span style="text-decoration:underline;">Southern sun ikoyi Hotel, Ikoyi, Lagos</span> from Friday 18th January - Wednesday 23rd January. You can pay online or through bank transfer to any of our
           bank accounts listed below.
         </mj-text>
@@ -154,7 +154,7 @@
     </mj-column>
   				</mj-section>
     
-    <mj-section>
+    <mj-section padding="0px 30px">
     	<mj-column>
       	<mj-text color="#333333" font-size="16px" line-height="19px">Foreign Payments</mj-text>
       </mj-column>
@@ -194,23 +194,24 @@
       </mj-column>
     </mj-section>
     <mj-section padding-top="0">
+      
       <mj-column width="40%">
         <mj-text color="#828282" font-size="16px" line-height="24px">Best Regards,<br><strong>Opeyemi Jegede</strong><br>Bookings Team</mj-text>
       </mj-column>
       <mj-column width="20%">
 
       </mj-column>
-      <mj-column width="40%">
-        <mj-text color="#828282" font-size="16px" line-height="24px">Email: <span style="color:#00AEFF; font-weight:bold">opeyemi@hotels.ng</span><br/>Phone: <span style="color:#00AEFF; font-weight:bold">09024097111</span> </mj-text>
+      <mj-column width="40%" >
+        <mj-text color="#828282" font-size="16px" line-height="24px" >Email: <span style="color:#00AEFF; font-weight:bold">opeyemi@hotels.ng</span><br/>Phone: <span style="color:#00AEFF; font-weight:bold">09024097111</span> </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding="10px 0px 10px 30px" background-color="rgba(0, 174, 255, 0.19)">
-      <mj-column width="70%">
+    <mj-section padding="10px 30px" background-color="rgba(0, 174, 255, 0.09)">
+      <mj-column width="80%">
         <mj-text color="#00AEFF" font-size="9px" line-height="12px">
         Sell more rooms and manage your hotel information on multiple OTAs with our Android app
         </mj-text>
         </mj-column>
-      <mj-column width="30%">
+      <mj-column width="20%">
         <mj-text color="#00AEFF" font-size="12px" line-height="14px" font-weight="bold"> Download now</mj-text>
         </mj-column>
         </mj-section>
@@ -223,7 +224,7 @@
         <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section background-color="#FAFAFA">
       <mj-column>
         <mj-text font-size="12px" color="#333333">On Payments</mj-text>
         <mj-text font-size="12px" color="#828282" line-height="14px">When paying via bank transfer, please include your booking id or name in the reference. If you don't get a payment confirmation message at least 5 hours after payment, please call our support line (+2347008808800) or email us at reservations@hotels.ng
@@ -231,15 +232,15 @@
         <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section background-color="#FAFAFA">
       <mj-column>
         <mj-text font-size="12px" color="#333333">Late Check-in</mj-text>
         <mj-text font-size="12px" color="#828282" line-height="14px">Standard check-in time is 12pm - 6pm. Please inform hotels.ng if you'll be checking in late to ensure your reservation is not cancelled by the hotel.
         </mj-text>
         <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
       </mj-column>
-    </mj-section>
-    <mj-section>
+    </mj-section >
+    <mj-section background-color="#FAFAFA">
       <mj-column>
         <mj-text font-size="12px" color="#333333">Refunds and Cancellation</mj-text>
         <mj-text font-size="12px" color="#828282" line-height="14px">Hotels are settled 24 - 48 hours before your check in date. Please endeavour to call or email to cancel before this time. Refunds on cancellations after hotel has been paid may take 3 working days or longer depending on the hotel's policy. Refunds
@@ -249,7 +250,7 @@
         <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section background-color="#FAFAFA">
       <mj-column>
         <mj-text font-size="12px" color="#333333">Reservation & Best Price Guarantee</mj-text>
         <mj-text font-size="12px" color="#828282" line-height="14px">Prices on the website are discounted especially for prepaid reservations. Some hotels may charge a higher rate at the hotel if you choose to pay on arrival. Once you place a booking, your reservation is secured, and we'll send you a final confirmation
