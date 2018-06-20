@@ -1,0 +1,329 @@
+<mjml>
+<mj-head>
+ <mj-title>Hotel Has Been Shut Down Client(Prepaid)</mj-title>
+ <mj-attributes>
+      <mj-all font-family="Lato, Arial" />
+</mj-attributes>
+ </mj-head>
+  <mj-body background-color="#ffffff" padding="0px 40px 0px 40px">
+    <!--Company Header -->
+    <mj-section>
+        <mj-column width="100%">
+          <mj-text>
+            <a href="#" style="color:#4F4F4F;font-size:8.28px; text-decoration:none;line-height:10px; text-align:right;">
+              <mj-text style="float:right;border-bottom:1px solid #4f4f4f">View in browser</mj-text>
+            </a>
+          </mj-text>
+        </mj-column>
+    
+        <mj-column width="100%">
+          <!--hotels.ng logo with 80% width-->
+          <mj-image src="https://res.cloudinary.com/damilare1957/image/upload/v1523879042/hng-logo.svg" alt="hotels.ng logo" width="116" height="39" />
+        </mj-column>
+        <mj-column width="100%">
+            <mj-text font-size="20px" color="#333333" line-height="24px" font-family="Lato,Arial" font-style="bold" font-weight="bold"  text-transform="capitalize">Southern Sun Ikoyi Hotel Is Closed</mj-text>
+            <mj-text font-size="16px" padding-top="20px"color="#828282" font-family="Lato, Arial" font-style="normal"  line-height="23px" letter-spacing="0.03em">
+             <strong>Hello Mr. Abayomi Abidakum</strong></br>  Unfortunately, Southern sun ikoyi Hotel , Ikoyi, Lagos  is closed for business till further noticed.
+            </mj-text>
+            
+            <mj-text font-size="16px" color="#828282" font-family="Lato, Arial" font-style="normal" line-height="23px">
+               Please consider some of our best alternative recommendations listed below. 
+            </mj-text>
+        </mj-column>
+    </mj-section>   
+    <mj-section padding="0">
+      <mj-column width="100%">
+            <mj-text font-size="16px" padding="0px 0px 0px 25px" color="#333333" font-family="Lato, Arial" font-style="normal" font-weight="normal" line-height="19px" letter-spacing="0.03em" align="left">Schedule Details</mj-text>
+      </mj-column>
+      <mj-column width="40%" >
+        <mj-text font-size="16px" color="#828282" padding-top="13px" font-family="Lato" font-style="normal" line-height="19px" letter-spacing="3%">
+          Check-in<br/>
+           <span style="color:#828282;font-weight:bold;">Thur 17th January</span>
+        </mj-text>
+      </mj-column>
+      
+      <mj-column width="40%">
+        <mj-text font-size="16px" color="#828282" padding-top="13px" font-family="Lato" font-style="normal" font-weight="normal" line-height=" normal" letter-spacing="0.03em" align="left">
+          Check-out<br/>
+          <span style="font-weight:bold;">Tues 22nd January</span>
+        </mj-text>
+      </mj-column>
+            
+          <mj-column width="20%">
+        <mj-text font-size="16px" color="#828282" padding-top="13px" font-family="Lato" font-style="normal" font-weight="normal" line-height=" normal" letter-spacing="0.03em" align="left">
+          Guest(s)<br/>
+          <span style="font-weight:bold;">1</span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--First hotel -->
+    <mj-section>
+      <mj-column width="100%">
+        <mj-image padding-left="10px" align="left" width="50" height="50" src="https://res.cloudinary.com/damilare1957/image/upload/v1524345605/1.svg" />
+      </mj-column>
+        <!--Booking Details-->
+
+        <mj-column width="30%">
+          <mj-text color="#333333"  font-weight="regular" font-size="16px" line-height="19px">
+            Hotel Name:
+          </mj-text>
+        </mj-column>
+
+        <mj-column width="60%">
+          <mj-text color="#7C888D" font-weight="regular" font-size="16px" line-height="19px">
+          Colonades Hotel
+          </mj-text>
+        </mj-column>
+        <mj-column width="30%">
+          <mj-text color="#333333"  font-weight="regular" font-size="16px" line-height="19px">
+            Avrg. Room Price:
+          </mj-text>
+        </mj-column>
+
+        <mj-column width="60%">
+          <mj-text color="#7C888D" font-weight="regular" font-size="16px" line-height="19px">
+          <del>N</del>4500.00
+          </mj-text>
+        </mj-column>
+        <mj-column width="30%">
+          <mj-text color="#333333"  font-weight="regular" font-size="16px" line-height="19px">
+            Location:
+          </mj-text>
+        </mj-column>
+
+        <mj-column width="60%">
+          <mj-text color="#7C888D" font-weight="regular" font-size="16px" line-height="19px">
+         47 Alfred Rewane Road Ikoti, Lagos.
+          </mj-text>
+        </mj-column>
+        <mj-column width="30%" >
+        <mj-image width="147px"  padding="3px" alt="hotel.ng" height="87" src="https://res.cloudinary.com/damilare1957/image/upload/v1524345447/hotel-image1.svg"></mj-image>
+        </mj-column>
+      <mj-column width="30%">
+        <mj-image width="147" padding="3px" alt="hotel.ng" height="87" src="https://res.cloudinary.com/damilare1957/image/upload/v1524345677/hotel-image2.svg"></mj-image>
+        </mj-column>
+      <mj-column width="30%">
+        <mj-image width="147" padding="3px"  alt="hotel.ng" height="87" src="https://res.cloudinary.com/damilare1957/image/upload/v1524345544/hotel-image8.svg"></mj-image>
+        </mj-column>
+
+      
+    </mj-section>
+    
+    <mj-section>
+        <mj-column width="100%">
+        <mj-button width="220px" height="41px" border="1px solid #00AEFF" border-radius="2.26px"  background-color="#ffffff" color="#FA1212">
+          <span style ="font-size: 14px; color: #00AEF3; font-family:Lato; font-style: normal; font-weight: bold; line-height: 17px; text-align:center;">VIEW HOTEL</span>
+        </mj-button>
+        </mj-column>
+        <mj-column width="100%">
+        <mj-image padding-left="10px" align="left" width="50" height="50"  src="https://res.cloudinary.com/damilare1957/image/upload/v1524345606/2.svg" width="30px" height="30px" ></mj-image>
+        </mj-column>
+      <mj-column width="30%">
+          <mj-text color="#333333"  font-weight="regular" font-size="16px" line-height="19px">
+            Hotel Name:
+          </mj-text>
+        </mj-column>
+
+        <mj-column width="60%">
+          <mj-text color="#7C888D" font-weight="regular" font-size="16px" line-height="19px">
+          Ikoyi Fairview Apartments
+          </mj-text>
+        </mj-column>
+        <mj-column width="30%">
+          <mj-text color="#333333"  font-weight="regular" font-size="16px" line-height="19px">
+            Avrg. Room Price:
+          </mj-text>
+        </mj-column>
+
+        <mj-column width="60%">
+          <mj-text color="#7C888D" font-weight="regular" font-size="16px" line-height="19px">
+          <del>N</del>4200.00
+          </mj-text>
+        </mj-column>
+        <mj-column width="30%">
+          <mj-text color="#333333"  font-weight="regular" font-size="16px" line-height="19px">
+            Location:
+          </mj-text>
+        </mj-column>
+
+        <mj-column width="60%">
+          <mj-text color="#7C888D" font-weight="regular" font-size="16px" line-height="19px">
+         47 Alfred Rewane Road Ikoti, Lagos.
+          </mj-text>
+        </mj-column>
+      
+      <mj-column width="30%" >
+        <mj-image width="147px"  padding="3px" alt="hotel.ng" height="87" src="https://res.cloudinary.com/damilare1957/image/upload/v1524412669/hotel-image6.svg"></mj-image>
+        </mj-column>
+      <mj-column width="30%">
+        <mj-image width="147" padding="3px" alt="hotel.ng" height="87" src="https://res.cloudinary.com/damilare1957/image/upload/v1524412025/hotel-image3.svg"></mj-image>
+        </mj-column>
+      <mj-column width="30%">
+        <mj-image width="147" padding="3px"  alt="hotel.ng" height="87" src="https://res.cloudinary.com/damilare1957/image/upload/v1524412457/hotel-image4.svg"></mj-image>
+        </mj-column>
+      
+    </mj-section>
+    
+    <mj-section>
+    <mj-column width="100%">
+        <mj-button width= "220px" height="41px" border="1px solid #00AEFF" border-radius= "2.26px"  background-color="#ffffff" color="#FA1212">
+          <span style ="font-size: 14px; color: #00AEF3; font-family:Lato; font-style: normal; font-weight: bold; line-height: normal; text-align:center;">VIEW HOTEL</span>
+        </mj-button>
+        </mj-column>
+      <mj-column width="100%">
+        <mj-image padding-left="10px" align="left" width="50" height="50"  src="https://res.cloudinary.com/damilare1957/image/upload/v1524345606/3.svg" width="30px" height="30px" ></mj-image>
+        </mj-column>
+      <mj-column width="30%">
+          <mj-text color="#333333"  font-weight="regular" font-size="16px" line-height="19px">
+            Hotel Name:
+          </mj-text>
+        </mj-column>
+
+        <mj-column width="60%">
+          <mj-text color="#7C888D" font-weight="regular" font-size="16px" line-height="19px">
+          Westwood Hotel Ikoyi
+          </mj-text>
+        </mj-column>
+        <mj-column width="30%">
+          <mj-text color="#333333"  font-weight="regular" font-size="16px" line-height="19px">
+            Avrg. Room Price:
+          </mj-text>
+        </mj-column>
+
+        <mj-column width="60%">
+          <mj-text color="#7C888D" font-weight="regular" font-size="16px" line-height="19px">
+          <del>N</del>5500.00
+          </mj-text>
+        </mj-column>
+        <mj-column width="30%">
+          <mj-text color="#333333"  font-weight="regular" font-size="16px" line-height="19px">
+            Location:
+          </mj-text>
+        </mj-column>
+
+        <mj-column width="60%">
+          <mj-text color="#7C888D" font-weight="regular" font-size="16px" line-height="19px">
+         47 Alfred Rewane Road Ikoti, Lagos.
+          </mj-text>
+        </mj-column>
+      
+      <mj-column width="30%" >
+        <mj-image width="147px"  padding="3px" alt="hotel.ng" height="87" src="https://res.cloudinary.com/damilare1957/image/upload/v1524412669/hotel-image7.svg"></mj-image>
+        </mj-column>
+      <mj-column width="30%">
+        <mj-image width="147" padding="3px" alt="hotel.ng" height="87" src="https://res.cloudinary.com/damilare1957/image/upload/v1524412025/hotel-image5.svg"></mj-image>
+        </mj-column>
+      <mj-column width="30%">
+        <mj-image width="147" padding="3px"  alt="hotel.ng" height="87" src="https://res.cloudinary.com/damilare1957/image/upload/v1524412457/hotel-image6.svg"></mj-image>
+        </mj-column>
+      
+    </mj-section>
+    
+    <mj-section>
+      <mj-column width="100%">
+        <mj-button width= "220px" height="41px" border="1px solid #00AEFF" border-radius= "2.26px" background-color="#ffffff" color="#FA1212">
+          <span style ="font-size: 14px; color: #00AEF3; font-family:Lato; font-style: normal; font-weight: bold; line-height: normal; text-align:center;">VIEW HOTEL</span>
+        </mj-button>
+      </mj-column>
+      <mj-column width="100%">
+       <mj-text  font-size="16px" color="#828282" font-family="Lato" font-style="bold" font-weight="normal" line-height="23px" letter-spacing= "0.03em">
+       Your payment will be transferred to your new booking if you make<br/>one, and the difference will be communicated to you immediately. <br/> However, if you choose to cancel the booking we will process your refund within three days. <br/><br/>
+       If you require further assistance call us on 07008808800</mj-text>
+     </mj-column>
+    </mj-section>
+    
+     <mj-section>
+       <mj-column width="40%">
+         <mj-button width= "220px" padding=0px" height="41px" border="1px solid #FA1212" border-radius= "2.26px" background-color="#ffffff" color="#FA1212">
+           <span style ="font-size: 14px; color: #FA121; font-family:Lato; font-style: normal;line-height:17px; font-weight: bold; line-height: normal; text-align:center;">CANCEL RESERVATION </span>
+         </mj-button>
+       </mj-column >
+       <mj-column width="40%">
+         <mj-button width= "220px"  padding="0px"height="41px" background-color="#084482" border-radius= "2.26px">
+           <span style ="font-size: 14px; color: #FFFFFF; line-height:17px; font-family:Lato; font-style: normal; font-weight: bold; line-height: normal; text-align:center;">VIEW ALTERNATIVE HOTELS </span>
+         </mj-button>
+       </mj-column>
+       <mj-column width="100%">
+         <mj-divider padding-top="20px" border-style= "solid " border-color ="#BDBDBD" border-width= "1px"></mj-divider>
+      </mj-column>
+      <mj-column width="60%">
+        <mj-text  font-size="16px" color="#7C888D" font-family="Lato" font-style="normal" font-weight="normal" line-height="19px">
+          Best Regards,<br /><span style="color: #333333; font-weight: bold;">Opeyemi Jegede</span><br />Booking Team
+        </mj-text>
+       </mj-column>
+       <mj-column  width="40%">
+         <mj-text   font-size="16px" color="#7C888D" font-family="Lato" font-style="normal" font-weight="normal" line-height="19px">
+          Email: <a href="#" style="text-decoration:none;"><span style="color: #00AEFF;  font-weight: bold;">opeyemi@hotels.ng</a></span><br />Phone:</span> <a href="#" style="text-decoration:none"><span style="color: #00AEFF; font-weight: bold;">09024097111</span></a>
+        </mj-text>
+       </mj-column>
+    </mj-section>
+     
+     <mj-section background-color= "rgba(0, 174, 255, 0.29)" padding="10px">
+       <mj-column width="70%">
+         <mj-text font-size="9px" color="#00AEFF" font-family="Lato" font-style="normal" font-weight="500" line-height="11px">Get the hotels.ng app book your hotels instantly with our andriod app</mj-text>
+       </mj-column>
+       <mj-column width="30%">
+         <mj-text>
+         <a href="#" style="text-decoration:none"><span style="font-size:12px; color:#00AEFF; font-family:Lato; font-style:normal; font-weight:bold; line-height:14px;" >Download Now</span></a>
+         </mj-text>
+       </mj-column>
+     </mj-section>
+     <mj-section>
+     <mj-column width="100%">
+       <mj-image  align = "left" width="55px" alt="hotels.ng logo" height="18px" src="https://res.cloudinary.com/damilare1957/image/upload/v1523879042/hng-logo.svg"></mj-image>
+    </mj-column>
+    <mj-column width="100%">
+       <mj-text font-size="12px" color="#828282" font-family="Lato" font-style="normal" font-weight="normal" line-height="23px" letter-spacing="0.03em">Hotels.ng is an online booking agency specialised in hotel booking within nigeria. we market hotels online nd book rooms for clients. we proffer hotel accomodation solution to the people looking for hotels witnin an area or particular city .<br />We provide them with appropriate hotels that match their budget and expectations.<br /> <a href="#" style="text-decoration:none;"><span style="color: #00AEFF;">Learn More</span></a></mj-text>
+    </mj-column>
+    <mj-column width="100%">
+    <mj-divider border-style= "solid " border-color ="#BDBDBD" border-width= "1px"></mj-divider>
+    </mj-column>
+    <mj-column width="100%">
+       <mj-text font-size="12px" color="#333333" font-family="Lato" font-style="normal" font-weight="normal" line-height="14px">On Payments</mj-text>
+       <mj-text font-size="12px" color="#828282" font-family="Lato" font-style="normal" font-weight="normal" line-height="17px" letter-spacing= "0.03em">When paying via bank transfer, please include your booking id or name in the reference.
+          If you don't get a payment confirmation message at least 5 hours after payment, please call our support line <a href="#" style="text-decoration:none"> <span style="color: #00AEFF;">(+2347008808800)</span></a> or email us at <a href="#" style="text-decoration:none"><span style="color: #00AEFF;">reservations@hotels.ng</span></a>
+        </mj-text>
+    </mj-column>
+    <mj-column width="100%">
+      <mj-divider border-style= "solid " border-color ="#BDBDBD" border-width= "1px"></mj-divider>
+    </mj-column width="100%">
+    <mj-column width="100%">
+        <mj-text font-size="12px" color="#333333" font-family="Lato" font-style="normal" font-weight="normal" line-height="14px">Late Check-in</mj-text>
+       <mj-text font-size="12px" color="#828282" font-family="Lato" font-style="normal" font-weight="normal" line-height="17px" letter-spacing= "0.03em">Standard check-in time is 12pm - 6pm. Please inform hotels.ng if you'll be checking in late to ensure your reservation is not cancelled by the hotel.</mj-text>
+    </mj-column>
+    <mj-column width="100%">
+      <mj-divider border-style= "solid " border-color ="#BDBDBD" border-width= "1px"></mj-divider>
+    </mj-column>
+    <mj-column width="100%">
+    <mj-text font-size="12px" color="#333333" font-family="Lato" font-style="normal" font-weight="normal" line-height="14px">Refunds & Cancellation</mj-text>
+       <mj-text font-size="12px" color="#828282" font-family="Lato" font-style="normal" font-weight="normal" line-height="17px" letter-spacing= "0.03em">Hotels are settled 24 - 48 hours before your check in date. Please endeavour to call or email to cancel before this time.<br />
+Refunds on cancellations after hotel has been paid may take 3 working days or longer depending on the hotel's policy.<br />
+Refunds cannot be made on any reservations made on a non-refundable room rate.
+</mj-text>
+     </mj-column>
+     <mj-column width="100%">
+        <mj-divider border-style= "solid " border-color ="#BDBDBD" border-width= "1px"></mj-divider>
+     </mj-column>
+     <mj-column width="100%">
+      <mj-text font-size="12px" color="#333333" font-family="Lato" font-style="normal" font-weight="normal" line-height="normal">Reservation & Best Price Guarantee</mj-text>
+         <mj-text font-size="12px" color="#828282" font-family="Lato" font-style="normal" font-weight="normal" line-height="17px" letter-spacing= "0.03em">Prices on the website are discounted especially for prepaid reservations. Some hotels may charge a higher rate at the hotel if you choose to pay on arrival.<br />
+Once you place a booking, your reservation is secured, and we'll send you a final confirmation on check-in date. However, the hotel reserves the right to cancel your reservation.
+</mj-text>
+     </mj-column>
+     <mj-column width="100%">
+      <mj-divider border-style= "solid " border-color ="#BDBDBD" border-width= "1px"></mj-divider> 
+     </mj-column>
+     <mj-column width="100%">
+      <mj-text font-size="12px" color="#7C888D" font-family="Lato" font-style="normal" font-weight="normal" line-height="17px" letter-spacing= "0.03em">3, Birrel Avenue, Yaba Lagos. +234 700 880 8800<br /><br />Copyright © 2017 Hotels.ng, All rights reserved. 
+
+      </mj-text>
+     </mj-column>
+    </mj-section>
+     
+     
+      
+         
+       
+     
+  </mj-body>
+</mjml>
