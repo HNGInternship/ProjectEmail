@@ -22,7 +22,7 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text font-size="16px" font-weight="bold" color="#828282" line-height="19px">Hello Mr Abayomi Abidakum,</mj-text>
+        <mj-text font-size="16px" font-weight="bold" color="#828282" line-height="19px">Hello Mr. Abayomi Abidakum,</mj-text>
         <mj-text color="#828282" line-height="19px" letter-spacing="0.03rem">Thanks for booking <span style="text-decoration:underline;">Southern sun ikoyi Hotel, Ikoyi, Lagos</span> from Friday 18th January - Wednesday 23rd January. You can pay online or through bank transfer to any of our
           bank accounts listed below.
         </mj-text>
@@ -154,7 +154,7 @@
     </mj-column>
   				</mj-section>
     
-    <mj-section>
+    <mj-section padding="0px 30px">
     	<mj-column>
       	<mj-text color="#333333" font-size="16px" line-height="19px">Foreign Payments</mj-text>
       </mj-column>
@@ -205,13 +205,13 @@
         <mj-text color="#828282" font-size="16px" line-height="24px" >Email: <span style="color:#00AEFF; font-weight:bold">opeyemi@hotels.ng</span><br/>Phone: <span style="color:#00AEFF; font-weight:bold">09024097111</span> </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding="10px 30px 10px 30px" background-color="rgba(0, 174, 255, 0.19)">
-      <mj-column width="70%">
+    <mj-section padding="10px 30px" background-color="rgba(0, 174, 255, 0.09)">
+      <mj-column width="80%">
         <mj-text color="#00AEFF" font-size="9px" line-height="12px">
         Sell more rooms and manage your hotel information on multiple OTAs with our Android app
         </mj-text>
         </mj-column>
-      <mj-column width="30%">
+      <mj-column width="20%">
         <mj-text color="#00AEFF" font-size="12px" line-height="14px" font-weight="bold"> Download now</mj-text>
         </mj-column>
         </mj-section>
