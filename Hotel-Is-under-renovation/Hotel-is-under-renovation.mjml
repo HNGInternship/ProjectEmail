@@ -238,10 +238,10 @@
     <mj-section padding="0px">
       <mj-column width="5%"></mj-column>
       <mj-column width="40%">
-        <mj-button width="220px" background-color="white" border="0.5px solid #FA1212" color="#FA1212" font-size="12.5px" font-weight="bold" line-height="24px" align="center">CANCEL RESERVATION</mj-button>
+        <mj-button width="220px" background-color="white" border="0.5px solid #FA1212" color="#FA1212" font-size="12.3px" font-weight="bold" line-height="24px" align="center">CANCEL RESERVATION</mj-button>
       </mj-column>
       <mj-column width="40%">
-        <mj-button width="220px" background-color="#084482" border="1px solid #084482" color="white" font-size="12.5px" line-height="24px" align="center" font-weight="bold">VIEW ALTERNATIVE HOTELS</mj-button>
+        <mj-button width="220px" background-color="#084482" border="1px solid #084482" color="white" font-size="12.3px" line-height="24px" align="center" font-weight="bold">VIEW ALTERNATIVE HOTELS</mj-button>
       </mj-column>
       <mj-column width="10%"></mj-column>
     </mj-section>
