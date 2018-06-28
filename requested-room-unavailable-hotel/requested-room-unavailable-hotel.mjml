@@ -168,7 +168,7 @@
     </mj-section>
   
 
-	<mj-section background-color="rgba(252, 130, 51, 0.29)" padding="0px 0px 0px 0px">
+	<mj-section background-color="rgba(252, 130, 51, 0.09)" padding="0px 0px 0px 0px">
 	<mj-column width="70%">
     <mj-text font-size="9px" font-weight="bold" color="#FC8233" line-height="19px" padding-bottom="0px">
     	Sell more rooms and manage your hotel information on multiple OTAs with our Android app
