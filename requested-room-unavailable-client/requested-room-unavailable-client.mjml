@@ -11,46 +11,52 @@
 
   </mj-head>
 	<mj-body background-color="#ffffff">
- 		<mj-section>
-      <mj-group>
-			<mj-column width="70%">
-        <mj-image padding="40px 0px 0px 0px" width="116px" height="39px" alt="hotels.ng logo" src="http://res.cloudinary.com/dv3ymesru/image/upload/v1524078850/hng-logo.png"></mj-image>
+	  <mj-section padding="5px">
+	    <mj-column align="right">
+	      <mj-text font-family="lato" text-decoration="underline" text-transform="lowercase" color="#4f4f4f" font-size="8.28px" line-height="10px" align="right">
+	        view in browser
+	      </mj-text>
+	    </mj-column>
+	  </mj-section>
+ 		<mj-section padding="0px">
+      
+			<mj-column>
+        <mj-image padding="0px 0px 0px 0px" width="116px" height="39px" alt="hotels.ng logo" src="http://res.cloudinary.com/dv3ymesru/image/upload/v1524078850/hng-logo.png"></mj-image>
         
-       </mj-column>
-      <mj-column width="30%">
-      	<mj-navbar>
-        	<mj-navbar-link font-family="lato" text-decoration="underline" text-transform="lowercase" color="#4f4f4f" font-size="8.28px" line-height="10px">view in browser</mj-navbar-link>
-        </mj-navbar>
+       
+      
       </mj-column>
-        </mj-group>
+        
      </mj-section>
-    <mj-section padding="">
+    <mj-section padding="20px 0px 0px 0px">
     	<mj-column>
       	<mj-text font-size="20px" font-weight="bold" line-height="24px"> Requested Room is Unavailable</mj-text>
       </mj-column>
     </mj-section>
    <mj-section padding="">
     	<mj-column>
-     	<mj-text font-size="16px" color="#828282" font-weight="bold" line-height="23px" letter-spacing="3%">Hello Mr. Abayomi Abidakum,</mj-text>
-        <mj-text font-size="16px" color="#828282" line-height="23px">Your requested room ( standard ) is unavailable for your selected date(Thur 17th January - Tues 22th January) at <span style="text-decoration: underline">Southern sun ikoyi Hotel , Ikoyi, Lagos.</span> However, there are other room categories at the hotel that you’ll like.</mj-text>
+     	<mj-text font-size="16px" color="#828282"  line-height="23px" letter-spacing="3%"><strong>Hello Mr. Abayomi Abidakum, </strong><br/>
+       Your requested room ( standard ) is unavailable for your selected date(Thur 17th January - Tues 22th January) at <span style="text-decoration: underline">Southern sun ikoyi Hotel , Ikoyi, Lagos.</span> However, there are other room categories at the hotel that you’ll like.</mj-text>
      <mj-text font-size="16px" color="#828282" line-height="23px">Reply this email or call us If you need expert recommendations on other hotel within your budget and location as your initial choice.</mj-text>
      </mj-column>
     </mj-section>
     <mj-section padding="">
     	<mj-column>
-      	<mj-button width="220px" height="41px" color="#ffffff" background-color="00AEFF" font-family="lato" font-size="14px" font-weight="bold">CHANGE HOTEL ROOM</mj-button>
+      	<mj-button width="220px"  color="#ffffff" background-color="00AEFF" font-family="lato" font-size="14px" line-height="23px" font-weight="bold" border-radius="2.26px">CHANGE HOTEL ROOM</mj-button>
         <mj-text font-size="16px" color="#828282" line-height="23px">If you require further assistance or want to make changes to the schedule details stated above kindly call us on <b> 07008808800</b> </mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
-    	<mj-column>
-      	<mj-button width="250px" height="41px" color="#FA1212" background-color="#ffffff" border="1px solid #FA1212" font-family="lato, arial" font-size="14px" font-weight="bold">CANCEL RESERVATION</mj-button>
+    	<mj-column width="40%">
+      	<mj-button width="220px" line-height="23px" color="#FA1212" background-color="#ffffff" border="1px solid #FA1212" font-family="lato, arial" font-size="12.3px" font-weight="bold">CANCEL RESERVATION</mj-button>
       </mj-column>
-      <mj-column>
-      <mj-button width="250px" height="41px" color="#ffffff" background-color="#084482" font-family="lato, arial" font-size="14px" font-weight="bold">VIEW ALTERNATIVE HOTELS</mj-button>
+      <mj-column width="40%">
+      <mj-button width="220px" line-height="23px" color="#ffffff" background-color="#084482" font-family="lato, arial" font-size="12.3px"  border="1px solid #084482" font-weight="bold">VIEW ALTERNATIVE HOTELS</mj-button>
         
       </mj-column>
-        
+        <mj-column width="10%">
+          
+        </mj-column>
     </mj-section>
     <mj-section padding="">
     	<mj-column>
@@ -70,7 +76,7 @@ Booking Team</mj-text>
         </mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="rgba(0, 174, 255, 0.29)">
+    <mj-section background-color="rgba(0, 174, 255, 0.09)" padding="0px">
       <mj-column width="70%">
       	<mj-text font-size="9px" color="#00AEFF" line-height="11px">Get the hotels.ng app book your hotels instantly with our andriod app</mj-text>
       </mj-column>
