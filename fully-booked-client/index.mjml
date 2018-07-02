@@ -30,7 +30,7 @@
         </mj-navbar>
       </mj-column>
     </mj-section>
-    <mj-section padding="10">
+    <mj-section padding="10px">
 			<mj-column padding-top="0px">
         <mj-image css-class="logo-fix" width="116px" height="39px" alt="hotels.ng logo" src="http://res.cloudinary.com/dv3ymesru/image/upload/v1524078850/hng-logo.png"></mj-image>
         
@@ -57,7 +57,7 @@
       </mj-column>
       </mj-section>
       //container
-      <mj-section padding-top="20px">
+      <mj-section padding-top="10px">
     <mj-column>
     <mj-text><span class="shape" style="float:left">1</span></mj-text>
     
@@ -66,7 +66,7 @@
     </mj-section>
     
     <mj-wrapper padding="0 0 0 20px">
-    <mj-section padding="">
+    <mj-section padding="0px">
        <mj-column>
       	<mj-text align="left" font-size="16px" font-weight="regular" color="#333333">
         	Hotel Name: 
@@ -117,15 +117,15 @@
       </mj-column>
         </mj-group>
       </mj-section>
-    <mj-section padding="">
+    <mj-section>
     	<mj-column>
-      	<mj-button background-color="#ffffff" border="1px solid #00AEFF" width="220px" height="41px" color="#00AEFF" font-size="14px" font-weight="bold" line-height="17px"> <a href="#" style="text-decoration:none;color:#00aeff">VIEW HOTEL</a>
+      	<mj-button background-color="#ffffff" border="1px solid #00AEFF" width="220px" height="41px" color="#00AEFF" font-size="14px" font-weight="bold" line-height="17px" > <a href="#" style="text-decoration:none;color:#00aeff">VIEW HOTEL</a>
        </mj-button>
       </mj-column>
     </mj-section>
     
     //container
-     <mj-section padding-top="20px">
+     <mj-section padding-top="10px">
     <mj-column>
     <mj-text><span class="shape" style="float:left">2</span></mj-text>
     
@@ -185,7 +185,7 @@
       </mj-column>
         </mj-group>
       </mj-section>
-    <mj-section padding="">
+    <mj-section>
     	<mj-column>
         <mj-button background-color="#ffffff" border="1px solid #00AEFF" width="220px" height="41px" color="#00AEFF" font-size="14px" font-weight="bold" line-height="17px"> <a href="#" style="text-decoration:none;color:#00aeff">VIEW HOTEL</a>
        </mj-button>
@@ -193,7 +193,7 @@
     </mj-section>
     
     //container
-     <mj-section padding-top="20px">
+     <mj-section padding-top="10px">
     <mj-column>
     <mj-text><span class="shape" style="float:left">3</span></mj-text>
     
@@ -240,7 +240,7 @@
       </mj-section>
           
     </mj-wrapper>
-    <mj-section padding="">
+    <mj-section>
       <mj-group>
       <mj-column>
       	<mj-image width="150px" height="87px" alt="hotel 3 image" src="http://res.cloudinary.com/maaj/image/upload/v1523994250/hotel-image7.png"></mj-image>
@@ -253,7 +253,7 @@
       </mj-column>
         </mj-group>
       </mj-section>
-      <mj-section padding="">
+      <mj-section>
     	<mj-column>
         <mj-button background-color="#ffffff" border="1px solid #00AEFF" width="220px" height="41px" color="#00AEFF" font-size="14px" font-weight="bold" line-height="17px"> <a href="#" style="text-decoration:none;color:#00aeff">VIEW HOTEL</a>
        </mj-button>
@@ -272,12 +272,12 @@
       </mj-column>
     </mj-section>
     <mj-section padding="">
-    	<mj-column width="50%">
+    	<mj-column width="40%">
         <mj-button background-color="#fff" border="1px solid #FA1212" width="220px" height="41px" font-size="14px" font-weight="bold" color="#FA1212" line-height="17px"> <a href="#" style="text-decoration:none;color:#fa1212">CANCEL RESERVATION</a>
         </mj-button>
       </mj-column>
-      <mj-column width="50%">
-        <mj-button background-color="#084482"  width="220px" height="41px" font-size="14px" font-weight="bold" color="#fff" line-height="17px"> <a href="#" style="text-decoration:none;color:#fff">VIEW ALTERNATE HOTELS</a>
+      <mj-column width="40%">
+        <mj-button background-color="#084482" border="1px solid #084482" width="220px" height="41px" font-size="14px" font-weight="bold" color="#fff" line-height="17px"> <a href="#" style="text-decoration:none;color:#fff">VIEW ALTERNATE HOTELS</a>
         </mj-button>
       </mj-column>
     </mj-section>
@@ -289,7 +289,7 @@
       </mj-column>
       
     </mj-section>
-    <mj-section padding="0 0 0 0">
+    <mj-section padding="10px 0 20px 0">
       <mj-column>
       	<mj-text font-size="16px" color="#828282">
         	Best Regards,
@@ -313,7 +313,7 @@
       </mj-column>
     </mj-section>
     
-    <mj-section background-color="rgba(0, 174, 255, 0.29)" padding="0px 0px 0px 0px">
+    <mj-section background-color="rgba(0, 174, 255, 0.09)" padding="0px 0px 0px 0px">
     
     <mj-column width="70%" >
     	<mj-text font-size="12px" color="#00AEFF" padding-bottom="0px">
