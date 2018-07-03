@@ -13,7 +13,7 @@
     </mj-style>
   </mj-head>
   <mj-body background-color="#ffffff">
-      <mj-section padding="0px">
+      <mj-section>
         <mj-column>
           <mj-text padding="0px 25px">
             <a href="#" style="color:#4F4F4F;font-size:8.28px; text-decoration:none;line-height:10px; text-align:right;float:right;border-bottom:1px solid #4f4f4f">
@@ -29,24 +29,23 @@
         </mj-column>
       </mj-section>
 
-      <mj-section padding-bottom="0">
-        <mj-column width="100%">
+      <mj-section padding-bottom="0px">
+        <mj-column>
           <mj-text color="#333333" font-weight="bold" font-size="20px" line-height="24px" align="left" letter-spacing="30%">
             Your Payment is Recieved
           </mj-text>
         </mj-column>
       </mj-section>
 
-      <mj-section padding="0">
-        <mj-column width="100%">
+      <mj-section padding="0px">
+        <mj-column>
           <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="24px" align="left">
-            <span style="font-size:16px; font-weight: bold; line-height:24px; align:left;">Hello, Mr. Abayomi Abidakum,</span>
-            <br/>Thank you for booking through hotels.ng. Payment for your reservation at &nbsp;<span style="border-bottom:1px solid #828282">Southern sun ikoyi Hotel Lagos</span>&nbsp; was recieved.<br/> Below are the reservation details and payment breakdown
+            <span style="font-size:16px; font-weight: bold; line-height:24px; align:left;">Hello, Mr. Abayomi Abidakum,<br/></span>Thank you for booking through hotels.ng. Payment for your reservation at <span style="border-bottom:1px solid #828282">Southern sun ikoyi Hotel Lagos</span> was received. Below are the reservation details and payment breakdown
           </mj-text>
         </mj-column>
       </mj-section>
 
-      <mj-section padding="0">
+      <mj-section padding="10px 0px">
         <mj-column width="40%" >
           <mj-text color="#333333" font-weight="regular" font-size="16px" line-height="19px" align="left">
             Client Name  <br/><br/>
@@ -90,7 +89,7 @@
 
 
       <!--payment Section-->
-      <mj-section padding="0px" padding-bottom="20px">
+      <mj-section padding="20px 0px">
         <mj-column width="100%">
           <mj-text color="#333333" font-weight="regular" font-size="16px" line-height="19px" align="left">
             Payment
@@ -130,14 +129,14 @@
       <mj-section>
         <mj-column width="100%">
           <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
-            Amount Paid <span style="float:right; color:green;">&#x20A6 5,000</span>
+            Amount Paid <span style="float:right; color:#219653;">&#x20A6 5,000</span>
 
           </mj-text>
         </mj-column>
 
         <mj-column width="100%">
           <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
-            Balance Due <span style="float:right; color:red;">&#x20A6 0.00</span>
+            Balance Due <span style="float:right; color:#EB5757;">&#x20A6 0.00</span>
 
           </mj-text>
         </mj-column>
@@ -174,7 +173,7 @@
       </mj-section>
 
       <!---Download App ribbon -->
-      <mj-section padding="0" background-color="rgba(0, 174, 255, 0.29)">
+      <mj-section padding="5px 0px" background-color="rgba(0, 174, 255, 0.09)">
         <mj-column width="70%">
           <mj-text color="#00aeff" font-weight="bold" font-size="9px" line-height="normal">
             Get the hotels.ng app book your hotels instantly with our andriod app</mj-text>
@@ -187,7 +186,8 @@
 
 
       <!--footer-->
-      <mj-section>
+      <mj-wrapper background-color="#FAFAFA">
+      <mj-section >
         <mj-column width="100%">
           <!--hotels.ng logo with 80% width-->
           <mj-image padding-bottom="0px" src="http://res.cloudinary.com/justiceotuya/image/upload/v1523683447/hotelslogo.png" alt="hotels.ng logo" width="55" height="18" align="left" />
@@ -262,5 +262,6 @@
           </mj-text>
         </mj-column>
       </mj-section>
+        </mj-wrapper>
   </mj-body>
 </mjml>
