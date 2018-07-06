@@ -85,7 +85,7 @@
         <mj-text font-size="16px" color="#333333" line-height="19px"> Rate per Night:</mj-text>
       </mj-column>
       <mj-column>
-        <mj-text font-size="16px" color="#828282" line-height="19px"> &#8358;5,000.00</mj-text>
+        <mj-text font-size="16px" color="#828282" line-height="19px"> ₦5,000.00</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="">
