@@ -102,7 +102,7 @@
         </mj-column>
         <mj-column width="23%">
           <mj-text  color="#828282" font-weight="regular" font-size="16px" line-height="19px">
-            &#x20A6 5,000.00</mj-text>
+            ₦ 5,000.00</mj-text>
 
         </mj-column>
 
@@ -112,14 +112,14 @@
         </mj-column>
         <mj-column width="20%" >
           <mj-text  color="#828282" font-weight="regular" font-size="16px" line-height="19px">
-          &#x20A6 550.00</mj-text>
+          ₦ 550.00</mj-text>
         </mj-column>
       </mj-section>
 
       <mj-section padding="0" background-color="#00AEFF">
         <mj-column width="100%">
           <mj-text color="#ffffff" font-weight="bold" font-size="18px" line-height="22px"> <span align="left">Total</span> <span style="float:right">
-                  &#x20A6 5,550.00</span>
+                  ₦ 5,550.00</span>
           </mj-text>
         </mj-column>
       </mj-section>
@@ -129,14 +129,14 @@
       <mj-section>
         <mj-column width="100%">
           <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
-            Amount Paid <span style="float:right; color:#219653;">&#x20A6 5,000</span>
+            Amount Paid <span style="float:right; color:#219653;">₦ 5,000</span>
 
           </mj-text>
         </mj-column>
 
         <mj-column width="100%">
           <mj-text color="#828282" font-weight="regular" font-size="16px" line-height="19px">
-            Balance Due <span style="float:right; color:#EB5757;">&#x20A6 0.00</span>
+            Balance Due <span style="float:right; color:#EB5757;">₦ 0.00</span>
 
           </mj-text>
         </mj-column>
