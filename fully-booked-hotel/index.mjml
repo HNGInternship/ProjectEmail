@@ -3,12 +3,8 @@
   <mj-head>
     <mj-title>FULLY BOOKED HOTEL</mj-title>
     <mj-style>
-      @media only screen and (max-width: 480px){ 
-      .logo-fix div { 
-      float: left !important;
-      padding:0px !important; 
-      } 
-      }
+      @media only screen and (max-width: 480px){ .logo-fix div { float: left !important;
+      padding:0px !important; } }
     </mj-style>
     <mj-font name="Raleway" href="https://fonts.googleapis.com/css?family=Lato" />
     <mj-attributes>
@@ -16,6 +12,7 @@
       <mj-text align="left" color="#333333" font-family="Lato, Arial" />
       <mj-section background-color="#fffff" />
       <mj-all font-family="Lato" />
+      <mj-button padding="0px" inner-padding="0px"/>
 
     </mj-attributes>
 
@@ -23,11 +20,12 @@
   <mj-body background-color="#ffffff">
     <mj-section padding="10px">
       <mj-column padding="0px 30px">
+        <mj-text font-family="lato, arial" text-decoration="underline" text-transform="lowercase" font-size="8.29px" align="right" padding="0px"><a href="#" style="text-decoration:none; color:#828282;">view in browser</a></mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding-top="0px">
+    <mj-section padding-top="0px"  padding-bottom="0px">
       <mj-column width="70%" padding="0px 0px 0px 0px">
-        <mj-image width="116px" height="39px" alt="hotels.ng logo" src="http://res.cloudinary.com/dv3ymesru/image/upload/v1524078850/hng-logo.png" align="center"></mj-image>
+        <mj-image css-class="logo-fix" width="116px" height="39px" alt="hotels.ng logo" src="http://res.cloudinary.com/dv3ymesru/image/upload/v1524078850/hng-logo.png" align="center"></mj-image>
 
       </mj-column>
     </mj-section>
@@ -87,7 +85,7 @@
         <mj-text font-size="16px" color="#333333" line-height="19px"> Rate per Night:</mj-text>
       </mj-column>
       <mj-column>
-        <mj-text font-size="16px" color="#828282" line-height="19px"> &#8358;5,000.00</mj-text>
+        <mj-text font-size="16px" color="#828282" line-height="19px"> ₦5,000.00</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="">
@@ -150,8 +148,8 @@
       </mj-column>
     </mj-section>
     <mj-section>
-      <mj-column>
-        <mj-button background-color="#084482" width="185px" height="41px" font-family="lato" font-size="11.29px" font-weight="bold" padding="0px"><a href="#" style="text-decoration:none;color:#fff;">UPDATE INFORMATION</a></mj-button>
+      <mj-column padding="0px">
+        <mj-button background-color="#084482" width="180px" height="41px" font-family="lato" font-size="11.29px" font-weight="bold" padding-top="0px" padding-bottom="0px"><a href="#" style="text-decoration:none;color:#fff;">UPDATE INFORMATION</a></mj-button>
         <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
       </mj-column>
     </mj-section>
@@ -182,13 +180,13 @@
 
     </mj-section>
 
-    <mj-section background-color="rgba(252, 130, 51, 0.29)" padding="0px">
-      <mj-column width="70%">
+    <mj-section background-color="rgba(252, 130, 51, 0.09)" padding="">
+      <mj-column width="75%">
         <mj-text font-size="9px" font-weight="bold" color="#FC8233" line-height="11px">
           Sell more rooms and manage your hotel information on multiple OTAs with our Android app
         </mj-text>
       </mj-column>
-      <mj-column width="30%">
+      <mj-column width="25%">
         <mj-text css-class="logo-fix" font-size="12px" font-weight="bold" color="#FC8233" line-height="14px" align="right">
           <a href="#" style="text-decoration:none;color:#fc8233">Download now</a>
         </mj-text>
