@@ -11,8 +11,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "rmbuild": "rm -rf build",
     "mkbuild": "mkdir build && mkdir build/{hotels,clients} && mkdir build/clients/{pay_on_arrival,prepaid}",
-    "buildclient": "mjml templates/clients/* -o build/clients && mjml templates/clients/prepaid/* -o build/clients/prepaid && mjml templates/clients/pay_on_arrival/* -o build/clients/pay_on_arrival",
-    "buildhotel": "mjml templates/hotels/* -o build/hotels",
+    "buildclient": "mjml templates/clients/* --config.minify -o build/clients && mjml templates/clients/prepaid/* --config.minify -o build/clients/prepaid && mjml templates/clients/pay_on_arrival/* --config.minify -o build/clients/pay_on_arrival",
+    "buildhotel": "mjml templates/hotels/* --config.minify -o build/hotels",
     "build": "npm run rmbuild && npm run mkbuild && npm run buildhotel && npm run buildclient"
   },
   "repository": {
