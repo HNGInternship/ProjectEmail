@@ -1,0 +1,203 @@
+<mjml>
+
+  <mj-head>
+		<mj-title>REQUESTED ROOM UNAVAILABLE HOTEL</mj-title>
+    <mj-style>
+      @media only screen and (max-width: 480px){ .logo-fix div { float: left !important;
+      padding:0px !important; } }
+    </mj-style>
+    <mj-attributes>
+      <mj-image padding='0'/>
+      <mj-text align="left" color="#333333" font-family="lato, arial"/>
+      <mj-section background-color="#fffff" />
+      <mj-button font-family="Lato, Arial" inner-padding="0px"/>
+     
+    </mj-attributes>
+
+  </mj-head>
+	<mj-body background-color="#ffffff">
+    <mj-section padding="18px 25px 0px 0px">
+      <mj-column padding="0px 0px 0px 0px">
+      	<mj-text  font-family="lato, arial" text-decoration="underline" text-transform="lowercase" font-size="8.29px" line-height="10px" padding="0px 0px 0px 0px" align="right">
+          <a href="#" style="text-decoration:none;color:#828282">view in browser</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+ 		<mj-section padding="0px 0px 0px 0px">
+			<mj-column padding="0px 0px 0px 0px" width="70%">
+        <mj-image  width="116px" height="39px" alt="hotels.ng logo" src="http://res.cloudinary.com/dv3ymesru/image/upload/v1524078850/hng-logo.png" padding="0px" align="center"></mj-image>
+        
+       </mj-column>
+     </mj-section>
+    <mj-section>
+    	<mj-column>
+      	<mj-text align="left" font-family="lato, arial" font-size="20px"font-weight="bold" color="#333333" text-transform="capitalize" line-height="24px"> booking (#12343234) has been cancelled</mj-text>
+        <mj-text font-size="16px" color="#828282" font-weight="bold">Hello, Southern Sun Ikoyi Hotel,</mj-text>
+        
+        <mj-text font-size="16px" color="#828282" line-height="23px" padding="0 25px 0 25px">We received your message indicating that your establishment is fully booked on our client's chosen dates. Hence, we have cancelled the reservation for the booking below.
+          <p>We'll redirect subsequent guests away from your hotel. Kindly let us know via email or phone call when you have availability so that we can send guests your way again.</p>
+          <p>To get instant alerts on changes to the booking - client cancellation, date changes,  and additional requests download our free <span style="text-decoration: underline">property management software</span> to help your hotel easily manage and sell your available room nights on multiple OTAs.</p></mj-text>
+        <mj-divider border-color="#BDBDBD" border-width="1px" padding-bottom="0px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px 0px 0px 0px">
+    	<mj-column padding="0px 0px 0px 0px">
+      	<mj-text font-size="16px" color="#333333" line-height="23px" padding-top="0px">Booking Details</mj-text>
+        </mj-column>
+    </mj-section>
+    //details
+    <mj-section padding="">
+    	<mj-column>
+      	<mj-text font-size="16px" color="#333333" line-height="23px" padding-bottom="0px"> Guest Name: </mj-text>  
+      </mj-column>
+      <mj-column> 
+      <mj-text font-size="16px" color="#828282" line-height="23px">  Mr. Abayomi Abidakum</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="">
+    	<mj-column>
+      	<mj-text font-size="16px" color="#333333" line-height="23px" padding-bottom="0px"> Room category: </mj-text>  
+      </mj-column>
+      <mj-column> 
+      <mj-text font-size="16px" color="#828282" line-height="23px">  Standard Room</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="">
+    	<mj-column>
+      	<mj-text font-size="16px" color="#333333" line-height="23px" padding-bottom="0px"> No. of Nights: </mj-text>  
+      </mj-column>
+      <mj-column> 
+      <mj-text font-size="16px" color="#828282" line-height="23px">  2</mj-text>
+      </mj-column>
+    </mj-section>
+     <mj-section padding="">
+    	<mj-column>
+      	<mj-text font-size="16px" color="#333333" line-height="23px" padding-bottom="0px"> Rate per Night:</mj-text>  
+      </mj-column>
+      <mj-column> 
+      <mj-text font-size="16px" color="#828282" line-height="23px">  ₦5,000.00</mj-text>
+      </mj-column>
+    </mj-section>
+     <mj-section padding="">
+    	<mj-column>
+      	<mj-text font-size="16px" color="#333333" line-height="23px" padding-bottom="0px"> Check-in </mj-text>  
+      </mj-column>
+      <mj-column> 
+      <mj-text font-size="16px" color="#828282" line-height="23px">Thur 17th January</mj-text>
+      </mj-column>
+    </mj-section>
+     <mj-section padding="">
+    	<mj-column>
+      	<mj-text font-size="16px" color="#333333" line-height="23px" padding-bottom="0px"> Check-out </mj-text>  
+      </mj-column>
+      <mj-column> 
+      <mj-text font-size="16px" color="#828282" line-height="23px">  Tues 22th January</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="">
+    	<mj-column>
+      	<mj-text font-size="16px" color="#333333" line-height="23px" padding-bottom="0px"> Booking ID: </mj-text>  
+      </mj-column>
+      <mj-column> 
+      <mj-text font-size="16px" color="#00AEFF" line-height="23px">  1084392023</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section padding="">
+    	<mj-column>
+      	<mj-text font-size="16px" color="#828282" line-height="23px">If this booking was already paid for please kindly refund the clients payment to payment to hotels.ng immediately, so that the customer does not get a bad impression of your hotel.</mj-text>
+        <mj-text font-size="16px" color="#828282" line-height="23px"> If you require any further assistance or want to make changes to the schedule details stated above kindly call us on <a href="tel:07008808800" style="text-decoration:none;color:#828282"><b>07008808800</b></a> or use the buttons below.</mj-text>
+        <mj-divider border-width="1px" border-color="#BDBDBD"></mj-divider>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section padding="">
+    	<mj-column>
+      	<mj-text font-size="16px" color="#333333" line-height="23px">Hotel Information</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="">
+    	<mj-column>
+      	<mj-text font-size="16px" color="#828282" line-height="23px" padding-bottom="0px"> Name</mj-text>
+        <mj-text font-size="16px" color="#828282" font-weight="bold" line-height="23px"> Southern Sun Ikoyi Hotel</mj-text>
+      </mj-column>
+      <mj-column>
+      	<mj-text font-size="16px" color="#828282" line-height="23px" padding-bottom="0px"> Address</mj-text>
+        <mj-text font-size="16px" color="#828282" font-weight="bold" line-height="23px"> 47 Alfred Rewande Road, Ikoyi, Lagos</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="">
+    	<mj-column>
+      	<mj-text font-size="16px" color="#828282" line-height="23px" padding-bottom="0px"> Contact Details</mj-text>
+        <mj-text font-size="16px" color="#828282" font-weight="bold" line-height="23px"> <a href="tel:+23412805200" style="text-decoration:none;color:#828282"><b>+234 1 280 5200</b></a><br/>
+<a href="tel:+23412800630" style="text-decoration:none;color:#828282"><b>+234 1 280 0630</b></a></mj-text>
+      </mj-column>
+      <mj-column>
+      	<mj-text font-size="16px" color="#828282" line-height="23px" padding-bottom="0px"> Other Info</mj-text>
+        <mj-text font-size="16px" color="#828282" font-weight="bold" text-decoration="underline" line-height="23px"> Pictures, Rates, Facilities and Description</mj-text>
+      </mj-column>
+    </mj-section>
+  <mj-section>
+  	<mj-column>
+      <mj-button background-color="#084482" width="185px" height="41px" font-family="lato" font-size="11.29px" font-weight="bold"><a href="#" style="text-decoration:none;color:#fff">UPDATE INFORMATION</a></mj-button>
+      <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
+    </mj-column>
+  </mj-section>
+  <mj-section padding="0px 0px 10px 0px">
+      <mj-column>
+      	<mj-text  font-size="16px" color="#828282" line-height="23px" padding="10px 25px 0 25px">
+        	Best Regards, 
+        </mj-text>
+        <mj-text font-size="16px" color="#4F4F4F" font-weight="bold" padding="0 0 0 25px" line-height="23px">
+        	Opeyemi Jegede
+        </mj-text>
+        <mj-text font-size="16px" color="#828282" line-height="16px" padding="5px 0 0 25px">
+        	Booking Team
+        </mj-text>
+      </mj-column>
+    
+    	<mj-column>
+        <mj-text font-size="16px" color="828282" line-height="23px" align="right" css-class="logo-fix" padding-bottom="0px">
+          Email: <span style="color: #00AEFF"><a href="mailto:opeyemi@hotels.ng" style="text-decoration:none;color:#00aeff">opeyemi@hotels.ng</a></span>
+          </mj-text>
+        <mj-text font-size="16px" color="828282" line-height="23px" align="right" css-class="logo-fix" padding-top="0px">
+        Phone: <span style="color: #00AEFF"><a href="tel:07008808800" style="text-decoration:none;color:#00aeff">09024097111</a></span>
+          </mj-text>
+      	
+      </mj-column> 
+    </mj-section>
+  
+
+	<mj-section background-color="rgba(252, 130, 51, 0.09)" padding="0px 0px 5px 0px">
+	<mj-column width="70%">
+    <mj-text font-size="9px" font-weight="bold" color="#FC8233" line-height="19px" padding-bottom="0px">
+    	Sell more rooms and manage your hotel information on multiple OTAs with our Android app
+    </mj-text>
+    </mj-column>
+    <mj-column width="30%">
+    	<mj-text css-class="logo-fix" font-size="12px" font-weight="bold" color="#FC8233" line-height="19px" align="right" padding-bottom="5px">
+        <a href="#" style="text-decoration:none;color:#fc8233">Download now</a>
+      </mj-text>
+    </mj-column>
+</mj-section>
+<mj-section background-color="#FAFAFA" padding-bottom="0px">
+  <mj-column>
+    <mj-image align="left" padding="0 0 0 25px" width="55px" height="18px" alt="hotels.ng logo" src="http://res.cloudinary.com/dv3ymesru/image/upload/v1524078850/hng-logo.png"></mj-image>
+  	<mj-text color="#828282" font-size="12px" line-height="23px" > Hotels.ng is an online booking agency specialised in hotel booking within nigeria. we market hotels online nd book rooms for clients. we proffer hotel accomodation solution to the people looking for hotels witnin an area or particular city . 
+      we provide them with appropriate hotels that match their budget and expectations. <br/><span style="color: #00AEFF"> Learn more</span>
+</mj-text>
+  <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
+  <mj-text color="#828282" font-size="12px" line-height="16px"> 3, Birrel Avenue, Yaba Lagos. <a href="tel:07008808800" style="text-decoration:none;color:#828282">+234 700 880 8800</a> <br/>
+  
+
+<p>Copyright © 2017 Hotels.ng, All rights reserved. </p>
+
+</mj-text>
+  </mj-column>
+	
+</mj-section>
+         
+     
+
+  </mj-body>
+</mjml>

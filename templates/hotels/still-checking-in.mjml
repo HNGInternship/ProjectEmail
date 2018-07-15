@@ -1,0 +1,376 @@
+<mjml>
+  <mj-head>
+    <mj-title>Still checking in (Hotel)</mj-title>
+    <mj-font name="Lato" href='http://fonts.googleapis.com/css?family=Lato:400,700' />
+    <mj-style >
+      body {
+        width: 100% !important;
+      }
+      
+      .body {
+        padding-top: 16px;
+        width: 600px;
+        background: #ffffff;
+        margin: auto;
+      }
+      
+      .x-padding-0 {
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+      }
+      
+      .apply-padding {
+          padding-left: 50px !important;
+          padding-right: 50px !important;
+      }
+      
+      .body > * {
+        padding-left: 50px;
+        padding-right: 50px;
+        
+      }
+      
+      .text-css {
+        letter-spacing: 3% !important;
+        line-height: 60px !important;
+      }
+      
+      
+      
+      .custom-row > td {
+        padding-left: 50px;
+      }
+      
+      .hng-logo-top-wrapper {
+        text-align: center;
+        padding-left: 0px !important;
+      }
+      
+      .hng-logo-top {
+        width: 116px;
+        height: 39px;
+      }
+      
+      .mobile-show {
+        display: none;
+      }
+      
+      .sub-title {
+        margin-bottom: 17px !important;
+        color: #333333 !important;
+      }
+      
+      .val {
+        font-weight: bold;
+        margin-top: 0px;
+        margin-bottom: 0px;
+      }
+      
+      .lg-align-right {
+          text-align: right;
+        }
+        
+      
+      @media all and (max-width: 600px) {
+        .body {
+          width: 100%;
+        }
+      }
+      
+      
+      @media all and (max-width: 320px) {
+        
+        .body {
+          padding-top: 20px;
+        }
+      
+        .body > * {
+          padding-left: 20px;
+          padding-right: 20px;
+        }
+        
+        .apply-padding {
+          padding-left: 20px !important;
+          padding-right: 20px !important;
+        }
+        
+        .hng-logo-top {
+          width: 76px;
+          height: 25px;
+        }
+        
+        .custom-row > td {
+          padding-left: 20px !important;
+        }
+        
+        .hng-logo-top-wrapper {
+          text-align: left;
+        }
+        
+        .mobile-show {
+          display: block !important;
+        }
+        
+        .large-show {
+          display: none;
+        }
+        
+        .xs-w-100 {
+          width: 100% !important;
+        }
+        
+        .xs-block {
+          display: block;
+        }
+        
+        .lg-align-right {
+          text-align: left !important;
+        }
+        
+        .text-css, .text-css > * {
+          letter-spacing: 3% !important;
+        }
+        
+        .reject > * { display: none !important; }    
+        .accept { width: 100% !important; }
+        .mobile-reject { width: 100% !important; }
+      }
+    </mj-style>
+    <mj-breakpoint width="320px" />
+    <mj-attributes>
+      <mj-text color="#828282" css-class="text-css" font-weight="400" font-size="16px" padding="0px" />
+      <mj-all font-family="Lato, Arial, sans-serif" />
+      <mj-divider padding="0px" border-width="1px" border-color="#BDBDBD" />
+    </mj-attributes>
+  </mj-head>
+  
+  <mj-body css-class="body" >
+    <mj-section>
+      <mj-text align="right" font-size="8.28px" >
+        <a href="" style="color: #4F4F4F;" class="large-show">View in browser</a>
+      </mj-text> 
+    </mj-section> 
+    <mj-table>
+      <tr class="custom-row">
+        <td class="hng-logo-top-wrapper">
+          <img padding="0px" src="https://res.cloudinary.com/dv3ymesru/image/upload/v1524078850/hng-logo.png" alt="hotels.ng logo" class="hng-logo-top" />
+        </td>
+      </tr>
+    </mj-table>
+    <mj-section padding-bottom="0px" padding-top="35px">
+      <mj-column>
+        <mj-text font-size="20px" line-height="24px" font-weight="bold" color="#333333">Client Is Still checking in</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="31px">
+      <mj-column>
+        <mj-text font-size="16px" font-weight="bold" line-height="19px" padding-bottom="5px">
+          Hello Southern Sun Ikoyi Hotel,
+        </mj-text>
+        <mj-text line-height="19px">
+          <span style="font-weight: bold">Mr. Abayomi Abidakum</span> is to check-in to your hotel today. Please reach him to confirm what time he will check-in. If he has already checked in let us know by clicking the button below
+        </mj-text>
+        <mj-divider padding-bottom="10px" padding-top="10px" css-class="mobile-show" border-style="solid" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0px" padding-bottom="0px">
+      <mj-column>
+        <mj-button width="150px" background-color="white" border="1px solid #00AEFF" color="#00AEFF" line-height="15px" font-size="14px" font-weight="500">ALREADY CHECKED IN</mj-button>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section padding-top="0px" padding-bottom="0px"> 
+      <mj-column width="100%" >
+        <mj-text padding-bottom="0px">
+          <p class="sub-title">Booking details</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="0px" padding-top="0px">
+      <mj-column css-class="xs-w-100" width="40%">
+        <mj-text >
+          <p class="sub-title">Guest name</p>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="xs-w-100" width="60%">
+        <mj-text >
+          <p>Mr Abayomi Abidakun</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="0px" padding-top="0px">
+      <mj-column css-class="xs-w-100" width="40%">
+        <mj-text >
+          <p class="sub-title">Hotel Name</p>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="xs-w-100" width="60%">
+        <mj-text >
+          <p>Southern sun ikoyi Hotel (<a href="" style="color: #7C888D">view map</a>)</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="0px" padding-top="0px">
+      <mj-column css-class="xs-w-100" width="40%">
+        <mj-text >
+          <p class="sub-title">Location</p>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="xs-w-100" width="60%">
+        <mj-text >
+          <p>47 Alfred Rewane Road ikoti, Lagos</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="0px" padding-top="0px">
+      <mj-column css-class="xs-w-100" width="40%">
+        <mj-text >
+          <p class="sub-title">Booking ID</p>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="xs-w-100" width="60%">
+        <mj-text color="#00AEFF">
+          <p>1084392023</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section >
+      <mj-column width="100%" >
+        <mj-text padding-bottom="0px">
+          <p class="sub-title">Schedule details</p>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="xs-w-100" width="40%">
+        <mj-text >
+          <p>Check in</p>
+        </mj-text>
+        <mj-text>
+          <p class="val">Thur 17th January</p>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="xs-w-100" width="40%">
+        <mj-text >
+          <p>Check out</p>
+        </mj-text>
+        <mj-text>
+          <p class="val">Tues 22th January</p>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="xs-w-100" width="20%">
+        <mj-text >
+          <p>Guest(s)</p>
+        </mj-text>
+        <mj-text>
+          <p class="val">1</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="100%" >
+        <mj-text css-class="mobile-show">
+          <a href="#" style="margin-top: 13px !important; text-decoration: none; color: #00AEFF;">View details</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0px"> 
+      <mj-column width="100%" >
+        <mj-text padding-bottom="0px">
+          <p class="sub-title">Add-ons</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="100%" >
+        <mj-text padding-bottom="0px">
+          <p>Red wine, Breakfast in bed</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0px">
+      <mj-column width="100%">
+        <mj-text>
+          <p class="sub-title">Payment</p>
+        </mj-text>
+        <mj-divider padding-top="10px" border-style="dashed" />
+      </mj-column>
+      <mj-column css-class="xs-w-100" width="50%">
+        <mj-text>
+          <p>Standard room x 2 nights</p>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="xs-w-100" width="50%">
+        <mj-text>
+          <p class="lg-align-right">&#8358;5,000.00</p>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="xs-w-100" width="50%">
+        <mj-text>
+          <p>Charges</p>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="xs-w-100" width="50%">
+        <mj-text>
+          <p class="lg-align-right">&#8358;550.00</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw >
+     <table bgcolor="#00AEFF" width="100%">
+       <tr width="100%" style="font-family: Lato, Arial; color: white; font-size: 18px;">
+        <td width="50%" class="apply-padding">
+          Total
+        </td>
+        <td width="50%" class="apply-padding" style="text-align: right; padding-top: 7px; padding-bottom: 7px;">
+          &#8358;5,550.00
+        </td>
+      </tr>
+     </table>
+    </mj-raw>
+    <mj-section padding-bottom="0px">
+      <mj-column width="100%">
+        <mj-text line-height="23px">
+          <p>If you require further assistance or want to make changes to the schedule details stated above kindly call us on <a style="color: #828282; font-weight: bold; text-decoration: none" href="tel:07008808800">07008808800</a>.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0px">
+      <mj-column width="100%">
+        <mj-divider padding-top="15px" padding-bottom="15px"  />
+      </mj-column>
+      <mj-column width="50%" css-class="xs-w-100">
+        <mj-text color="#7C888D " font-size="15px " line-height="24px">
+          <p>
+            Best Regards, <br /><strong>Opeyemi Jegede</strong><br />Bookings Team
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%" css-class="xs-w-100">
+        <mj-text color="#7C888D " font-size="15px " line-height="24px ">
+          <p class="lg-align-right">
+            Email: <a href="mailto:opeyemi@hotels.ng" style="color:#00AEFF; font-weight:bold; text-decoration: none;">opeyemi@hotels.ng</a><br />Phone: <a style="color:#00AEFF; font-weight:bold; text-decoration: none;" href="tel:07008808800">0708808800</a>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="x-padding-0" padding-top="0px" padding-bottom="0px">
+      <mj-column padding-left="0px" background-color="rgba(252, 130, 51, 0.29)">
+        <mj-table css-class="apply-padding">
+          <tr style="color: #FC8233;">
+            <td class="xs-block" style="font-size: 9px; font-weight: 500; line-height: 14px;">Sell more rooms and manage your hotel information on multiple OTAs with our Android app</td>
+            <td class="xs-block lg-align-right" style="font-size: 12px; font-weight: 800; line-height: 17px;">Download now</td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fafafa">
+      <mj-column >
+        <mj-image align="left" height="18px" width="55px " padding="0px 0px 8px 0px " src="https://res.cloudinary.com/dv3ymesru/image/upload/v1524078850/hng-logo.png " alt="hotels.ng logo" />
+        <mj-text font-size="12px" line-height="23px">Hotels.ng is an online booking agency specialised in hotel booking within nigeria. we market hotels online nd book rooms for clients. we proffer hotel accomodation solution to the people looking for hotels witnin an area or particular city . we
+          provide them with appropriate hotels that match their budget and expectations.</mj-text>
+        <mj-text color="#00AEFF" font-size="12px" line-height="23px" padding="0px 0px 13px 0px">
+          <a href="#" style="text-decoration: none; color:#00AEFF; font-size:12px">Learn more</a>
+        </mj-text>
+        <mj-divider />
+        <mj-text padding="16px 0px 16px 0px " font-size="12px" line-height="17px">3, Birrel Avenue, Yaba Lagos. +234 700 880 8800</mj-text>
+        <mj-text font-size="12px" padding="0px 0px 16px 0px " line-height="17px">Copyright © 2017 Hotels.ng, All rights reserved. </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
