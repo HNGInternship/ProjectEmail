@@ -1,22 +1,32 @@
 {
   "name": "projectemail",
   "version": "1.0.0",
-  "description": "This is the repo for project email",
+  "description": "Directory for hotels.ng email templates",
   "main": "index.js",
+  "dependencies": {
+    "mjml": "^4.1.0"
+  },
+  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "rmbuild": "rm -rf build",
+    "mkbuild": "mkdir build && mkdir build/{hotels,clients} && mkdir build/clients/{pay_on_arrival,prepaid}",
+    "buildclient": "mjml templates/clients/* --config.minify -o build/clients && mjml templates/clients/prepaid/* --config.minify -o build/clients/prepaid && mjml templates/clients/pay_on_arrival/* --config.minify -o build/clients/pay_on_arrival",
+    "buildhotel": "mjml templates/hotels/* --config.minify -o build/hotels",
+    "build": "npm run rmbuild && npm run mkbuild && npm run buildhotel && npm run buildclient"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/HNGInternship/ProjectEmail.git"
   },
-  "author": "",
+  "keywords": [
+    "email",
+    "mjml"
+  ],
+  "author": "holuborhee",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/HNGInternship/ProjectEmail/issues"
   },
-  "homepage": "https://github.com/HNGInternship/ProjectEmail#readme",
-  "dependencies": {
-    "mjml": "^4.0.3"
-  }
+  "homepage": "https://github.com/HNGInternship/ProjectEmail#readme"
 }
