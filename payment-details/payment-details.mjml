@@ -1,0 +1,264 @@
+<mjml>
+  <mj-head>
+    <mj-title> PAYMENT DETAILS</mj-title>
+    <mj-attributes>
+      <mj-section padding="0px 30px 16px 30px" />
+      <mj-text padding="4px" color="#828282" font-size="16px" line-height="19px" />
+      <mj-divider padding="16px 0px 0px 0px" />
+      <mj-all font-family="Lato, Arial, sans-serif" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#ffffff">
+    <mj-section>
+      <mj-column>
+        <mj-text line-height="10px" color="#4F4F4F" padding="10px 30px" align="right" font-size="8.28px" text-decoration="underline">view in browser</mj-text>
+        <mj-image height="39px" width="116px" alt="Hotels.ng logo"src="http://res.cloudinary.com/dv3ymesru/image/upload/v1524078850/hng-logo.png" align="center" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="20px" font-weight="bold" font-family="Lato" color="#333333" text-transform="capitalize" line-height="24px">Payment breakdown And account details</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="16px" font-weight="bold" color="#828282" line-height="19px">Hello Mr. Abayomi Abidakum,</mj-text>
+        <mj-text color="#828282" line-height="19px" letter-spacing="0.03rem">Thanks for booking <span style="text-decoration:underline;">Southern sun ikoyi Hotel, Ikoyi, Lagos</span> from Friday 18th January - Wednesday 23rd January. You can pay online or through bank transfer to any of our
+          bank accounts listed below.
+        </mj-text>
+        <mj-text color="#7C888D" line-height="19px" letter-spacing="0.03rem">Please ensure to place your booking ID or guest name in the narration field of the bank transfer to help us easily identify your payment.</mj-text>
+        <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section>
+    	<mj-column>
+      	<mj-text color="#333333" font-size="16px" line-height="19px">Payment details</mj-text>
+      </mj-column>
+     </mj-section>
+    <mj-section>
+      <mj-group>
+    	<mj-column>
+      	<mj-text color="#333333" font-size="16px" line-height="19px">Booking ID:</mj-text>
+      </mj-column>
+        <mj-column>
+      	<mj-text color="#828282" font-size="16px" line-height="19px">1084392023</mj-text>
+      </mj-column>
+        </mj-group>
+    </mj-section>
+    <mj-section>
+      <mj-group>
+    	<mj-column>
+      	<mj-text color="#333333" font-size="16px" line-height="19px">Total Amount:</mj-text>
+      </mj-column>
+        <mj-column>
+      	<mj-text color="#828282" font-size="16px" line-height="19px">₦35,000.00</mj-text>
+      </mj-column>
+        </mj-group>
+    </mj-section>
+    
+    <mj-section>
+      <mj-column>
+        <mj-text  color="#828282" font-size="16px" line-height="23px">You can pay online or make a cash deposit into any of the current account numbers below using the Reference above</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-button width="220px" border="1px solid #00AEFF" background-color="transparent" color="#00AEFF" font-size="14px" font-weight="bold">PAY ONLINE</mj-button>
+      </mj-column>
+    </mj-section>
+    
+      	
+      <mj-section>
+        <mj-column>
+        <mj-text font-size="15px" color="#333333">
+        	Account Name:	  <span style="color:#828282; padding-left: 30px" > Hotel Booking Limited</span> 
+        </mj-text>
+        <mj-text font-size="15px" color="#333333">
+        	Account Number:	  <span style="color:#828282; padding-left: 13px" > 1084392023</span> 
+        </mj-text>
+        <mj-text font-size="15px" color="#333333">
+        	Bank Name:	 <span style="color:#828282; padding-left: 52px"> Zenith Bank</span> 
+        </mj-text>
+        <mj-text font-size="15px" color="#333333">
+        	Payment Reference: <span style="color:#00AEFF; padding-left:0px"> 888907</span> 
+        </mj-text>
+    </mj-column>
+  				</mj-section>
+    
+    	<mj-section>
+        <mj-column>
+        <mj-text font-size="15px" color="#333333">
+        	Account Name:	  <span style="color:#828282; padding-left: 30px" > Hotel Booking Limited</span> 
+        </mj-text>
+        <mj-text font-size="15px" color="#333333">
+        	Account Number:	  <span style="color:#828282; padding-left: 13px" > 0127699812</span> 
+        </mj-text>
+        <mj-text font-size="15px" color="#333333">
+        	Bank Name:	 <span style="color:#828282; padding-left: 52px"> GTB Bank</span> 
+        </mj-text>
+        <mj-text font-size="15px" color="#333333">
+        	Payment Reference: <span style="color:#00AEFF; padding-left:0px"> 888907</span> 
+        </mj-text>
+    </mj-column>
+  				</mj-section>
+    
+    <mj-section>
+        <mj-column>
+        <mj-text font-size="15px" color="#333333">
+        	Account Name:	  <span style="color:#828282; padding-left: 30px" > Hotel Booking Limited</span> 
+        </mj-text>
+        <mj-text font-size="15px" color="#333333">
+        	Account Number:	  <span style="color:#828282; padding-left: 13px" > 1017438301</span> 
+        </mj-text>
+        <mj-text font-size="15px" color="#333333">
+        	Bank Name:	 <span style="color:#828282; padding-left: 52px"> UBA Bank</span> 
+        </mj-text>
+        <mj-text font-size="15px" color="#333333">
+        	Payment Reference: <span style="color:#00AEFF; padding-left:0px"> 888907</span> 
+        </mj-text>
+    </mj-column>
+  				</mj-section>
+    
+    	<mj-section>
+        <mj-column>
+        <mj-text font-size="15px" color="#333333">
+        	Account Name:	  <span style="color:#828282; padding-left: 30px" > Hotel Booking Limited</span> 
+        </mj-text>
+        <mj-text font-size="15px" color="#333333">
+        	Account Number:	  <span style="color:#828282; padding-left: 13px" > 1771398490</span> 
+        </mj-text>
+        <mj-text font-size="15px" color="#333333">
+        	Bank Name:	 <span style="color:#828282; padding-left: 52px"> SKYE Bank</span> 
+        </mj-text>
+        <mj-text font-size="15px" color="#333333">
+        	Payment Reference: <span style="color:#00AEFF; padding-left:0px"> 888907</span> 
+        </mj-text>
+    </mj-column>
+  				</mj-section>
+    
+    <mj-section>
+        <mj-column>
+        <mj-text font-size="15px" color="#333333">
+        	Account Name:	  <span style="color:#828282; padding-left: 30px" > Hotel Booking Limited</span> 
+        </mj-text>
+        <mj-text font-size="15px" color="#333333">
+        	Account Number:	  <span style="color:#828282; padding-left: 13px" > 2485307017</span> 
+        </mj-text>
+        <mj-text font-size="15px" color="#333333">
+        	Bank Name:	 <span style="color:#828282; padding-left: 52px"> FCMB Bank</span> 
+        </mj-text>
+        <mj-text font-size="15px" color="#333333">
+        	Payment Reference: <span style="color:#00AEFF; padding-left:0px"> 888907</span> 
+        </mj-text>
+    </mj-column>
+  				</mj-section>
+    
+    <mj-section padding="0px 30px">
+    	<mj-column>
+      	<mj-text color="#333333" font-size="16px" line-height="19px">Foreign Payments</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section>
+        <mj-column>
+        <mj-text font-size="15px" color="#333333">
+        	Account Name:	  <span style="color:#828282; padding-left: 30px" > Hotel Booking Limited</span> 
+        </mj-text>
+        <mj-text font-size="15px" color="#333333">
+        	Account Number:	  <span style="color:#828282; padding-left: 13px" > 5070259590</span> 
+        </mj-text>
+        <mj-text font-size="15px" color="#333333">
+        	Bank Name:	 <span style="color:#828282; padding-left: 52px"> Zenith Bank</span> 
+        </mj-text>
+          <mj-text font-size="15px" color="#333333">
+        	Account Type:	 <span style="color:#828282; padding-left: 39px"> Dollar Account</span> 
+        </mj-text>
+        <mj-text font-size="15px" color="#333333">
+        	Payment Reference: <span style="color:#00AEFF; padding-left:0px"> 888907</span> 
+        </mj-text>
+          <mj-text font-size="15px" color="#333333">
+        	Sort Code:	 <span style="color:#828282; padding-left: 62px"> 057151258</span> 
+        </mj-text>
+          <mj-text font-size="15px" color="#333333">
+        	Swift Code:	 <span style="color:#828282; padding-left: 56px"> ZEIBNGLA</span> 
+        </mj-text>
+    </mj-column>
+  				</mj-section>
+    
+    	
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="16px" color="#828282" line-height="23px">You can call or reply this email as soon as you make payment. If you don't get a confirmation call or email within 30 minutes of making payment, please call 08088980513 or reply this email.</mj-text>
+        <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0">
+      
+      <mj-column width="40%">
+        <mj-text color="#828282" font-size="16px" line-height="24px">Best Regards,<br><strong>Opeyemi Jegede</strong><br>Bookings Team</mj-text>
+      </mj-column>
+      <mj-column width="20%">
+
+      </mj-column>
+      <mj-column width="40%" >
+        <mj-text color="#828282" font-size="16px" line-height="24px" >Email: <span style="color:#00AEFF; font-weight:bold">opeyemi@hotels.ng</span><br/>Phone: <span style="color:#00AEFF; font-weight:bold">09024097111</span> </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="10px 30px" background-color="rgba(0, 174, 255, 0.09)">
+      <mj-column width="80%">
+        <mj-text color="#00AEFF" font-size="9px" line-height="12px">
+        Sell more rooms and manage your hotel information on multiple OTAs with our Android app
+        </mj-text>
+        </mj-column>
+      <mj-column width="20%">
+        <mj-text color="#00AEFF" font-size="12px" line-height="14px" font-weight="bold"> Download now</mj-text>
+        </mj-column>
+        </mj-section>
+    <mj-section padding-top="10px" background-color="#FAFAFA">
+      <mj-column>
+        <mj-image align="left" height="18px" width="55px" padding="0px 0px 0px 4px" src="http://res.cloudinary.com/dv3ymesru/image/upload/v1524078850/hng-logo.png" />
+        <mj-text font-size="12px" color="#828282" line-height="14px">Hotels.ng is an online booking agency specialised in hotel booking within nigeria. we market hotels online nd book rooms for clients. we proffer hotel accomodation solution to the people looking for hotels witnin an area or particular city . we
+          provide them with appropriate hotels that match their budget and expectations.</mj-text>
+        <mj-text color="#00AEFF" font-size="12px">Learn more</mj-text>
+        <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#FAFAFA">
+      <mj-column>
+        <mj-text font-size="12px" color="#333333">On Payments</mj-text>
+        <mj-text font-size="12px" color="#828282" line-height="14px">When paying via bank transfer, please include your booking id or name in the reference. If you don't get a payment confirmation message at least 5 hours after payment, please call our support line (+2347008808800) or email us at reservations@hotels.ng
+        </mj-text>
+        <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#FAFAFA">
+      <mj-column>
+        <mj-text font-size="12px" color="#333333">Late Check-in</mj-text>
+        <mj-text font-size="12px" color="#828282" line-height="14px">Standard check-in time is 12pm - 6pm. Please inform hotels.ng if you'll be checking in late to ensure your reservation is not cancelled by the hotel.
+        </mj-text>
+        <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
+      </mj-column>
+    </mj-section >
+    <mj-section background-color="#FAFAFA">
+      <mj-column>
+        <mj-text font-size="12px" color="#333333">Refunds and Cancellation</mj-text>
+        <mj-text font-size="12px" color="#828282" line-height="14px">Hotels are settled 24 - 48 hours before your check in date. Please endeavour to call or email to cancel before this time. Refunds on cancellations after hotel has been paid may take 3 working days or longer depending on the hotel's policy. Refunds
+          cannot be made on any reservations made on a non-refundable room rate.
+
+        </mj-text>
+        <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#FAFAFA">
+      <mj-column>
+        <mj-text font-size="12px" color="#333333">Reservation & Best Price Guarantee</mj-text>
+        <mj-text font-size="12px" color="#828282" line-height="14px">Prices on the website are discounted especially for prepaid reservations. Some hotels may charge a higher rate at the hotel if you choose to pay on arrival. Once you place a booking, your reservation is secured, and we'll send you a final confirmation
+          on check-in date. However, the hotel reserves the right to cancel your reservation.
+        </mj-text>
+        <mj-divider border-color="#BDBDBD" border-width="1px"></mj-divider>
+        <mj-text font-size="12px" padding="16px 0px 0px 4px" color="#828282">3, Birrel Avenue, Yaba Lagos. +234 700 880 8800</mj-text>
+        <mj-text font-size="12px" color="#828282">Copyright © 2017 Hotels.ng, All rights reserved. </mj-text>
+      </mj-column>
+  </mj-body>
+</mjml>

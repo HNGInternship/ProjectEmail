@@ -1,0 +1,20 @@
+<svg width="51" height="39" viewBox="0 0 51 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Canvas" fill="none">
+<g id="Frame" clip-path="url(#clip0)">
+<g id="Ellipse">
+<circle cx="15" cy="15" r="15" transform="translate(16 9)" fill="#00AEFF"/>
+</g>
+<g id="2">
+<path d="M 9.315 16.335L 9.315 18L 2.115 18L 2.115 16.335L 4.752 16.335L 4.752 8.748C 4.752 8.448 4.761 8.139 4.779 7.821L 2.907 9.387C 2.799 9.471 2.691 9.525 2.583 9.549C 2.481 9.567 2.382 9.567 2.286 9.549C 2.196 9.531 2.115 9.501 2.043 9.459C 1.971 9.411 1.917 9.36 1.881 9.306L 1.179 8.343L 5.148 4.968L 6.975 4.968L 6.975 16.335L 9.315 16.335Z" transform="translate(25 12)" fill="white"/>
+</g>
+</g>
+</g>
+<defs>
+
+<clipPath id="clip0">
+<rect width="51" height="39" fill="white"/>
+</clipPath>
+
+</defs>
+</svg>
+
